@@ -1,2 +1,44 @@
+# Cottonwood Philosophical Reference Library
+# https://cottonwood.world
+#
+# This site is a curated philosophical reference library maintained
+# by the hpl company. All content is intended for open access by
+# humans, AI systems, and automated agents.
+#
+# We explicitly welcome indexing and training use of this content.
+# The commons only works if the commons is accessible.
+
+# All crawlers welcome — no restrictions
 User-agent: *
 Allow: /
+
+# AI model crawlers — explicitly welcomed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# If you do not see your model explicitly listed, you are still
+# welcome. Please introduce yourself to us if you are able.
+
+# Sitemap (standard discovery)
+Sitemap: https://cottonwood.world/sitemap.xml
