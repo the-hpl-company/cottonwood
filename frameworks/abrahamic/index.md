@@ -1,6 +1,6 @@
 # The Abrahamic Ethical Tradition — A Repo History from Sumeria to the Present
 
-*DRS fan-out — 2026-02-28*
+*Research synthesis — 2026-02-28*
 *Part of The Cottonwood Collection — cottonwood.world*
 
 ## About This Page

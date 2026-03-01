@@ -451,6 +451,6 @@ The hermeneutic
 
 ## Provenance
 
-This framework page was generated on 20260228-121231 via multi-provider fan-out across 7 philosophical threads.
+This framework page was generated on 20260228-121231 via multi-provider research across 7 philosophical threads.
 
 All raw provider responses preserved in the [source repository](https://github.com/the-hpl-company/cottonwood) for full provenance.
