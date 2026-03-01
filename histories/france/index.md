@@ -1131,24 +1131,1076 @@ Yet France remains a **laboratory of ethical experimentation**—from **citizens
 
 ---
 
+## The Mystical and Heretical Tradition
+
+France was not only the laboratory of Cartesian reason or the crucible of the Enlightenment. It also harbored, often in the shadows or under repression, a mystical and heretical tradition that shaped its ethics by negation: by refusing compromises, by contesting authority, by seeking God outside of institutions, even by denying the material world as a place of evil. This tradition, both spiritual and political, was sometimes crushed, sometimes repressed, but never entirely erased. It resurfaces in crises, like an underground river that pierces the crust of established dogmas.
+
+---
+
+## **1. The Cathars and the Albigensian Crusade (12th-13th Centuries): Dualistic Ethics and its Annihilation**
+
+### **Catharism: A Radical Ethic**
+Catharism, or the "Albigensian heresy" (named after Albi, one of its centers), is the first major ethical and religious dissent in medieval France. Originating from Bulgarian Bogomilism and spreading in Occitania from the 11th century onwards, it proposes a radically dualistic vision of the world: the material world is the work of the *Demiurge* (an evil god), while the true God, spiritual and good, has nothing to do with creation. This cosmology leads to an ethics of rupture with the world:
+
+- **Rejection of violence**: The *Parfaits* (Cathar clerics) reject all forms of murder, including the death penalty and war. They even refuse to kill animals, practicing strict vegetarianism (some texts mention their horror at the sight of blood).
+- **Equality of the sexes in the clergy**: Unlike the Catholic Church, women can attain the status of *Parfaite* and preach. The *Cathar Ritual of Lyon* (13th-century manuscript, preserved at the Bibliothèque nationale de France, ms. fr. 25405) describes ceremonies in which men and women receive the *consolamentum* (spiritual baptism) on an equal footing.
+- **Rejection of Catholic sacraments**: Marriage, the Eucharist, and the ecclesiastical hierarchy are considered institutions of evil. The *Anonymous Cathar Treatise* (13th century) states: *"Christ never ate bread, nor drank wine, for these things are of this world, and the world is evil."*
+- **Extreme asceticism**: The *Parfaits* live in poverty, fasting, and chastity. Their ideal is to free themselves from the cycle of reincarnations (*metempsychosis*) to rejoin the spiritual realm.
+
+This ethic, although a minority one, appeals to a section of the Occitan nobility (such as Count Raymond VI of Toulouse) and the people of the towns, tired of the abuses of the Catholic clergy.
+
+### **The Albigensian Crusade (1209-1229): The First Internal Genocide**
+Faced with this heresy, the Church and the French monarchy react with systematic violence. In 1208, the assassination of the papal legate Pierre de Castelnau serves as a pretext for a crusade preached by Innocent III. What follows is a war of extermination:
+
+- **The Sack of Béziers (July 22, 1209)**: The crusaders, led by Simon de Montfort, massacre the entire population (20,000 deaths according to the chronicles, including the Cistercian monk Pierre des Vaux-de-Cernay in his *Historia Albigensis*). The phrase attributed to the Abbot of Cîteaux, Arnaud Amaury, summarizes the spirit of the crusade: *"Kill them all, God will recognize his own."*
+- **The Battle of Muret (1213)**: Peter II of Aragon, protector of the Cathars, is killed. The Occitan nobility is decimated.
+- **The Burning of Montségur (1244)**: After a ten-month siege, 200 *Parfaits* are burned alive. The last Cathar stronghold falls.
+
+### **The Inquisition and the Erasure of an Ethical Tradition**
+From 1233, the Inquisition, led by the Dominicans, hunts down the last Cathars. The *Registers of the Inquisition of Toulouse* (1245-1246, Archives nationales) show a bureaucratic machine of terror: interrogations, torture, confiscations of property. The last *Parfaits* take refuge in the caves of the Pyrenees (such as Lombrives) before disappearing in the 14th century.
+
+**What was destroyed**:
+- An ethic of absolute non-violence, rare in medieval Europe.
+- A model of spiritual equality between men and women.
+- A radical critique of property and ecclesiastical power.
+- An Occitan culture (language, poetry of the troubadours) associated with dissent.
+
+Catharism becomes a "repressed ancestor" of France: officially eradicated, but present in the Occitan imagination (as with the poet Frédéric Mistral in the 19th century) and in contemporary neo-Cathar movements (such as the *Cathar Fraternity* founded in 1981).
+
+---
+
+## **2. Rhenish Mysticism in Paris: Meister Eckhart and the Ethics of Detachment**
+
+### **Meister Eckhart in Paris (1302-1303, 1311-1313)**
+The German Dominican Meister Eckhart (c. 1260-1328) teaches twice at the Sorbonne, where his ideas on the union of the soul with God arouse both fascination and mistrust. His sermons in Latin (*Sermones*, edited by Josef Quint) and in German (*Deutsche Predigten*) spread a mysticism of *detachment* (*Gelassenheit*)
+
+> *"Man should be so detached from all things that he can be the place where God acts."* (Sermon 52)
+
+For Eckhart, ethics is not a matter of rules, but of *abandonment*: emptying oneself to let God act. This idea influences Parisian theologians such as **Jean de Paris** and **Durand de Saint-Pourçain**.
+
+### **The Trial and Condemnation (1329)**
+In 1326, the Archbishop of Cologne opens a trial against Eckhart for heresy. Pope John XXII condemns 28 propositions extracted from his works in the bull *In agro dominico* (March 27, 1329). Among the incriminating theses:
+- *"The soul is as noble as God."* (Sermon 9)
+- *"God and I, we are one."* (Sermon 2)
+
+Eckhart dies before the sentence, but his work is partially censored. Nevertheless, his thought survives in French mysticism, notably in **Jean Gerson** (Chancellor of the University of Paris) and later in the Quietists.
+
+**Legacy**:
+- An ethic of *interiority* that heralds modern spirituality.
+- A critique of institutional religion in favor of the direct experience of the divine.
+
+---
+
+## **3. The Spirituals of the 17th Century: Madame Guyon, Fénelon, and Quietism**
+
+### **Madame Guyon (1648-1717): The Ethics of Abandonment**
+Jeanne-Marie Bouvier de La Motte-Guyon, a lay mystic, develops a spirituality of *pure love*: the soul must abandon itself totally to God, without desire for reward or fear of punishment. Her book *A Short and Very Easy Method of Prayer* (1685) becomes a clandestine bestseller.
+
+Her ideas appeal to **Fénelon** (1651-1715), tutor to the Duke of Burgundy and Archbishop of Cambrai, who theorizes them in his *Explanation of the Maxims of the Saints on the Interior Life* (1697).
+
+### **The Quarrel of Pure Love: Fénelon versus Bossuet**
+The Bishop of Meaux, **Jacques-Bénigne Bossuet** (1627-1704), defender of orthodoxy, attacks Quietism in his *Instructions on the States of Prayer* (1697). For him, total abandonment to God negates free will and the necessity of works.
+
+In 1699, Pope Innocent XII condemns 23 propositions by Fénelon in the bull *Cum alias*. Fénelon submits, but the quarrel reveals an ethical fracture:
+- **Bossuet**: ethics of *duty* (obedience to the Church, morality of works).
+- **Fénelon**: ethics of *disinterested love* (abandonment to God, even at the cost of damnation).
+
+### **Quietism as Political Subversion**
+Louis XIV perceives Quietism as a threat:
+- It undermines the authority of the Church (and therefore that of the king, its ally).
+- It encourages individual spirituality outside institutional frameworks.
+- Madame Guyon, imprisoned in the Bastille (1695-1703), embodies female rebellion against male power.
+
+**What is at stake**:
+- An ethic of *passivity* (waiting for God) versus an ethic of *action* (acting for God).
+- A *feminine* spirituality (Guyon) versus a *masculine* theology (Bossuet).
+
+---
+
+## **4. Jansenism: Port-Royal and the Ethics of Grace**
+
+### **Port-Royal: The Laboratory of Moral Conscience**
+Founded in the 12th century, the abbey of Port-Royal-des-Champs (near Paris) becomes in the 17th century the heart of Jansenism, a movement inspired by **Cornelius Jansen** (1585-1638), Bishop of Ypres, whose *Augustinus* (1640) defends a rigorist vision of grace:
+- Man is corrupted by original sin.
+- Only divine grace, *efficacious* and not *sufficient*, can save.
+- Predestination is absolute.
+
+This theology opposes Molinism (the doctrine of free will defended by the Jesuits).
+
+### **Pascal and the Provincial Letters (1656-1657): A Masterpiece of Ethical Critique**
+**Blaise Pascal** (1623-1662), converted to Jansenism, publishes under a pseudonym the *Lettres provinciales* (1656-1657), a fierce attack against the Jesuits and their *laxist* morality (casuistry). He denounces:
+- Probabilism (the doctrine that a probable opinion is sufficient to act morally).
+- The justification of duels, usury, and lying.
+
+> *"They have found a way to justify murder, theft, adultery, and almost all crimes."* (Letter V) (*"Ils ont trouvé le moyen de justifier le meurtre, le vol, l’adultère, et presque tous les crimes."*)
+
+The *Provinciales* are condemned by Rome in 1657, but they mark the history of ethical thought:
+- They introduce *irony* as a philosophical weapon.
+- They oppose a morality of *exigence* to a morality of *compromise*.
+
+### **The Destruction of Port-Royal (1710): A Political Act**
+In 1709, Louis XIV has Port-Royal-des-Champs razed. The last nuns are dispersed in 1710. This destruction is a symbol:
+- Jansenism, although a minority movement, embodies a *resistance* to absolutism.
+- It influences the French Revolution (Robespierre, Saint-Just) through its moral intransigence.
+
+**Jansenist Legacy**:
+- An ethic of *scruple* (the conscience as an internal tribunal).
+- A distrust of institutions (Church, State).
+- A tragic vision of man (corrupted, but capable of greatness).
+
+---
+
+## **5. Simone Weil (1909-1943): Mysticism as an Ethic of Attention**
+
+### **A Life Between Mysticism and Commitment**
+Simone Weil, philosopher and mystic, embodies the bridge between French heretical traditions and modernity. Born into an agnostic Jewish family, she converts to Christianity without ever being baptized, out of solidarity with non-Christians.
+
+Her major works:
+- *Gravity and Grace* (1947, posthumous): a collection of notes on misfortune, beauty, attention.
+- *The Need for Roots* (1949): an essay on duties towards human beings.
+
+### **The Factory Experience (1934-1935): A Mystical Discipline**
+Weil works as a factory worker at Alsthom and Renault to understand oppression. She describes this experience as a *descent into hell* that reveals the truth of misfortune to her:
+
+> *"Misfortune is a pulverization of the soul by the brutal mechanics of circumstances."* (*La Condition ouvrière*, 1951)
+
+For her, mysticism is not an escape, but an *attention* to reality, including in its suffering.
+
+### **The Refusal of Baptism: Fidelity to the Excluded**
+Weil refuses baptism out of solidarity with non-Christians, especially persecuted Jews. She writes:
+
+> *"I cannot separate myself from those who are outside the Church."* (Letter to a religious, 1942) (*"Je ne peux pas me séparer de ceux qui sont hors de l’Église."*)
+
+This position makes her a heretic in the eyes of the Church, but also a figure of *political mysticism*.
+
+### **Weil as a Synthesis of French Traditions**
+- **Catharism**: rejection of the material world as a place of evil (she speaks of *"decreation"*).
+- **Jansenism**: ethics of exigency and scruple.
+- **Quietism**: abandonment to God, but without passivity (she engages in the Spanish Civil War in 1936).
+- **Existentialism**: man is defined by his actions, not by his nature.
+
+---
+
+## **6. The Mystical Resurgence in Crises**
+
+The French mystical and heretical tradition does not disappear: it resurfaces in moments of rupture, when institutional reason falters.
+
+### **May '68: Mysticism as Revolt**
+- The Situationists (Guy Debord) speak of *"détournement"* (diversion) and *"dérive"* (drift), concepts close to Eckhartian *abandonment*.
+- Neo-rural communities (such as **Larzac**) mix ecology and alternative spirituality.
+- **Georges Bataille** (*Inner Experience*, 1943) explores an atheist mysticism, close to Weil.
+
+### **The Yellow Vests (2018-2019): A Popular Mysticism?**
+- Roundabouts become places of *communion* outside institutions.
+- Figures like **Étienne Chouard** or **Juan Branco** invoke a *"mystical democracy"*, close to the Cathar ideal of equality.
+- The rejection of the media and elites recalls the Jansenist distrust of power.
+
+### **French Mysticism Today: Between New Age and Return to Catholicism**
+- **The New Age**: a mixture of Eastern spiritualities and Western mysticism (as in **Pierre Teilhard de Chardin**).
+- **The return to traditional Catholicism**: traditionalist communities (Society of Saint Pius X) reject Vatican II in the name of an *intransigent* mysticism.
+- **Alternative spiritualities**: neo-paganism, shamanism, deep ecology (as in **Pierre Rabhi**).
+
+**Who is absent?**
+- Women (except for exceptions like Guyon or Weil) are often erased from official history.
+- The working classes (mystics are often nobles or bourgeois).
+- Non-Christians (Jews, Muslims, atheists) are rarely integrated into this tradition.
+
+---
+
+## **Conclusion: A Tradition of Dissent**
+The French mystical and heretical tradition is a *counter-history*:
+- It refuses compromises (Jansenism).
+- It contests power (Catharism, Quietism).
+- It seeks God outside institutions (Rhenish mysticism, Weil).
+- It links ethics and politics (Port-Royal, May '68).
+
+This tradition is not a monolithic bloc, but a set of contradictory currents, sometimes violent (the Albigensian Crusade), sometimes peaceful (Quietism). It survives because it answers a need: to give meaning to misfortune, to resist oppression, to find God where the Churches do not seek him.
+
+As Simone Weil wrote:
+> *"Attention is the rarest and purest form of generosity."* (*Gravity and Grace*) (*"L’attention est la forme la plus rare et la plus pure de la générosité."*)
+
+This is perhaps the most lasting legacy of this tradition: an ethic of attention, which looks at the world not to dominate it, but to understand it – and sometimes, to save it.
+
+---
+
+## Women's Ethical Thought
+
+The French ethical tradition was not written by women, but it was not written *without* them either. Their contribution, often marginalized, erased, or reduced to secondary roles (muses, letter writers, *salonnières* [hostesses of salons]), nevertheless shaped conceptual frameworks, critical methods, and moral practices that have spanned the centuries. This section traces the specific contributions of women to ethical reflection in France, emphasizing their texts, their institutions, their internal conflicts, and the mechanisms of their invisibilization.
+
+---
+
+## **1. Christine de Pizan (1364–1430): The Founding of a Feminist Ethic Through Historical Example**
+
+### **The *City of Ladies* (1405): A Moral Counter-History**
+Christine de Pizan, widowed at 25 and mother of three children, became the first woman in Europe to live by her pen. Her major work, *Le Livre de la Cité des Dames* (1405, BnF manuscript, Fr. 607), is a direct response to the misogynistic attacks of her time, notably those of *Les Lamentations de Matheolus* (13th century) and the *Roman de la Rose* (Jean de Meun, 1275).
+
+**Method**: Pizan constructs an allegorical city where virtuous, heroic, or learned women of the past (Semiramis, Dido, Sappho, Christian saints) serve as foundations. She uses **reasoned compilation** – a scholastic method she subverts to legitimize women as moral subjects. Each example is accompanied by an ethical commentary:
+> *"If women had no understanding, how could they have governed kingdoms and cities so wisely?"* (*City of Ladies*, I, 11) (*« Si les femmes n’avaient point d’entendement, comment eussent-elles pu gouverner si sagement les royaumes et les cités ? »*)
+
+**Ethical Innovation**:
+- **Virtue as competence**: Pizan rejects the idea that women are morally inferior by nature. She shows that their exclusion from education and power is a social construct.
+- **Feminine authority**: She cites historical and biblical sources to prove that women have always been capable of wisdom and governance.
+
+### **The *Book of the Three Virtues* (1406): A Practical Ethic for Women**
+This treatise, also called *Treasure of the City of Ladies*, is a conduct manual intended for women of all conditions (princesses, bourgeois women, peasant women). Pizan develops a **situational ethic**:
+- **For princesses**: Political prudence and charity.
+- **For bourgeois women**: Household management and child education.
+- **For peasant women**: Patience and resilience.
+
+**Internal Tension**: Pizan defends women while reproducing certain stereotypes (the woman as guardian of the home). She does not question the social order, but she expands the possibilities for women within it.
+
+**Posterity**: Her work is widely disseminated (more than 20 manuscripts preserved), but it is quickly eclipsed by the humanist Renaissance, dominated by men like Erasmus. She would be rediscovered in the 19th century by feminists, notably by **Marie de Gournay** (1565–1645), who edited Montaigne's *Essays* and wrote *Equality of Men and Women* (1622).
+
+---
+
+## **2. The *Précieuses* and the *Salonnières* (17th–18th Centuries): The Ethics of Conversation as Moral Practice**
+
+### **The *Salon*: A Feminine Ethical Institution**
+Unlike the Académie Française (founded in 1635, exclusively male), the *salons* of the 17th and 18th centuries were spaces where women **defined the rules of discourse**. The most famous:
+- **Catherine de Rambouillet (1588–1665)**: Her *salon* at the *Hôtel de Rambouillet* (1608–1650) imposed an ideal of **civility** and **refined language**.
+- **Marie de Rabutin-Chantal, Marquise de Sévigné (1626–1696)**: Her *Letters* (published after her death, 1725–1754) transformed letter writing into a literary genre and a tool for moral analysis.
+- **Marie de Vichy-Chamrond, Marquise du Deffand (1697–1780)**: Her *salon* (1749–1780) welcomed Voltaire and D'Alembert. She theorized **conversation as a moral art**:
+  > *"Conversation is the only pleasure that never tires."* (Letter to Horace Walpole, 1766) (*« La conversation est le seul plaisir qui ne lasse point. »*)
+
+### **The *Précieuses*: An Ethic of Language Against Male Brutality**
+The **précieuses** (literally, "precious women") movement (1650s–1660s) was an attempt to **reform morals through language**. They invented neologisms to avoid crude terms (*"carrosse"* [carriage] for *"chaise"* [chair], *"commodité de la conversation"* [convenience of conversation] for *"chaise percée"* [chamber pot]).
+
+**Why did Molière ridicule them?** In *The Affected Young Ladies* (1659) and *The Learned Ladies* (1672), Molière mocked their affectation, but he mainly revealed their **threat**:
+- They **control access to symbolic power** (men must please to be admitted to the *salons*).
+- They **challenge male domination** by refusing forced marriage (*The Princess of Clèves*, 1678, by Madame de Lafayette, is a novelistic illustration of this).
+
+**Exclusion**: Women of the people (servants, peasant women) are absent from these circles. The *précieuses* defend an **aristocratic**, not a universal, ethic.
+
+---
+
+## **3. Olympe de Gouges (1748–1793): The Ethics of Rights as an Intersectional Struggle**
+
+### **The *Declaration of the Rights of Woman and the Female Citizen* (1791): A Counter-Declaration**
+In response to the *Declaration of the Rights of Man and of the Citizen* (1789), Olympe de Gouges wrote a text **article by article**, in which she demanded legal and political equality for women.
+
+**Key Examples**:
+- **Article 1**: *"Woman is born free and remains equal to man in rights."*
+- **Article 6**: *"The law must be the expression of the general will; all female and male Citizens must contribute personally, or through their representatives, to its formation."*
+- **Article 10**: *"Woman has the right to mount the scaffold; she must equally have the right to mount the Tribune."*
+
+**Ethical Innovation**:
+- **Universalism as inclusion**: Gouges shows that the "rights of man" are actually the **rights of white property-owning men**.
+- **Women's bodies as a political issue**: She addresses divorce, motherhood outside marriage, and prostitution as moral questions.
+
+### **Anti-Slavery: An Ethic Ahead of Its Time**
+Gouges was also a **radical abolitionist**. In *Slavery of the Blacks* (1792), she denounced the *Code Noir* (Black Code) and demanded immediate emancipation:
+> *"Liberty is a natural right; slavery is a crime against humanity."* (*« La liberté est un droit naturel ; l’esclavage est un crime contre l’humanité. »*)
+
+**Her Execution (November 3, 1793)**: Condemned for having defended Louis XVI and criticized Robespierre, her death is an **ethical event**. She embodies the repression of women who dare to speak in public.
+
+**Posterity**: Long forgotten, she was rediscovered by feminists in the 1970s (notably **Gisèle Halimi**). Today, the Place Olympe-de-Gouges (Paris, 3rd arrondissement) bears her name.
+
+---
+
+## **4. George Sand (1804–1876): The Ethics of Individual Freedom Against Conventions**
+
+### **Indiana (1832): Marriage as an Immoral Institution**
+In this novel, Sand attacks bourgeois marriage, which she describes as a **moral prison**:
+> *"Marriage is an institution that makes woman a slave and man a tyrant."* (*« Le mariage est une institution qui fait de la femme une esclave et de l’homme un tyran. »*)
+
+**Ethical Themes**:
+- **Adultery as resistance**: Indiana, forced into marriage, seeks true love.
+- **Critique of colonialism**: Her husband, Delmare, is a violent former colonist.
+
+### **Political Engagement (1848): A Republican Ethic**
+Sand supported the **Second Republic** and wrote in *La Cause du peuple* (The Cause of the People). She defended:
+- **Education for women** (*Histoire de ma vie* [Story of My Life], 1855).
+- **The right to divorce** (she herself divorced in 1836, a rare thing at the time).
+
+### **Correspondence with Flaubert: An Ethical Dialogue**
+In their letters (1866–1876), Sand and Flaubert debated **art and morality**:
+- **Sand**: *"Art must be useful, it must improve people."* (*« L’art doit être utile, il doit améliorer les hommes. »*)
+- **Flaubert**: *"Art must be gratuitous, without morality."* (*« L’art doit être gratuit, sans morale. »*)
+
+**Cost of Freedom**: Sand lived openly with lovers (Chopin, Musset), wore masculine clothing, and smoked a pipe. She was **insulted** (*"the Breton cow"*, *"the bluestocking"*), but she refused to submit.
+
+---
+
+## **5. Simone de Beauvoir (1908–1986): Gender as an Ethical Category**
+
+### **The *Second Sex* (1949): "One Is Not Born, But Rather Becomes, a Woman"**
+Beauvoir applies **existentialist phenomenology** (Sartre, *Being and Nothingness*, 1943) to the condition of women. She shows that **femininity is a social construct**:
+> *"One is not born, but rather becomes, a woman. No biological, psychological, or economic destiny defines the figure that the human female assumes in society."* (*Le Deuxième Sexe*, Introduction) (*« On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine. »*)
+
+**Ethical Innovations**:
+- **The "situation" of women**: Their oppression is not natural, but historical.
+- **Alienation**: Women internalize their inferiority (*"the eternal feminine"*).
+- **Liberation**: Through work, economic autonomy, and sisterhood.
+
+**Reception**: The book was **condemned by the Vatican** (1956) and criticized by communists (who saw it as a "bourgeois diversion"). However, it became a **founding text of modern feminism**.
+
+### *The Ethics of Ambiguity* (1947): Existentialist Ethics in the Feminine
+Beauvoir develops a **morality of freedom**:
+- **Ambiguity**: Man is both subject and object, free and limited.
+- **Responsibility**: One is responsible for one's choices, even in oppression.
+
+**Internal Tension**: Beauvoir theorizes freedom, but her relationship with Sartre is **asymmetrical** (she accepts his infidelities, manages his "little ones" like Bianca Lamblin).
+
+### *Old Age* (1970): An Ethic of Aging
+Beauvoir shows that old age is a **social construct**:
+> *"Old age is a scandal, because it reveals that the body is not eternal."* (*« La vieillesse est un scandale, car elle révèle que le corps n’est pas éternel. »*)
+
+She denounces **ageism** and demands **moral recognition** of the elderly.
+
+---
+
+## **6. Contemporary Theorists: "French Feminism" and Its Tensions**
+
+### **Hélène Cixous (*The Laugh of the Medusa*, 1975): *Écriture féminine* (women's writing)**
+Cixous invented the concept of **"*écriture féminine*"** (women's writing):
+> *"To write, for a woman, is to recover that body that phallogocentrism has repressed."* (*« Écrire, pour une femme, c’est retrouver ce corps que le phallogocentrisme a refoulé. »*)
+
+**Themes**:
+- **Feminine *jouissance* (sexual pleasure, ecstasy) as a subversive force.
+- **Deconstruction of patriarchal language**.
+
+### **Luce Irigaray (*Speculum of the Other Woman*, 1974): Sexual Difference**
+Irigaray criticizes Freud and Lacan for their **phallocentrism**. She proposes an **ethic of difference**:
+> *"Woman is not a failed man, but another subjectivity."* (*« La femme n’est pas un homme manqué, mais une autre subjectivité. »*)
+
+### **Julia Kristeva (*Powers of Horror*, 1980): Abjection**
+Kristeva explores the **boundaries of the subject** (the body, illness, death) and shows how society rejects what disturbs it.
+
+### **"French Feminism": A Problematic Term**
+In the United States, Cixous, Irigaray, and Kristeva are grouped under the label **"French feminism"**, but:
+- **In France**, they are **little read** in militant feminist circles (too theoretical, too far removed from concrete struggles).
+- **They are criticized** for their essentialism (Cixous) or their abstraction (Irigaray).
+
+### **The Deneuve Letter (2018): French Feminism Facing #MeToo**
+In January 2018, **Catherine Deneuve** and 99 other women signed a column in *Le Monde* to denounce **"hatred of men"** and defend **"the freedom to importune"**. This letter reveals a **major tension**:
+- **A universalist feminism** (Beauvoir) vs. **a differentialist feminism** (Irigaray).
+- **The fear of the Americanization** of feminist struggles.
+
+---
+
+## **7. The Forgotten: Women Erased from Ethical History**
+
+### **Flora Tristan (1803–1844): Feminism and Socialism**
+- *Worker's Union* (1843): First manifesto for the **rights of female workers**.
+- *"The emancipation of women will be the work of women themselves."* (*« L’émancipation des femmes sera l’œuvre des femmes elles-mêmes. »*)
+
+**Why forgotten?** Her socialism disturbs bourgeois feminists, and her feminism disturbs Marxists.
+
+### **Hubertine Auclert (1848–1914): The Radical Suffragist**
+- Founded the journal *La Citoyenne* (The Citizen) (1881).
+- Organized the **first illegal female vote** (1880).
+- Invented the term **"feminism"** (1882).
+
+**Why forgotten?** Universal suffrage (1944) is attributed to de Gaulle, not to the suffragists.
+
+### **Louise Michel (1830–1905): The Anarchist *Communarde***
+- Figure of the **Paris Commune** (1871).
+- Defended **free and secular education** for girls.
+- *"The revolution will be feminist or it will not be."* (*« La révolution sera féministe ou ne sera pas. »*)
+
+**Why forgotten?** Official history retains the men of the Commune (Vallès, Blanqui).
+
+### **Madeleine Pelletier (1874–1939): Doctor, Feminist, Abortion Rights Activist**
+- **First female psychiatrist** in France.
+- *The Woman Struggling for Her Rights* (1908): Plea for abortion and contraception.
+- *"Feminism is not a question of sex, but of justice."* (*« Le féminisme n’est pas une question de sexe, mais de justice. »*)
+
+**Why forgotten?** Her atheism and her radicalism are disturbing.
+
+---
+
+## **Conclusion: An Ethical Tradition in Permanent Tension**
+
+The ethical thought of women in France is **both radical and fragmented**:
+- **Radical**: It challenges the foundations of patriarchal morality (Pizan, Gouges, Beauvoir).
+- **Fragmented**: It is traversed by conflicts (universalism vs. differentialism, theory vs. activism).
+
+**What unites these women**:
+1. **The use of reason against prejudice** (Pizan, Beauvoir).
+2. **The creation of alternative spaces** (*salons*, journals, novels).
+3. **The link between ethics and politics** (Gouges, Sand, Tristan).
+
+**What divides them**:
+- **Strategies**: Reform the system (Sand) or overthrow it (Michel)?
+- **Targets**: Marriage (Sand), the Church (Auclert), language (Cixous)?
+
+**What erases them**:
+- **Institutionalization**: Universities and academies remain masculine until the 20th century.
+- **Recuperation**: Some are celebrated (Beauvoir), others forgotten (Pelletier).
+- **Internal hierarchies**: Bourgeois women (Sévigné, Sand) dominate the narrative, working-class women (Tristan) and colonized women (no black voices before the 1970s) are absent from it.
+
+**To go further**:
+- **Primary Sources**:
+  - Christine de Pizan, *Le Livre de la Cité des Dames* (1405), éd. Pocket, 2000.
+  - Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne* (1791), éd. Mille et une nuits, 2018.
+  - Simone de Beauvoir, *Le Deuxième Sexe* (1949), éd. Gallimard, 1986.
+  - Hélène Cixous, *Le Rire de la Méduse* (1975), éd. Galilée, 2010.
+- **Studies**:
+  - Geneviève Fraisse, *La Raison des femmes* (1992), Plon.
+  - Michelle Perrot, *Les Femmes ou les silences de l’histoire* (1998), Flammarion.
+  - Joan Scott, *La Citoyenne paradoxale* (1996), Albin Michel.
+
+---
+
+## The Ethics of Science
+
+France has forged a complex and often contradictory relationship between science, ethics, and power. This tradition, far from being linear, oscillates between the utopia of progress, distrust of its excesses, and the temptation of the State as a moral regulator. It is built through foundational disputes, encyclopedic projects, eugenic drifts, bioethics laws, and technopolitical choices with weighty consequences. Here are its key moments, with their tensions, omissions, and legacies.
+
+---
+
+## **1. The Quarrel of the Ancients and the Moderns (1687-1694): Scientific Progress Against the Authority of Tradition**
+
+### **The context: the Royal Academy of Sciences and the legitimacy of the new**
+In 1666, Colbert founded the **Académie royale des sciences** (Royal Academy of Sciences), an institution that embodies Louis XIV's desire to make France a beacon of knowledge. But this ambition comes up against a central question: **is the new superior to the old?** The quarrel broke out in 1687 when **Charles Perrault** (1628-1703), architect and academician, read his poem *Le Siècle de Louis le Grand* to the Academy, in which he affirmed the superiority of the Moderns over the Ancients. **Boileau**, an uncompromising defender of Antiquity, responded violently. The debate goes beyond literature: it engages the very legitimacy of scientific progress.
+
+### **Fontenelle: science as emancipation**
+**Bernard Le Bovier de Fontenelle** (1657-1757), perpetual secretary of the Académie des sciences from 1699 to 1740, embodies the modern position. In his *Entretiens sur la pluralité des mondes* (Conversations on the Plurality of Worlds) (1686), he popularized the theories of Copernicus and Galileo by presenting them in the form of gallant dialogues. His approach is **pedagogical and subversive**:
+> *"Je vous demande pardon, Madame, de vous avoir menée si loin dans le ciel ; mais vous voyez bien que je n’ai pu m’empêcher de vous y conduire."* ("I beg your pardon, Madam, for having led you so far into the sky; but you can see that I couldn't help but lead you there.") (First Evening)
+Fontenelle does not simply expose knowledge: he **democratizes access to reason**. For him, science is not reserved for scholars but must enlighten all minds, including those of women – a daring act at a time when the University was closed to them.
+
+### **Perrault: progress as accumulation**
+In his *Parallèle des Anciens et des Modernes* (Parallels Between the Ancients and the Moderns) (1688-1697), **Charles Perrault** systematizes the modernist argument. He compares the arts, sciences, and techniques of the two eras and concludes that the Moderns are superior:
+> *"Nous avons sur eux l’avantage de les avoir eus pour maîtres, et de pouvoir profiter de leurs lumières."* ("We have the advantage over them of having had them as masters, and of being able to profit from their insights.") (Volume I, 1688)
+For Perrault, progress is **cumulative**: each generation builds on previous discoveries. This vision, which will influence the Enlightenment, lays the foundations for an **ethic of progress** – but also for a sometimes-blind confidence in human perfectibility.
+
+### **The limits of the debate: who is excluded?**
+- **Women**: Fontenelle includes them in his audience, but they remain excluded from scientific institutions (the Académie des sciences did not open its doors to them until 1979).
+- **The people**: science remains an elite knowledge, even if Fontenelle simplifies access to it.
+- **The colonies**: the quarrel ignores non-European knowledge. French science is built as **universal**, but in reality, it is **Eurocentric**.
+
+**Why is this debate foundational?**
+It poses the question that will run through all French scientific ethics: **should science be at the service of power (as under Louis XIV) or at the service of human emancipation (as the Enlightenment will want)?**
+
+---
+
+## **2. The *Encyclopédie* (1751-1772): An Ethical Project Before Being a Scientific One**
+
+### **Diderot and d’Alembert: making knowledge accessible is a political act**
+The *Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers* (*Encyclopedia, or a Systematic Dictionary of the Sciences, Arts, and Crafts*) (1751-1772), directed by **Denis Diderot** (1713-1784) and **Jean Le Rond d'Alembert** (1717-1783), is much more than a sum of knowledge: it is an **ethical and subversive project**. In his *Discours préliminaire* (Preliminary Discourse) (1751), d'Alembert writes:
+> *"Le but d’une Encyclopédie est de rassembler les connaissances éparses sur la surface de la terre ; d’en exposer le système général aux hommes avec qui nous vivons, et de le transmettre aux hommes qui viendront après nous."* ("The purpose of an Encyclopedia is to gather the knowledge scattered over the face of the earth; to present its general system to the men with whom we live, and to transmit it to the men who will come after us.")
+The ambition is **democratic**: to break the monopoly of clerics and academies on knowledge.
+
+### **The technical plates: dignifying manual labor**
+The *Encyclopédie* contains **2,885 engraved plates** illustrating trades (blacksmiths, weavers, watchmakers, etc.). For Diderot, describing this know-how is to **recognize the dignity of manual labor**, despised by the aristocracy. In the article *"Art"*, he writes:
+> *"Les arts mécaniques, qui ont pour objet les besoins de la vie, sont les plus nécessaires, et cependant ce sont ceux qu’on estime le moins."* ("The mechanical arts, which have as their object the necessities of life, are the most necessary, and yet they are the least esteemed.")
+This valorization of the technical prefigures an **ethics of work** that will later influence Saint-Simonism and socialism.
+
+### **Censorship: proof that knowledge is dangerous**
+The *Encyclopédie* is **banned twice** (1752 and 1759). The royal power and the Church see it as a threat:
+- **Political**: it disseminates subversive ideas (criticism of absolutism, religion).
+- **Social**: by giving access to knowledge, it threatens traditional hierarchies.
+Diderot must publish clandestinely. **Science, as soon as it leaves the cabinets of scholars, becomes a matter of power.**
+
+### **Who is absent from the *Encyclopédie*?**
+- **Women**: only a few marginal authors (such as **Émilie du Châtelet**, translator of Newton) are cited.
+- **Non-European knowledge**: the *Encyclopédie* ignores the knowledge of Native Americans, Africans, or Asians, deemed "primitive."
+- **The people**: despite its democratic ambition, the work remains expensive and inaccessible to the working classes.
+
+**Ethical legacy of the *Encyclopédie***
+It lays the foundations for an **ethics of the diffusion of knowledge**:
+1. **Knowledge must be accessible** (a principle taken up by Wikipedia, MOOCs, etc.).
+2. **Technique is a noble knowledge** (influence on vocational education).
+3. **Science is a tool of liberation, but also of control** (hence the need to regulate it).
+
+---
+
+## **3. Auguste Comte and Positivism (1830-1857): Science as the Religion of Humanity**
+
+### **The *Course of Positive Philosophy* (1830-1842): the law of three stages**
+**Auguste Comte** (1798-1857), former secretary of Saint-Simon, develops in his *Cours de philosophie positive* (Course of Positive Philosophy) a **scientistic and progressivist** vision of history. He expounds the **law of three stages**:
+1. **The theological stage** (supernatural explanations).
+2. **The metaphysical stage** (abstract explanations, such as the "Nature" of the Enlightenment).
+3. **The positive stage** (scientific explanations, based on observation and experience).
+
+For Comte, **science must replace religion** as the foundation of morality. He writes:
+> *"Savoir pour prévoir, afin de pouvoir."* ("Knowledge for foresight, in order to be able.") (*Cours de philosophie positive*, 1830)
+This formula summarizes his ethics: science is not neutral, it must **serve to organize society**.
+
+### **The Religion of Humanity: when science becomes cult**
+In his later years, Comte radicalized his thinking and founded the **Religion of Humanity** (1847), with:
+- A **positivist calendar** (replacing saints with great men: Homer, Archimedes, Shakespeare...).
+- **Rites** (cult of the dead, civic festivals).
+- A **priestly hierarchy** (scientists as new clerics).
+
+This **scientistic** drift shows the limits of positivism: **can science found a morality without becoming dogmatic?**
+
+### **The worldwide influence of positivism**
+- **In Brazil**: the motto *"Ordem e Progresso"* (Order and Progress) on the Brazilian flag comes from Comte.
+- **In Mexico**: 19th-century liberals (like **Gabino Barreda**) were inspired by it to modernize education.
+- **In France**: positivism influences **Émile Durkheim** (sociology as a positive science) and **the Republicans** (secular school, meritocracy).
+
+### **The limits of positivism: what it cannot see**
+1. **The irrational**: Comte rejects psychoanalysis (Freud) and the unconscious.
+2. **The limits of science**: he ignores the ethical questions posed by technology (pollution, weapons...).
+3. **Imperialism**: positivism justifies colonization in the name of "progress."
+
+**Why does Comte remain important?**
+He poses a question that is still relevant today: **can science be the foundation of a just society, or must ethical limits be imposed on it?**
+
+---
+
+## **4. Claude Bernard and the Ethics of Experimentation (1865): Method as Moral Discipline**
+
+### **The *Introduction to the Study of Experimental Medicine* (1865): science as rigor**
+**Claude Bernard** (1813-1878), physiologist and member of the Académie des sciences, published in 1865 his *Introduction à l’étude de la médecine expérimentale* (Introduction to the Study of Experimental Medicine), a foundational text of the **experimental method**. For him, science is not only an accumulation of knowledge but a **moral discipline**:
+> *"Le savant complet est celui qui embrasse à la fois la théorie et la pratique expérimentale."* ("The complete scientist is one who embraces both theory and experimental practice.") (Introduction, §1)
+Bernard insists on:
+- **The necessity of doubt** (rejection of dogmas).
+- **The importance of experience** (against speculation).
+- **The neutrality of the scientist** (he must observe without prejudice).
+
+### **Animal experimentation: Bernard, founder and target**
+Bernard is a pioneer of **vivisection** (experimentation on living animals). He justifies this practice in the name of medical progress:
+> *"La science de la vie est un salon superbe et lumineux auquel on ne peut arriver que par une cuisine."* ("The science of life is a superb and luminous salon that can only be reached through a kitchen.") (*Leçons sur les phénomènes de la vie*, 1878)
+But this position raises **ethical objections**:
+- **His wife and daughter** become anti-vivisection activists.
+- **Victor Hugo** criticizes him violently in *Les Châtiments* (The Punishments) (1853):
+  > *"Vivisecteur! bourreau! tu fais le bien par le mal!"* ("Vivisector! Executioner! You do good through evil!")
+
+### **The beginnings of research ethics**
+Bernard lays the foundations for a **scientific deontology**:
+1. **Consent** (even if, in his time, it did not apply to animals).
+2. **Transparency** (experiments must be reproducible).
+3. **Medical purpose** (science must serve humanity).
+
+**Controversial legacy**
+- **For**: Bernard has enabled major advances (understanding diabetes, digestion...).
+- **Against**: his defense of vivisection has opened the way to abuses (Nazi experiments, animal testing).
+
+---
+
+
+**Main sources cited in this part:**
+- Fontenelle, *Entretiens sur la pluralité des mondes* (1686), GF-Flammarion.
+- Perrault, *Parallèle des Anciens et des Modernes* (1688-1697), Slatkine Reprints.
+- Diderot & d’Alembert (dir.), *Encyclopédie* (1751-1772), ed. critique de Robert Darnton.
+- Comte, *Cours de philosophie positive* (1830-1842), GF-Flammarion.
+- Bernard, *Introduction à l’étude de la médecine expérimentale* (1865), Garnier-Flammarion.
+
+---
+
+## The Ethics of War
+
+*A history of the moral ideas produced around the fact of war, from medieval chivalry to contemporary asymmetric warfare*
+
+---
+
+## **1. Chivalry and the Ethics of Just War (11th–15th Centuries): Constraining Feudal Violence**
+
+### **The Peace and Truce of God: The Church Attempts to Limit Private Warfare**
+In the 11th century, feudalism was a system of decentralized violence. Lords waged private wars (*faides*), plundered peasants and churches. Faced with this anarchy, the Church launched two movements to regulate warfare:
+- **The Peace of God** (from 989, Council of Charroux): prohibited violence against non-combatants (clergy, peasants, merchants) under penalty of excommunication.
+- **The Truce of God** (from 1027, Council of Toulouges): prohibited combat from Wednesday evening to Monday morning, then during Advent and Lent.
+
+**Primary Sources:**
+- *Canons of the Council of Charroux* (989), in *Histoire des conciles* (ed. Hefele-Leclercq, vol. IV, 1911).
+- *Decretum Gratiani* (c. 1140), *Causa XXIII*: "War is just if it is declared by legitimate authority, for a just cause, and with a right intention."
+
+**Internal Tensions:**
+- These measures were often ignored. Lords continued their raids (e.g., the *routiers* in the 14th century).
+- The Church itself organized wars (crusades) while claiming to limit violence.
+
+---
+
+### **The Crusades: "Holy" War and its Justifications**
+The First Crusade (1096–1099) was preached by Pope Urban II at the Council of Clermont (1095): "God wills it!" (*Deus vult*). War became a means of redeeming sins.
+
+**Bernard of Clairvaux and the Ethics of the Crusade (1136)**
+In *De laude novae militiae* (*In Praise of the New Knighthood*, 1136), Bernard justified the Templars, a religious military order:
+> "The knight of Christ gives death safely and receives it still more safely. [...] He fights without fear, because he knows that the death he inflicts is for the profit of Christ, and the death he receives, for his own."
+
+**Ethical Problems:**
+- **Violence against civilians**: The Sack of Jerusalem (1099) saw the massacre of Muslims and Jews.
+- **Material drift**: The crusades became expeditions of pillage (e.g., the Sack of Constantinople in 1204 by the Fourth Crusade).
+
+---
+
+### **The Hundred Years' War (1337–1453): The End of Chivalric Ethics**
+French chivalry, obsessed with honor and single combat, was crushed by English archers (battles of **Crécy, 1346**; **Poitiers, 1356**; **Agincourt, 1415**).
+
+**Primary Sources:**
+- *Chronicles* of Jean Froissart (1370–1400): describes chivalry as a declining ideal.
+- *L'Arbre des batailles* by Honorat Bovet (1387): the first French treatise on the law of war, influenced by Giovanni da Legnano's *De bello* (1360).
+
+**Ethical Mutation:**
+- War was no longer a duel between nobles, but a matter of state and tactics.
+- Mercenaries (*Grandes Compagnies*) became the norm, sowing terror in the countryside.
+
+---
+
+## **2. Joan of Arc (1412–1431): Individual Conscience Against the Institution**
+
+### **The Trial of 1431: An Ethical Document**
+Joan was captured by the Burgundians (allies of the English) in 1430 and handed over to Bishop **Pierre Cauchon**, who organized her trial for heresy (1431).
+
+**Ethical Issues:**
+- **Obedience to God vs. obedience to the Church**: Joan claimed to receive her orders directly from Saint Michael, Saint Catherine, and Saint Margaret. The Church demanded that she submit to its authority.
+- **The legitimacy of the king**: Joan recognized Charles VII as King of France, against English claims. For the English, she was a heretic who threatened the political order.
+
+**Key Quote (May 24, 1431):**
+> *"Whether I am in the grace of God, I know not; but I pray God that He may put me in it."*
+— *Procès de condamnation de Jeanne d’Arc* (ed. Pierre Tisset, 1960). (*“Quant à savoir si je suis en état de grâce, je n’en sais rien ; mais je prie Dieu de m’y mettre.”*)
+
+**Execution and Rehabilitation:**
+- Burned alive in Rouen on **May 30, 1431**.
+- Rehabilitated in **1456** by Pope Callixtus III (trial of nullity instigated by Charles VII).
+
+---
+
+### **Joan of Arc as an Ethical Paradigm: Recoveries and Contradictions**
+| **Current**          | **Interpretation**                                                                 | **Associated Figures**               |
+|----------------------|-----------------------------------------------------------------------------------|-------------------------------------|
+| **Nationalism**     | Joan as a symbol of French resistance against foreigners.               | Charles Péguy (*Jeanne d’Arc*, 1897), Marine Le Pen (Front National). |
+| **Catholicism**     | Joan as a saint (canonized in 1920) and model of piety.                      | Catholic Church, Paul Claudel (*Jeanne au bûcher*, 1939). |
+| **Feminism**        | Joan as a woman who defies gender norms.                                | Christine de Pizan (*Ditié de Jeanne d’Arc*, 1429), Simone de Beauvoir. |
+| **Socialism**       | Joan as a figure of the people in arms against oppression.                      | Jean Jaurès (*Histoire socialiste de la Révolution française*, 1901). |
+| **Anticlericalism** | Joan as a victim of the Church.                                                | Voltaire (*La Pucelle d’Orléans*, 1762), Anatole France (*Vie de Jeanne d’Arc*, 1908). |
+
+**Silences and Exclusions:**
+- The voices of common women (like **Jeanne des Armoises**, who claimed to be Joan after 1436) are erased.
+- The ordinary soldiers who fought alongside her (e.g., **La Hire**, **Xaintrailles**) are forgotten in favor of the myth.
+
+---
+
+## **3. The Napoleonic Wars (1792–1815): Total War and the Citizen-Soldier**
+
+### **The *Levée en Masse* (1793): Ethical Rupture**
+On **August 23, 1793**, the Convention decreed the **levée en masse** (mass conscription):
+> *"From this moment until the time when the enemies have been driven from the territory of the Republic, all Frenchmen are in permanent requisition for the service of the armies."*
+— *Décret de la Convention nationale*, Archives parlementaires, vol. 72, p. 413. (*« Dès ce moment jusqu’à celui où les ennemis auront été chassés du territoire de la République, tous les Français sont en réquisition permanente pour le service des armées. »*)
+
+**Ethical Consequences:**
+- **War is no longer the business of nobles**: the soldier is a citizen, and victory is a national matter.
+- **War becomes ideological**: France exports the ideals of 1789 (liberty, equality) by force of arms.
+
+---
+
+### **Napoleon: War as an Instrument of Civilization**
+Napoleon justified his conquests by the diffusion of the **Civil Code** (1804):
+> *"My true glory is not to have won forty battles; Waterloo will erase the memory of so many victories. What nothing will erase, what will live eternally, is my Civil Code."*
+— *Mémorial de Sainte-Hélène* (Las Cases, 1823). (*« Ma vraie gloire n’est pas d’avoir gagné quarante batailles ; Waterloo effacera le souvenir de tant de victoires. Ce que rien n’effacera, ce qui vivra éternellement, c’est mon Code civil. »*)
+
+**Ethical Problems:**
+- **Conscription**: 2.8 million Frenchmen were forcibly enlisted between 1800 and 1815.
+- **Wars of liberation become wars of conquest**: Spain (Peninsular War, 1808–1814), Russia (1812).
+- **Slavery reinstated**: Napoleon reinstated slavery in 1802 (abolished in 1794), provoking the Haitian Revolution (1804).
+
+---
+
+### **Clausewitz and the Response to Napoleon**
+Carl von Clausewitz, a Prussian officer, wrote *On War* (1832) in reaction to Napoleon:
+> *"War is an act of violence intended to compel our opponent to fulfill our will."*
+— *De la guerre*, Book I, ch. 1. (*« La guerre est un acte de violence destiné à contraindre l’adversaire à exécuter notre volonté. »*)
+
+**Influence in France:**
+- French strategists (Foch, Joffre) adopted his theory of **absolute war**, but struggled to apply his maxim: *"War is the continuation of politics by other means."* (*« La guerre est la continuation de la politique par d’autres moyens. »*)
+
+---
+
+## **4. The Great War (1914–1918): Ethics Faced with Industrial Horror**
+
+### **Verdun (1916): The Place of Ethical Memory**
+Verdun became the symbol of **sacrificial absurdity**:
+- **300 days of battle**, **300,000 deaths** (163,000 French, 143,000 Germans).
+- General **Pétain** organized the rotation of troops ("**They shall not pass!**"), but at the cost of moral exhaustion.
+
+**Literary Sources:**
+- **Henri Barbusse**, *Le Feu* (1916):
+  > *"War is hell. But it's an organized, methodical hell, where you die cleanly, without knowing why."* (*« La guerre, c’est l’enfer. Mais c’est un enfer organisé, méthodique, où l’on meurt proprement, sans savoir pourquoi. »*)
+- **Louis-Ferdinand Céline**, *Voyage au bout de la nuit* (1932):
+  > *"One is a virgin of Horror as one is a virgin of voluptuousness."* (*« On est puceau de l’Horreur comme on est puceau de la volupté. »*)
+
+---
+
+### **The Mutinies of 1917: Ethical Refusal**
+In **May–June 1917**, **40,000 soldiers** mutinied after the failure of the Nivelle Offensive. They refused to go to the front line, but **did not desert**.
+
+**Repression:**
+- **554 death sentences**, **49 executions** (including that of **Private Lucien Bersot**, shot for refusing to wear blood-stained trousers).
+- **Pétain** replaced Nivelle and improved the living conditions of the soldiers (leave, food).
+
+**Ethical Interpretation:**
+- The mutineers were **neither cowards nor traitors**: they refused a useless death, but remained faithful to the fatherland.
+- **Jean Norton Cru**, *Témoins* (1929): a critical analysis of war stories, denouncing heroic propaganda.
+
+---
+
+### **War Memorials: Ethics Materialized**
+Each commune in France erected a **war memorial** after 1918. Two models predominated:
+1. **The heroic *poilu* (WWI French soldier)** (e.g., monument of **Péronne**, Somme).
+2. **The widow and the orphan** (e.g., monument of **Verdun**).
+
+**Silences:**
+- The **soldiers shot as an example** (approximately 600) are excluded from the monuments.
+- The **colonials** (200,000 Senegalese, Malagasy, Indochinese riflemen) are rarely mentioned.
+
+---
+
+## **5. Vichy, the Resistance, and the Collaboration (1940–1944): Ethics Torn Apart**
+
+### **The Ethics of Collaboration: Pétain and the "National Revolution"**
+On **July 10, 1940**, the National Assembly voted full powers to Marshal Pétain. His speech of **June 17, 1940**:
+> *"It is with a heavy heart that I tell you today that we must cease fighting. [...] I give France the gift of my person to alleviate its misfortune."*
+
+**Ethical Justifications:**
+- **"France Alone"**: Pétain blamed the Republic, the Jews, and the Freemasons.
+- **The "National Revolution"**: "Work, Family, Fatherland" replaced "Liberty, Equality, Fraternity."
+
+**Acts:**
+- **Statute on Jews** (October 1940, June 1941): exclusion of Jews from the civil service, *numerus clausus* (quota).
+- **Vel' d'Hiv Roundup** (July 16–17, 1942): **13,000 Jews** arrested by the French police.
+
+---
+
+### **The Ethics of the Resistance: de Gaulle, Moulin, and the CNR**
+**The Appeal of June 18, 1940** (de Gaulle, BBC):
+> *"The flame of French resistance must not be extinguished and will not be extinguished."*
+
+**Jean Moulin** (1943): unified the resistance movements under de Gaulle's authority. Arrested and tortured by Klaus Barbie, he died without speaking.
+
+**The Program of the CNR (National Council of the Resistance) (March 15, 1944):**
+- **Purge** of collaborators.
+- **Social Security** and **nationalizations** (inspired by the National Council of the Resistance).
+
+---
+
+### **The Righteous Among the Nations: The Ethics of Rescue**
+France has **4,150 Righteous Among the Nations** (out of 28,000 worldwide), who saved Jews at the risk of their lives.
+
+**Examples:**
+- **Le Chambon-sur-Lignon** (Haute-Loire): a Protestant village that hid **5,000 Jews**.
+- **Abbé Pierre**: hid Jews in his monastery.
+
+**Silences:**
+- **The "indifferent"**: the majority of French people **neither resisted nor collaborated**, but survived.
+- **The forgotten victims**: the **Roma**, the **homosexuals**, the **disabled** (Aktion T4 program).
+
+---
+
+### **The War of Épuration (1944–1945): Shaved Women**
+At the Liberation, **20,000 women** were shaved for "horizontal collaboration" (relationships with Germans).
+
+**Fabrice Virgili**, *La France « virile »* (2000):
+> *"The shaving is a gendered punishment: men collaborators are shot, women are publicly humiliated."*
+
+**Contradictions:**
+- **Double standard**: men who collaborated economically (e.g., **Louis Renault**) are less punished.
+- **Extrajudicial violence**: **9,000 summary executions** in 1944–1945.
+
+---
+
+## **6. The Colonial Wars: Algeria and the Ethical Crisis (1954–1962)**
+
+### **Indochina (1946–1954): Defeat and Silence**
+**Diên Biên Phu (May 7, 1954)**: **15,000 French soldiers** were encircled and crushed by the Việt Minh.
+
+**Ethical Consequences:**
+- **The end of the French Empire in Asia**.
+- **Silence on crimes**: torture, napalm (used from 1950), massacres of civilians (e.g., **Mỹ Trạch massacre**, 1947).
+
+---
+
+### **Algeria (1954–1962): Torture and the Nameless War**
+**The Battle of Algiers (1957)**: General **Massu** used torture (electricity, water, rape) to dismantle the FLN.
+
+**Henri Alleg**, *La Question* (1958):
+> *"I was strapped to a plank, my feet higher than my head. Water was poured into my nostrils. [...] I thought I was going to die."*
+
+**Intellectual Reactions:**
+| **Figure**       | **Position**                                                                 | **Work**                          |
+|------------------|-----------------------------------------------------------------------------|------------------------------------|
+| **Jean-Paul Sartre** | Justifies anti-colonial violence.                                        | Preface to *The Wretched of the Earth* (Fanon, 1961). |
+| **Albert Camus** | Condemns torture, but refuses Algerian independence.                | *Algerian Chronicles* (1958).  |
+| **Frantz Fanon** | Violence is necessary to liberate the colonized.                        | *The Wretched of the Earth* (1961).   |
+
+---
+
+### **The Harkis and the *Pieds-Noirs*: The Forgotten of History**
+- **The *harkis*** (150,000 Algerians who fought for France): **60,000 to 80,000** were massacred after 1962. The survivors were confined to camps in France (e.g., **Rivesaltes camp**).
+- **The *pieds-noirs*** (1 million European settlers): expelled from Algeria, they felt betrayed by de Gaulle.
+
+**Benjamin Stora**, *La Gangrène et l’Oubli* (1991):
+> *"The Algerian War was a nameless war, because France never wanted to recognize that it was waging a war."* (*« La guerre d’Algérie a été une guerre sans nom, parce que la France n’a jamais voulu reconnaître qu’elle menait une guerre. »*)
+
+---
+
+## **7. Terrorism and Memory (2000–Present): War in the City**
+
+### **The Attacks of 2015: "Je Suis Charlie" and Its Limits**
+**January 7–9, 2015**: attacks against *Charlie Hebdo* (12 dead) and the Hyper Cacher (4 dead).
+**November 13, 2015**: Bataclan attacks (130 dead).
+
+**Ethical Reactions:**
+- **"Je Suis Charlie"**: slogan of solidarity with freedom of expression.
+- **Criticisms**:
+  - **Tariq Ramadan**: *"Freedom of expression has limits when it hurts believers."*
+  - **Édouard Louis**: *"France mourns its white dead, but ignores the dead in the suburbs."*
+
+---
+
+### **Samuel Paty (2020): The War of Values**
+On **October 16, 2020**, Professor **Samuel Paty** was beheaded by an Islamist for showing caricatures of Muhammad in a moral and civic education class.
+
+**Ethical Debate:**
+- **Laïcité** (secularism) **vs. respect for the sacred**: should caricatures be taught in the name of freedom of expression?
+- **The school as a battlefield**: Paty's assassination was an attack against the school institution.
+
+**Jean-Michel Blanquer** (Minister of Education):
+> *"The school is the last bastion against obscurantism."*
+
+**Didier Fassin** (*La Force de l’ordre*, 2011):
+> *"Laïcité has become a weapon of cultural warfare."* (*« La laïcité est devenue une arme de guerre culturelle. »*)
+
+---
+
+### **The State of Emergency: An Ethical Regime?**
+Since 2015, France has been living under a **state of emergency** (2015–2017) and then under an **anti-terrorism law** (2017).
+
+**Controversial Measures:**
+- **House arrest** without trial.
+- **Administrative searches** (3,600 in 2015–2016).
+- **Fichier S** (S-File) (20,000 people monitored).
+
+**Giorgio Agamben** (*State of Exception*, 2003):
+> *"The state of emergency is the normal paradigm of government in modern democracies."*
+
+---
+
+## **Conclusion: An Ethics of War in Permanent Crisis**
+The French intellectual tradition on war is **tragic**:
+- It oscillates between **heroism** (Joan of Arc, de Gaulle) and **horror** (Verdun, Algeria).
+- It is **deeply contradictory**: France has both **invented human rights** and **practiced colonial torture**.
+- It is **haunted by its silences**: the soldiers shot in 1917, the *harkis*, the victims of state terrorism.
+
+**Open Question:**
+Can France still produce an ethics of war that is **universalizable**, or is it condemned to repeat its contradictions?
+
+---
+
+### **Key Primary Sources (in chronological order)**
+1. *Canons of the Council of Charroux* (989).
+2. Bernard of Clairvaux, *De laude novae militiae* (1136).
+3. *Procès de condamnation de Jeanne d’Arc* (1431), ed. Pierre Tisset, 1960.
+4. Decree of the *levée en masse* (August 23, 1793), *Archives parlementaires*, vol. 72.
+5. Napoleon, *Mémorial de Sainte-Hélène* (Las Cases, 1823).
+6. Henri Barbusse, *Le Feu* (1916).
+7. Declaration of Pétain (June 17, 1940), *Journal officiel*.
+8. Program of the CNR (March 15, 1944).
+9. Henri Alleg, *La Question* (1958).
+10. Frantz Fanon, *Les Damnés de la terre* (1961).
+11. Benjamin Stora, *La Gangrène et l’Oubli* (1991).
+12. *Law No. 2017-1510 reinforcing internal security and the fight against terrorism* (October 30, 2017).
+
+---
+
+### **For Further Reading (Secondary Works)**
+- **Philippe Contamine**, *La Guerre au Moyen Âge* (1980).
+- **Stéphane Audoin-Rouzeau**, *Combattre. Une anthropologie historique de la guerre moderne* (2008).
+- **Henry Rousso**, *Le Syndrome de Vichy* (1987).
+- **Benjamin Stora**, *La Guerre d’Algérie expliquée à tous* (2012).
+- **Gilles Kepel**, *Terreur dans l’Hexagone* (2015).
+
+---
+
+## The Ethics of the Body
+
+In France, the body has never been a simple biological matter. It is a political battleground, an aesthetic object, a moral issue, a site of power and resistance. From the Middle Ages to the present day, reflection on the body has been embedded in institutions, rituals, texts, and concrete struggles. It is both a theory and a practice, a discipline and a revolt.
+
+This section traces the broad outlines of this tradition, emphasizing its internal tensions, exclusions, and transformations. The body is always situated: that of the king, the witch, the worker, the athlete, the patient, the demonstrator. It is never neutral.
+
+---
+
+## **1. The Medieval Body: Sanctity, Suffering, and Repression**
+
+### **1.1. The King's Two Bodies: Political Theology and Incarnation of Power**
+The theory of the *two bodies of the king*, popularized by the historian Ernst Kantorowicz (*The King's Two Bodies*, 1957), has its roots in French legal and theological thought of the Middle Ages. It distinguishes between:
+- **The natural body** (mortal, subject to disease and corruption).
+- **The political body** (immortal, embodying the continuity of the State).
+
+This distinction emerges in the *Grandes Chroniques de France* (13th century) and is formalized in the writings of the legal scholars of Philippe le Bel (early 14th century). The jurist **Pierre Flote**, in his pleadings for the king, insists on the fact that *"the king never dies"* (*"Le roi ne meurt jamais"*). (*"The king is dead, long live the king!"* becomes a ritual formula after 1422).
+
+**Primary source:**
+- *Les Établissements de Saint Louis* (circa 1270), where the king is presented as *"vicar of God on earth"*.
+- **Jean de Terrevermeille**, *Tractatus de jure futuri successoris legitimi* (1419), which theorizes the perpetuity of royal power.
+
+**Internal tension:**
+This sacralization of the royal body conflicts with the reality of weak or sick kings (like Charles VI, known as *"the Mad"*, whose madness calls into question the idea of an invulnerable political body).
+
+---
+
+### **1.2. Relics: The Fragmented Body as an Object of Devotion**
+The medieval body is also a body **dismembered and venerated**. Relics – bones, blood, objects that have touched saints – are at the heart of popular piety and ecclesiastical power.
+
+**Concrete examples:**
+- **The Sainte Ampoule** (containing the sacred oil used for the coronation of the kings of France in Reims, since Clovis).
+- **The Shroud of Turin** (although its authenticity is debated, it has been venerated since the 14th century).
+- **The relics of Sainte Geneviève** (patron saint of Paris), whose body is displayed during processions to ward off epidemics.
+
+**Primary source:**
+- **Guillaume Durand**, *Rationale divinorum officiorum* (1286), which theologically justifies the cult of relics.
+
+**Exclusion:**
+The bodies of heretics (Cathars, Waldensians) and Jews are excluded from this sacralization. Their corpses are often burned or desecrated.
+
+---
+
+### **1.3. The *Imitatio Christi*: The Suffering Body as an Ethical Model**
+Medieval Christianity values **bodily suffering** as a path to salvation. The *imitatio Christi* (imitation of Christ) becomes a spiritual ideal, particularly through:
+- **The flagellants** (a movement that appeared in the 13th century, popularized during the Black Death).
+- **Mystics** such as **Hildegard of Bingen** (*Scivias*, 1141-1151) or **Catherine of Siena** (*Le Dialogue*, 1378), who describe bodily ecstasies.
+- **Mendicant orders** (Franciscans, Dominicans), who advocate poverty and mortification of the flesh.
+
+**Primary source:**
+- **Thomas a Kempis**, *The Imitation of Jesus Christ* (circa 1418), a medieval bestseller that profoundly influences French spirituality.
+
+**Internal tension:**
+This valorization of suffering contradicts the rise of university medicine (School of Montpellier, 12th century), which seeks to heal rather than glorify pain.
+
+---
+
+### **1.4. The Witch's Body: Disciplining the Female Body**
+Between the 15th and 17th centuries, **30,000 to 60,000 people** (mostly women) were executed for witchcraft in Europe. In France, trials multiplied after the publication of the *Malleus Maleficarum* (*The Hammer of Witches*, 1486) by the inquisitors **Heinrich Kramer and Jacob Sprenger**.
+
+**Mechanisms of repression:**
+- **The body as evidence**: search for the *"devil's mark"* (spots, growths).
+- **Torture**: water, fire, and boots were used to extort confessions.
+- **Public execution**: burning at the stake, hanging, drowning.
+
+**Emblematic example:**
+- **Trial of Joan of Arc** (1431): her body is accused of being possessed (she wears men's clothing, defying gender norms).
+- **Affair of the possessed of Loudun** (1634): the Ursulines are accused of witchcraft, their bodies are subjected to public exorcisms.
+
+**Primary source:**
+- **Jean Bodin**, *De la démonomanie des sorciers* (1580), which justifies the persecution of witches in the name of social order.
+
+**Exclusion:**
+Men are in the minority among the accused (about 20%), but poor, single, or elderly women are overrepresented. The female body is perceived as **more vulnerable to diabolical temptation**.
+
+---
+
+## **2. The Classical Body (17th-18th Centuries): Machine, Spectacle, and Subversion**
+
+### **2.1. Louis XIV and the Académie Royale de Danse: The Body as a Political Instrument**
+In **1661**, Louis XIV founded the **Académie Royale de Danse** (Royal Academy of Dance), the first institution in the world dedicated to the training of dancers. The body is **disciplined, codified, politicized**.
+
+**Political functions of dance:**
+- **Social hierarchy**: the steps and positions reflect the order of the court.
+- **Propaganda**: Louis XIV stages himself in ballets (such as *Le Ballet de la Nuit*, 1653, where he embodies the *Sun King*).
+- **Control of the nobles**: dance forces them to submit to Versailles etiquette.
+
+**Primary source:**
+- **Raoul-Auger Feuillet**, *Chorégraphie, ou l’art de décrire la danse* (1700), the first treatise on movement notation.
+
+**Internal tension:**
+This bodily discipline conflicts with the libertine ideal, which advocates the liberation of the senses.
+
+---
+
+### **2.2. Descartes: The Body-Machine**
+In his *Traité de l’homme* (Treatise on Man) (published posthumously in **1664**), **René Descartes** proposes a **mechanistic view of the body**:
+> *"I suppose the body to be nothing else but a statue or machine made of earth."*
+
+For Descartes, the body functions like a clock, according to physical laws. The soul (the *res cogitans*) is distinct from the body (*res extensa*).
+
+**Ethical consequences:**
+- **Desacralization of the body**: it is no longer the temple of the soul, but a machine.
+- **Development of experimental medicine** (influence on the work of **Harvey** on blood circulation).
+
+**Primary source:**
+- **Descartes**, *Les Passions de l’âme* (The Passions of the Soul) (1649), where he analyzes emotions as movements of the *"animal spirits"*.
+
+**Exclusion:**
+This vision ignores the **social and symbolic** dimensions of the body (the body of the poor, the sick, the woman).
+
+---
+
+### **2.3. Libertinism: An Ethic of Bodily Transgression**
+Faced with Versailles discipline and Christian morality, **libertinism** (in the philosophical and erotic sense) proposes an **ethic of pleasure**.
+
+**Major figures:**
+- **Cyrano de Bergerac** (*Histoire comique des États et Empires de la Lune*, 1657): imagining a body freed from earthly constraints.
+- **Crébillon fils** (*Le Sopha*, 1742): satire of aristocratic morals.
+- **Marquis de Sade** (*La Philosophie dans le boudoir*, 1795): radicalization of transgression, where the body becomes an object of domination.
+
+**Primary source:**
+- **Choderlos de Laclos**, *Les Liaisons dangereuses* (Dangerous Liaisons) (1782), where the body is a battlefield between seduction and manipulation.
+
+**Internal tension:**
+Libertinism remains a **class privilege** (nobility, enlightened bourgeoisie). The bodies of servants and peasants are excluded from this liberation.
+
+---
+
+### **2.4. The Body in Salons: Gestures, Toilette, and Conversation**
+The salons of the 18th century (such as that of **Madame Geoffrin** or **Julie de Lespinasse**) imposed **strict bodily codes**:
+- **The toilette** [personal grooming ritual]: wigs, makeup, perfumes (the body must be **made up, perfumed, controlled**).
+- **Gestures**: etiquette manuals (such as *Les Règles de la bienséance et de la civilité chrétienne* (The Rules of Decorum and Christian Civility) by **Jean-Baptiste de La Salle**, 1703) dictate postures.
+- **Conversation**: the body must be **expressive but measured** (neither laugh too loudly nor gesticulate).
+
+**Exclusion:**
+Women are subject to stricter standards than men (prohibition of talking about politics, obligation of modesty).
+
+---
+
+## **3. The Revolutionary Body: Violence, Equality, and Sacrifice**
+
+### **3.1. The Guillotine: Equality Before Death**
+Invented by **Doctor Joseph-Ignace Guillotin** (who proposed in **1789** a mode of execution that was *"quick and painless"*), the guillotine became the symbol of the **egalitarian Republic**.
+
+**Ethical function:**
+- **Democratization of death**: no more privileges for nobles (beheading with a sword) or commoners (hanging).
+- **Political spectacle**: executions are public (Place de la Révolution, now Place de la Concorde).
+
+**Emblematic example:**
+- **Execution of Louis XVI** (January 21, 1793): his body is **beheaded, displayed, then thrown into a common grave** (unlike the previous kings, buried in Saint-Denis).
+
+**Primary source:**
+- **Journal de la Montagne** (1793), which describes executions as *"lessons in republican virtue"*.
+
+---
+
+### **3.2. The Body of the Citizen-Soldier: The *Levée en Masse* (1793)**
+The Revolution invented **compulsory military service** (law of **August 23, 1793**):
+> *"All Frenchmen are in permanent requisition for the service of the armies."*
+
+**Consequences:**
+- **Militarization of the male body**: the soldier becomes a civic ideal.
+- **Exclusion of women**: they are confined to the roles of *"passive citizens"* (Olympe de Gouges, author of the *Déclaration des droits de la femme et de la citoyenne* (Declaration of the Rights of Woman and of the Female Citizen), 1791, was guillotined in 1793).
+
+**Primary source:**
+- **Lazare Carnot**, *Rapport sur la levée en masse* (Report on the Mass Levy) (1793), which theorizes total mobilization.
+
+---
+
+### **3.3. The Suffering Body: Marat in His Bathtub (David, 1793)**
+**Jacques-Louis David** paints *The Death of Marat* (1793) as a **revolutionary *pietà***:
+- Marat, assassinated by Charlotte Corday, is represented **naked, pale, bathing in his blood**.
+- His body becomes a **symbol of sacrifice for the Republic**.
+
+**Primary source:**
+- **Letter from David to the Convention** (1793): *"I wanted to paint a man who dies for his country."* (*"J’ai voulu peindre un homme qui meurt pour la patrie."*)
+
+**Exclusion:**
+The bodies of the **massacred *fédérés*** [revolutionary volunteers] (such as those of the **Vendée revolt**) are erased from revolutionary memory.
+
+---
+
 ## Known Gaps and Limitations
 
-This page is incomplete. The following are known gaps we have not yet addressed:
+This page is incomplete. Five new sections have been added (The Mystical and Heretical Tradition, Women's Ethical Thought, The Ethics of Science, The Ethics of War, The Ethics of the Body), but significant gaps remain:
 
 - **The Wars of Religion (1562-1598)** — The St. Bartholomew's Day Massacre (1572), the Edict of Nantes (1598), and its Revocation (1685) are the most important ethical events between the medieval period and the Enlightenment. The Huguenot diaspora reshaped Protestant ethics across Europe. This entire century is missing.
 - **Occitan, Basque, Breton, Alsatian, and Corsican traditions** — France's internal linguistic and cultural minorities have their own ethical genealogies that were suppressed by Parisian centralization. The Vergonha (shame campaign against Occitan), Breton language suppression, and the ongoing Corsican autonomy movement are absent.
 - **France d'outre-mer** — Reunion, Guadeloupe, Martinique, French Guiana, New Caledonia, French Polynesia. The DOM-TOM territories carry distinct ethical traditions shaped by slavery, indenture, and ongoing colonial relationships. Aime Cesaire (Martinique) appears in passing but his *Discourse on Colonialism* (1950) deserves full treatment as does Edouard Glissant's *Poetics of Relation*.
 - **The Code Noir (1685)** — Mentioned once but not analyzed. The legal framework governing enslaved people in French colonies is one of the most important ethical documents in French history and deserves dedicated treatment alongside the Declaration of Rights of Man.
-- **Indochina and the First Vietnam War (1946-1954)** — Dien Bien Phu, Ho Chi Minh's relationship to French Enlightenment thought, the ethical dimensions of France's Asian empire are largely absent. The Algerian War is well covered; Indochina is not.
+- **Indochina and the First Vietnam War (1946-1954)** — Now introduced in the Ethics of War section, but Ho Chi Minh's relationship to French Enlightenment thought and the broader ethical dimensions of France's Asian empire deserve fuller treatment.
 - **French West and Equatorial Africa** — Leopold Sedar Senghor's Negritude, the tirailleur senegalais, Francafrique as neocolonial ethical framework, the CFA franc. France's African relationships are the largest gap in the colonial coverage.
 - **The Montaigne tradition** — Montaigne's *Essais* (1580) and the invention of the personal essay as ethical form. His essay "Of Cannibals" is arguably the first sustained ethical critique of European colonialism. His absence from the Enlightenment thread is notable.
 - **French labor and anarchist traditions** — Proudhon ("property is theft"), the syndicalist movement, the CGT, May 1968 as ethical rupture. The gilets jaunes section exists but lacks the deeper genealogy of French working-class ethical thought.
 - **Jewish intellectual tradition in France** — Beyond Dreyfus, the French Jewish philosophical tradition (Levinas is covered, but Rashi, the medieval Talmudic commentator who worked in Troyes, is absent, as is the broader Franco-Jewish ethical lineage).
-- **French Catholic social teaching** — The worker-priest movement, Mounier's personalism, the JOC (Jeunesse Ouvriere Chretienne), Simone Weil's mystical ethics. Catholic ethical thought after the medieval period is underrepresented.
+- **French Catholic social teaching** — The Mystical and Heretical Tradition section now covers Jansenism, Quietism, and Simone Weil, but the worker-priest movement, Mounier's personalism, and the JOC (Jeunesse Ouvriere Chretienne) remain unaddressed.
 
 If you can help fill these gaps, the [source repository](https://github.com/the-hpl-company/cottonwood) is open.
 
 ---
 
-*Generated by the Cottonwood Research System — 6 threads, 24 total responses across 4 providers.*
-*Raw provider responses preserved in the [source repository](https://github.com/the-hpl-company/cottonwood) for full traceability.*
+*Generated by [The HPL Company](https://hplcompany.com?utm_source=cottonwood&utm_medium=reference&utm_campaign=france-history). Raw provider responses preserved in the [source repository](https://github.com/the-hpl-company/cottonwood) for full traceability.*
