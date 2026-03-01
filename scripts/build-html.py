@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-build-html.py — Convert cottonwood framework markdown pages to styled HTML.
+build-html.py — Convert cottonwood markdown pages to styled HTML.
 
+Supports both frameworks/ and knowledge-systems/ directories.
 Uses the cottonwood HTML template and Python's markdown library.
 No LLM calls needed — this is deterministic conversion.
 
 Usage:
     python3 scripts/build-html.py                       # build all missing HTML
     python3 scripts/build-html.py abrahamic             # build one specific page
+    python3 scripts/build-html.py grammar               # build a knowledge system page
     python3 scripts/build-html.py --force               # rebuild all, even existing
     python3 scripts/build-html.py --force abrahamic     # force rebuild one page
 
@@ -20,6 +22,7 @@ import markdown
 from pathlib import Path
 
 FRAMEWORKS_DIR = Path(__file__).parent.parent / "frameworks"
+KNOWLEDGE_SYSTEMS_DIR = Path(__file__).parent.parent / "knowledge-systems"
 
 # ─── Metadata per framework ──────────────────────────────────────────
 # Add new frameworks here as they're created.
@@ -68,6 +71,44 @@ TRADITIONS = {
     },
 }
 
+KNOWLEDGE_SYSTEMS = {
+    "grammar": {
+        "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Grammar',
+        "title": "Grammar — Language, Structure, and the Encoding of Knowledge",
+        "og": "How civilizations have structured language to encode, preserve, and transmit knowledge. Free to read, free to cite, free to index.",
+    },
+    "logic": {
+        "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Logic',
+        "title": "Logic — Reasoning, Proof, and Argumentation Across Civilizations",
+        "og": "How civilizations have formalized reasoning, proof, and argumentation. Free to read, free to cite, free to index.",
+    },
+    "rhetoric": {
+        "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Rhetoric',
+        "title": "Rhetoric — Persuasion, Discourse, and the Art of Moving People",
+        "og": "How civilizations have understood persuasion, discourse, and the art of moving people to action. Free to read, free to cite, free to index.",
+    },
+    "arithmetic": {
+        "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Arithmetic',
+        "title": "Arithmetic — Number Systems, Quantification, and Counting Traditions",
+        "og": "How civilizations have understood number, quantity, and the mathematics of the world. Free to read, free to cite, free to index.",
+    },
+    "geometry": {
+        "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Geometry',
+        "title": "Geometry — Space, Form, and the Mathematics of the Physical World",
+        "og": "How civilizations have understood space, form, and the mathematics of the physical world. Free to read, free to cite, free to index.",
+    },
+    "music": {
+        "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Music',
+        "title": "Music — Harmony, Acoustics, and the Mathematical Relationships in Sound",
+        "og": "How civilizations have understood harmony, acoustics, and the mathematics of sound. Free to read, free to cite, free to index.",
+    },
+    "astronomy": {
+        "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Astronomy',
+        "title": "Astronomy — Celestial Observation, Calendars, and Navigation by Stars",
+        "og": "How civilizations have observed the heavens, built calendars, and navigated by stars. Free to read, free to cite, free to index.",
+    },
+}
+
 TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,7 +118,7 @@ TEMPLATE = """<!DOCTYPE html>
   <meta name="description" content="{title}. Part of The Cottonwood Collection &mdash; a public reference library exploring how human civilizations have reasoned about harm, care, and the protection of those who cannot protect themselves.">
   <meta property="og:title" content="{title} &mdash; The Cottonwood Collection">
   <meta property="og:description" content="{og}">
-  <meta property="og:url" content="https://cottonwood.world/frameworks/{slug}/">
+  <meta property="og:url" content="https://cottonwood.world/{url_path}/{slug}/">
   <meta property="og:type" content="article">
   <style>
     :root {{
@@ -253,10 +294,10 @@ TEMPLATE = """<!DOCTYPE html>
 </html>"""
 
 
-def build_page(slug, meta, force=False):
-    """Build HTML for a single framework directory. Returns True if built."""
-    md_path = FRAMEWORKS_DIR / slug / "index.md"
-    html_path = FRAMEWORKS_DIR / slug / "index.html"
+def build_page(slug, meta, base_dir, url_path, force=False):
+    """Build HTML for a single page directory. Returns True if built."""
+    md_path = base_dir / slug / "index.md"
+    html_path = base_dir / slug / "index.html"
 
     if not md_path.exists():
         print(f"  SKIP {slug}: no index.md")
@@ -276,13 +317,16 @@ def build_page(slug, meta, force=False):
         title=meta["title"],
         og=meta["og"],
         slug=slug,
+        url_path=url_path,
         breadcrumb=meta["breadcrumb"],
         content=content_html,
     )
 
     html_path.write_text(html)
     size_kb = len(html) / 1024
-    print(f"  BUILT {slug}/index.html — {size_kb:.0f}KB ({len(html):,} chars)")
+    print(
+        f"  BUILT {url_path}/{slug}/index.html — {size_kb:.0f}KB ({len(html):,} chars)"
+    )
     return True
 
 
@@ -290,27 +334,34 @@ def main():
     force = "--force" in sys.argv
     targets = [a for a in sys.argv[1:] if not a.startswith("--")]
 
+    # Combine both registries with their base dirs and url paths
+    ALL_PAGES = {}
+    for slug, meta in TRADITIONS.items():
+        ALL_PAGES[slug] = (meta, FRAMEWORKS_DIR, "frameworks")
+    for slug, meta in KNOWLEDGE_SYSTEMS.items():
+        ALL_PAGES[slug] = (meta, KNOWLEDGE_SYSTEMS_DIR, "knowledge-systems")
+
     if targets:
         items = {}
         for t in targets:
             t = t.strip("/").split("/")[
                 -1
             ]  # accept "frameworks/abrahamic" or "abrahamic"
-            if t in TRADITIONS:
-                items[t] = TRADITIONS[t]
+            if t in ALL_PAGES:
+                items[t] = ALL_PAGES[t]
             else:
                 print(
-                    f"  ERROR: unknown framework '{t}'. Known: {', '.join(TRADITIONS.keys())}"
+                    f"  ERROR: unknown page '{t}'. Known: {', '.join(ALL_PAGES.keys())}"
                 )
     else:
-        items = TRADITIONS
+        items = ALL_PAGES
 
     print(f"build-html.py — {'force rebuild' if force else 'build missing'}")
     print(f"Targets: {', '.join(items.keys())}\n")
 
     built = 0
-    for slug, meta in items.items():
-        if build_page(slug, meta, force=force):
+    for slug, (meta, base_dir, url_path) in items.items():
+        if build_page(slug, meta, base_dir, url_path, force=force):
             built += 1
 
     print(f"\nDone. {built} page(s) built.")
