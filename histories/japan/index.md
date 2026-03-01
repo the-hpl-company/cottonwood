@@ -7,7 +7,6 @@
 ---
 
 ## Foundations — Shinto, Ritual, and the Ethics of Purity and Pollution
-*Best response: gemini | 3 providers responded*
 
 Okay, here is an account of the foundational ethical frameworks in Japan, from prehistory through the 6th century CE, drawing on primary sources and major scholarship:
 
@@ -70,11 +69,9 @@ The Ainu are the indigenous people of northern Japan (Hokkaido) and parts of Rus
 
 In summary, the foundational ethical frameworks of Japan were shaped by Shinto's emphasis on purity, harmony, and reverence for nature, as well as by the later introduction of Buddhist ethics. These traditions have been both complementary and conflicting, and they have been constantly reinterpreted and adapted over time. Furthermore, it's crucial to acknowledge the existence and suppression of Ainu ethical traditions, underscoring the importance of recognizing diverse perspectives within Japan's ethical landscape.
 
-
 ---
 
 ## Buddhist and Confucian Synthesis — Nara through Muromachi
-*Best response: gemini | 3 providers responded*
 
 ## The Synthesis of Buddhism and Confucianism in Japanese Ethical Thought (600-1500 CE)
 
@@ -130,11 +127,9 @@ While acknowledging the importance of filial piety (孝 kō) and social harmony,
 
 In conclusion, the synthesis of Buddhism and Confucianism in Japan between 600 and 1500 CE resulted in a complex and multifaceted ethical landscape. This synthesis was characterized by the adaptation and transformation of imported ideas, the emergence of new ethical frameworks, and the ongoing tension between competing values. From the state-sponsored Buddhism of the Nara period to the accessible ethics of Kamakura Buddhism, and from the aesthetic sensibilities of *The Tale of Genji* to the warrior ethic of *bushidō*, Japanese ethical thought during this period shaped the moral contours of Japanese society and continues to resonate in contemporary Japan.
 
-
 ---
 
 ## Tokugawa Ethics — Bushido, Neo-Confucianism, and the Closed Country
-*Best response: gemini | 3 providers responded*
 
 ## Tokugawa Ethics: Harmony, Hierarchy, and Heresy (1603-1868)
 
@@ -197,11 +192,9 @@ The *sakoku* policy, implemented by the Tokugawa shogunate in the 17th century, 
 
 The Tokugawa period was a crucial era in the development of Japanese ethical thought. The interplay of Neo-Confucianism, *bushido*, *kokugaku*, "Japanese Enlightenment" thinkers, and merchant ethics created a dynamic and often contradictory moral landscape. The legacy of Tokugawa ethics continues to shape Japanese society today, influencing attitudes towards authority, social responsibility, and the relationship between Japan and the world.
 
-
 ---
 
 ## Meiji Transformation and Imperial Ethics — Modernization to Militarism
-*Best response: gemini | 3 providers responded*
 
 Here is an intellectual history of Japanese ethics from the Meiji Restoration through World War II (1868-1945), a period of immense transformation and ethical complexity.
 
@@ -284,11 +277,9 @@ Tanabe Hajime, reflecting on his own complicity with wartime ideology, developed
 
 The period from the Meiji Restoration to the end of World War II was a time of profound ethical transformation in Japan. The nation underwent rapid modernization, embraced Western ideas, and constructed a new national identity centered on the Emperor and the *kokutai*. However, this process also led to the rise of militarism, expansionism, and ultimately, devastating wartime atrocities. The legacy of this period continues to shape Japanese society and its relationship with the world. Ethical reflection on this era is crucial for understanding Japan's past and building a more just and peaceful future.
 
-
 ---
 
 ## Postwar and Contemporary Japan — Peace Constitution to AI Ethics
-*Best response: deepseek | 3 providers responded*
 
 # Japanese Ethical Thought, 1945–Present: From Postwar Ruin to Society 5.0
 

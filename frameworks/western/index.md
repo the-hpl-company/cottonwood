@@ -53,5 +53,3 @@ Care ethicists argue that justice-based approaches treat protection of the vulne
 **Contemporary Applied Ethics: Distance, Duty,
 
 ---
-
-*Primary source: kimi (16040 chars). Cross-referenced against 4 provider(s). Generated 20260228-020111.*

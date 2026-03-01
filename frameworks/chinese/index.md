@@ -69,5 +69,3 @@ Contemporary Chinese discourse on social protection continues to navigate these 
 This presents a distinct tension with liberal frameworks of human rights that emphasize individual autonomy and negative liberty—the right to be free from interference. Chinese philosophical traditions, by contrast, have historically emphasized positive duties and the interdependence of social roles. The protection of the vulnerable has been conceptualized not as the protection of individual rights against the state, but as the proper functioning of relationships within a moral cosmos. Even the Legalist Han Feizi, who rejected virtue ethics, argued that strict law protected the people from
 
 ---
-
-*Primary source: kimi (15111 chars). Cross-referenced against 4 provider(s). Generated 20260228-020111.*

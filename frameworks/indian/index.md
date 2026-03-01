@@ -62,7 +62,5 @@ The *Thirukkural* emphasizes the importance of compassion, justice, and the rule
 
 In conclusion, Indian philosophical traditions offer a rich and diverse tapestry of ethical perspectives on harm, duties of care, and the protection of vulnerable populations. From the emphasis on *ahimsa* in Jainism, Buddhism, and Hinduism to the pragmatic statecraft outlined in the *Arthashastra*, these traditions provide a range of frameworks for understanding and addressing ethical challenges. The historical examples of Ashoka's reign, Gandhi's *satyagraha* movement, and Ambedkar's critique of caste demonstrate the ongoing relevance of these philosophical traditions to contemporary debates about social justice and the pursuit of a more compassionate and equitable world.
 
-
 ---
 
-*Primary source: gemini (11080 chars). Cross-referenced against 4 provider(s). Generated 20260228-020111.*

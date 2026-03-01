@@ -76,7 +76,6 @@ Postcolonial theorists have critiqued Kant’s universalism, arguing that it ref
 
 Despite these critiques, Kantian ethics remains a vital framework for understanding harm, duties of care, and the protection of vulnerable populations. Its emphasis on human dignity, moral autonomy, and the importance of acting according to universalizable principles provides a powerful foundation for ethical reasoning and moral action. While Kant’s system may require supplementation and refinement in light of contemporary challenges, its core insights continue to resonate in discussions of ethics, law, and public policy.
 
-
 ---
 
 ## Hegel — Dialectics, Recognition, and Ethical Life
@@ -220,7 +219,6 @@ In recent years, Heidegger's technology critique has gained renewed relevance in
 
 In conclusion, Martin Heidegger's philosophy offers a complex and challenging but ultimately rewarding framework for understanding harm, care, and the protection of the vulnerable. By grappling with his insights, while remaining critically aware of his personal failings, we can gain a deeper understanding of the human condition and our responsibility to create a more just and sustainable world.
 
-
 ---
 
 ## Frankfurt School — Critical Theory, Discourse Ethics, and Communicative Reason
@@ -349,7 +347,6 @@ Finally, some critics argue that Marx's framework, by reducing all harm to class
 
 Karl Marx offers a powerful and critical analysis of harm, duties of care, and the protection of vulnerable populations. His concepts of alienation, exploitation, and commodity fetishism provide a framework for understanding how capitalism systematically undermines human well-being and creates social inequalities. While his work has been subject to criticism, his insights remain relevant to contemporary debates about economic justice, social welfare, and the future of work. By grounding his analysis in the concrete material conditions of human existence, Marx challenges us to move beyond abstract moral principles and to confront the structural forces that perpetuate harm and inequality.
 
-
 ---
 
 ## Schopenhauer and Nietzsche — Will, Suffering, and the Revaluation of Values
@@ -456,16 +453,4 @@ The hermeneutic
 
 This framework page was generated on 20260228-121231 via multi-provider fan-out across 7 philosophical threads.
 
-| Thread | Primary Source | Characters |
-|--------|--------------|------------|
-| kantian-ethics | gemini | 13938 |
-| hegelian-dialectics | kimi | 15545 |
-| heidegger | gemini | 13163 |
-| frankfurt-school | deepseek-direct | 12261 |
-| marx | gemini | 12180 |
-| schopenhauer-nietzsche | kimi | 11603 |
-| husserl-gadamer | kimi | 13918 |
-
-All raw provider responses preserved in `raw/` for full provenance.
-
-*Note: This content was reconstructed via DRS fan-out while the Pharia-1-7B (Aleph Alpha, Heidelberg) handshake remains blocked on HuggingFace Inference Endpoint compatibility. The diplomatic handshake with a German-origin sovereign model is still pending. This content represents the tradition; the handshake represents consent.*
+All raw provider responses preserved in the [source repository](https://github.com/the-hpl-company/cottonwood) for full provenance.

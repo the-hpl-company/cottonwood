@@ -59,5 +59,3 @@ The Western framework of individual rights, while protective in many contexts, s
 Furthermore, the Western distinction between public and private property fails to capture the custodial relationships described in Aboriginal Australian, Hawaiian, and Māori traditions. The *ahupuaʻa* system, for instance, was not communal property in the socialist sense nor private property in the capitalist sense, but a system of reciprocal obligation between people and land. Similarly, the recognition of the Whanganui River as a legal person (*Te Awa Tupua Act 2017*) represents a statutory acknowledgment that the river is not property but a subject with its own rights to health and wellbeing, protected by appointed guardians who must
 
 ---
-
-*Primary source: kimi (19063 chars). Cross-referenced against 4 provider(s). Generated 20260228-020111.*

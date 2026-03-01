@@ -7,7 +7,6 @@
 ---
 
 ## Medieval Foundations — Christendom, Scholasticism, and the Ethics of the Crown
-*Best response: mistral | 4 providers responded*
 
 ### **Ethical Foundations of France: Gallo-Roman Christianity to the Late Medieval Period (c. 400–1400 CE)**
 
@@ -229,7 +228,6 @@ France’s medieval ethical tradition is defined by **three key tensions**:
 ---
 
 ## The Enlightenment — Reason, Rights, and the Architecture of Modernity
-*Best response: mistral | 4 providers responded*
 
 ### **The French Enlightenment (c. 1650–1789): Ethical Innovation and Its Contradictions**
 
@@ -447,11 +445,9 @@ The Enlightenment was **not a monolith**—it was **riven by contradictions**:
 
 ## **9. The Enlightenment’s Ethical Legacy: Triumphs and Failures**
 
-
 ---
 
 ## Revolution and Napoleon — The Ethics of Liberty, Terror, and Empire
-*Best response: mistral | 4 providers responded*
 
 ### **The French Revolution and Napoleonic Period (1789–1815): The Most Consequential Ethical Rupture in Modern History**
 
@@ -613,7 +609,6 @@ The **Terror (September 1793–July 1794)** was not an aberration but the **logi
 ---
 
 ## Republic and Empire — Colonialism, Dreyfus, and the Two Frances
-*Best response: mistral | 4 providers responded*
 
 ### **French Ethical Thought in the Long 19th Century (1815–1940): Universalism and Empire in Tension**
 
@@ -794,7 +789,6 @@ The 19th century in France was a **laboratory of ethical experimentation**, wher
 ---
 
 ## Existentialism and Postwar Ethics — Resistance, Algeria, and the Responsibility of Freedom
-*Best response: mistral | 4 providers responded*
 
 ### **French Ethical Thought, 1940–1980: From Vichy to Poststructuralism**
 France’s ethical landscape in this period is defined by **rupture, reckoning, and radical redefinition**—from the moral collapse of Vichy to the existentialist demand for absolute responsibility, the decolonial reckoning of Algeria, and the poststructuralist decentering of the human subject. This era forces France to confront the **tension between universalist claims and particular exclusions**—a tension that remains unresolved.
@@ -989,7 +983,6 @@ After France’s defeat in June 1940, Marshal Philippe Pétain established the *
 ---
 
 ## Contemporary France — Laicite, the Banlieues, and AI Ethics
-*Best response: mistral | 4 providers responded*
 
 ### **French Ethical Thought from the 1980s to the Present: Universalism, Exclusion, and Crisis**
 

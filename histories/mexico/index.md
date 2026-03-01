@@ -7,7 +7,6 @@
 ---
 
 ## Pre-Columbian Ethics — Mesoamerican Civilizations and Their Moral Frameworks
-*Best response: gemini | 3 providers responded*
 
 ## Ethical Frameworks of Pre-Columbian Mexico: A Tapestry of Rootedness, Sacrifice, and Renewal
 
@@ -63,11 +62,9 @@ The Spanish conquest of Mexico in the 16th century represented a profound ethica
 
 The ethical frameworks of pre-Columbian Mexico, while diverse and complex, offer valuable insights into the human condition and the search for meaning. By studying these traditions, we can gain a deeper appreciation for the wisdom and resilience of the indigenous peoples of Mexico and their enduring contributions to the world's ethical heritage.
 
-
 ---
 
 ## Colonial Disruption — Conquest, Conversion, and the Ethics of Empire
-*Best response: deepseek | 3 providers responded*
 
 # The Colonial Period as Ethical Catastrophe and Response: Mexico, 1519–1821
 
@@ -156,7 +153,6 @@ The colonial ethical legacy is, as Dussel frames it, a **dialectic between the v
 ---
 
 ## Independence Through Revolution — From Hidalgo to Zapata
-*Best response: deepseek | 3 providers responded*
 
 ### **Mexican Ethical Thought from Independence through Revolution (1810–1920): A Contested Terrain of Sovereignty, Justice, and Nation**
 
@@ -246,7 +242,6 @@ The century from 1810 to 1920 saw Mexico struggle to define an ethical foundatio
 ---
 
 ## Contemporary Mexico — EZLN, Femicide, Narco Ethics, and the Border
-*Best response: gemini | 3 providers responded*
 
 ## Mexican Ethical Thought: Revolution to Present (1920-Present)
 
@@ -322,7 +317,6 @@ The US-Mexico border is a complex and contested space, marked by migration, cult
 *   **Elena Poniatowska:** Poniatowska's testimonial narratives give voice to the marginalized and dispossessed, offering powerful ethical insights into the lives of those often excluded from official histories.
 
 In conclusion, Mexican ethical thought from the post-revolutionary period to the present has been shaped by a complex interplay of historical trauma, indigenous resurgence, and the challenges of globalization. Ethical frameworks grapple with questions of identity, justice, and the responsibilities of individuals and institutions in a society marked by deep inequalities and systemic violence. The ongoing struggles for indigenous rights, gender equality, and an end to corruption reflect the enduring quest for a more just and equitable Mexico.
-
 
 ---
 

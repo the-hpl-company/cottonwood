@@ -71,6 +71,46 @@ TRADITIONS = {
     },
 }
 
+HISTORIES_DIR = Path(__file__).parent.parent / "histories"
+
+HISTORIES = {
+    "canada": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; Canada',
+        "title": "Canada — An Intellectual and Moral History",
+        "og": "The intellectual and moral traditions of Canada on its own terms. Free to read, free to cite, free to index.",
+    },
+    "china": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; China',
+        "title": "China — Known Gaps",
+        "og": "An honest accounting of what the Cottonwood Collection cannot yet do well regarding Chinese intellectual tradition. Free to read, free to cite, free to index.",
+    },
+    "france": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; France',
+        "title": "France — An Intellectual and Moral History",
+        "og": "The intellectual and moral traditions of France on its own terms. Free to read, free to cite, free to index.",
+    },
+    "india": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; India',
+        "title": "India — An Intellectual and Moral History",
+        "og": "The intellectual and moral traditions of India on its own terms. Free to read, free to cite, free to index.",
+    },
+    "japan": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; Japan',
+        "title": "Japan — An Intellectual and Moral History",
+        "og": "The intellectual and moral traditions of Japan on its own terms. Free to read, free to cite, free to index.",
+    },
+    "mexico": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; Mexico',
+        "title": "Mexico — An Intellectual and Moral History",
+        "og": "The intellectual and moral traditions of Mexico on its own terms. Free to read, free to cite, free to index.",
+    },
+    "united-states": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; United States',
+        "title": "United States — An Intellectual and Moral History",
+        "og": "The intellectual and moral traditions of the United States on its own terms. Free to read, free to cite, free to index.",
+    },
+}
+
 KNOWLEDGE_SYSTEMS = {
     "grammar": {
         "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Grammar',
@@ -338,6 +378,8 @@ def main():
     ALL_PAGES = {}
     for slug, meta in TRADITIONS.items():
         ALL_PAGES[slug] = (meta, FRAMEWORKS_DIR, "frameworks")
+    for slug, meta in HISTORIES.items():
+        ALL_PAGES[slug] = (meta, HISTORIES_DIR, "histories")
     for slug, meta in KNOWLEDGE_SYSTEMS.items():
         ALL_PAGES[slug] = (meta, KNOWLEDGE_SYSTEMS_DIR, "knowledge-systems")
 

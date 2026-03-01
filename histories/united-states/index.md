@@ -7,7 +7,6 @@
 ---
 
 ## Indigenous Foundations — The Ethical Traditions That Preceded the Republic
-*Best response: gemini | 6 raw files across runs*
 
 ## Indigenous Ethical Foundations of the United States
 
@@ -91,11 +90,9 @@ The arrival of Europeans in North America initiated a period of colonization cha
 
 In conclusion, the ethical traditions of Indigenous peoples are an integral part of the American intellectual and moral landscape. These traditions offer valuable insights into how to live in harmony with nature, foster community, and promote justice. The ongoing struggle for Indigenous sovereignty and cultural preservation is a reminder of the ethical challenges that remain in the United States and the need to create a more just and equitable society for all.
 
-
 ---
 
 ## The Founding Contradiction — Liberty, Slavery, and the Constitutional Bargain
-*Best response: gemini | 6 raw files across runs*
 
 Okay, here's a survey of American ethical thought from colonial settlement through the early republic (1607-1830), with emphasis on the fundamental contradiction between its ideals and realities.
 
@@ -171,11 +168,9 @@ The westward expansion of the United States was accompanied by the displacement 
 
 The American ethical tradition during this period is thus defined by the gap between its ideals and its practice. The simultaneous embrace of liberty and slavery, the promise of equality alongside the reality of oppression, and the justification of expansion through the dehumanization of Native Americans created a deeply contradictory and morally compromised national identity. This contradiction continues to shape American ethical debates to this day.
 
-
 ---
 
 ## Civil War Through Jim Crow — The Ethics of Emancipation and Betrayal
-*Best response: gemini | 3 raw files across runs*
 
 ## American Ethical Thought: Civil War to the Nadir (1850-1920)
 
@@ -241,11 +236,9 @@ Butler's work represents an important ethical tradition of questioning the justi
 
 This period in American history demonstrates the persistent gap between the nation's ideals and its lived realities. The ethical failures of Reconstruction and the horrors of the Nadir serve as a stark reminder of the ongoing struggle for racial justice and equality in the United States.
 
-
 ---
 
 ## Rights Movements — From the New Deal to the Present
-*Best response: deepseek | 4 raw files across runs*
 
 # American Ethical Thought, 1930–Present: The Gap as Tradition
 
@@ -303,5 +296,4 @@ The claim of **American exceptionalism**—that the U.S. is uniquely destined to
 
 ---
 
-*Resynthesized from 19 raw provider responses across 4 threads (original run + rerun after Gemini crash).*
 *Raw provider responses preserved in the [source repository](https://github.com/the-hpl-company/cottonwood) for full traceability.*

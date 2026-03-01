@@ -67,5 +67,3 @@ Ibn Khaldun's analysis of the "decline of the dynasty" (*inhitat al-dawla*) serv
 Classical Islamic frameworks
 
 ---
-
-*Primary source: kimi (14472 chars). Cross-referenced against 4 provider(s). Generated 20260228-020111.*

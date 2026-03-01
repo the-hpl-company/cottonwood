@@ -7,7 +7,6 @@
 ---
 
 ## Vedic Foundations — Rta, Dharma, and the Origins of Indian Ethics
-*Best response: gemini | 3 providers responded*
 
 ## Ethical Foundations in the Vedic Period (c. 1500-500 BCE)
 
@@ -64,11 +63,9 @@ Ahimsa (non-violence) is a central ethical principle in Indian traditions, parti
 
 The ethical foundations laid during the Vedic period were complex and multifaceted. From the concept of Ṛta in the Rig Veda to the internalization of ethics in the Upanishads and the codification of duties in the Dharmasutras, this era witnessed a gradual evolution of ethical thought. While the varṇāśrama dharma provided a framework for social order, it also created social inequalities. The principle of ahimsa, though present in early Vedic thought, gained prominence in the Upanishads and later became a central ethical principle in Jainism, Buddhism, and Hinduism. These diverse and often conflicting ethical perspectives continue to shape Indian thought and practice today.
 
-
 ---
 
 ## The Heterodox Challenge — Buddhism, Jainism, and the Rejection of Orthodoxy
-*Best response: gemini | 3 providers responded*
 
 Here is an overview of the heterodox movements in ancient India, focusing on their unique ethical contributions, impact on the sociopolitical landscape, and interactions with the orthodox Brahmanical traditions, incorporating primary source citations and scholarly perspectives.
 
@@ -144,7 +141,6 @@ By examining these heterodox movements, we gain a deeper understanding of the ri
 ---
 
 ## Classical Synthesis — The Epics, Dharmashastra, and Political Ethics
-*Best response: gemini | 3 providers responded*
 
 ## The Classical Age of Indian Ethics (c. 300 BCE - 600 CE): A Crucible of Dharma, Harm, and Care
 
@@ -199,11 +195,9 @@ The *Thirukkural*, a classic Tamil text attributed to Thiruvalluvar (possibly be
 
 In conclusion, the classical period in Indian history witnessed the flourishing of diverse ethical traditions, each offering unique perspectives on dharma, harm, care, and the pursuit of a meaningful life. From the epic narratives of the *Mahabharata* and *Ramayana* to the legal and political treatises of the *Manusmriti* and *Arthashastra*, and from the philosophical insights of Nagarjuna to the ethical wisdom of the *Thirukkural*, this era shaped the moral landscape of India for centuries to come. While these traditions often diverged in their specific prescriptions, they shared a common concern with the fundamental questions of human existence: how to live a virtuous life, how to create a just society, and how to alleviate suffering and promote well-being for all.
 
-
 ---
 
 ## Medieval Transformations — Bhakti, Sufi Ethics, and Hindu-Muslim Exchange
-*Best response: gemini | 3 providers responded*
 
 Here is an account of the transformation of Indian ethical traditions during the medieval period (c. 600-1700 CE), addressing bhakti devotionalism, the arrival of Islamic ethical frameworks, Hindu-Muslim philosophical exchange, and the tensions between syncretism and orthodoxy.
 
@@ -278,7 +272,6 @@ In conclusion, the medieval period in India was a time of significant ethical tr
 ---
 
 ## Colonial Rupture and Modern India — From the Raj to Independence
-*Best response: gemini | 3 providers responded*
 
 Okay, here's a treatment of the colonial and post-colonial period in India, focusing on the disruption, adaptation, and reinvention of ethical traditions during this tumultuous time. I will foreground Indian voices and perspectives, while also acknowledging the complex interplay of internal reform and external influence.
 
@@ -358,11 +351,9 @@ The Partition of India in 1947 was a catastrophic event that resulted in the mas
 
 This is a complex and multifaceted history. These points can serve as a strong foundation for further inquiry into the ethical dimensions of India's colonial and post-colonial experience.
 
-
 ---
 
 ## Contemporary India — Caste, Technology, and Global Ethics
-*Best response: deepseek | 3 providers responded*
 
 # Contemporary Indian Ethical Thought (1950–Present): A Text-Grounded Analysis
 

@@ -7,7 +7,6 @@
 ---
 
 ## First Nations, Inuit, and Metis — The Ethical Traditions That Were Here First
-*Best response: mistral | 4 providers responded*
 
 ### **Indigenous Ethical Traditions of Turtle Island (What Is Now Canada): Foundational Frameworks of Harm, Care, and Stewardship**
 
@@ -201,7 +200,6 @@ These thinkers **revitalize Indigenous ethics** in the face of colonialism:
 ---
 
 ## Colonial Foundations — New France, British Conquest, and the Two Solitudes
-*Best response: mistral | 4 providers responded*
 
 ### **The Colonial Period (c. 1534–1867): The Establishment of Canada’s Foundational Ethical Tensions**
 
@@ -385,7 +383,6 @@ Lord Durham was sent to investigate the rebellions. His **Report on the Affairs 
 ---
 
 ## Confederation and Nation-Building — The Ethical Architecture of Canada
-*Best response: mistral | 4 providers responded*
 
 ### **The Confederation Period and Nation-Building Era (1867–1945): Constructing Canada’s Ethical Architecture**
 
@@ -564,7 +561,6 @@ Woodsworth’s *Strangers Within Our Gates* (1909) was a **progressive tract** a
 ---
 
 ## The Charter Era — Rights, Multiculturalism, and the Unfinished Project
-*Best response: mistral | 4 providers responded*
 
 ### **Canadian Ethical Thought, 1945–2000: From Postwar Consensus to the Charter Era**
 
@@ -746,7 +742,6 @@ The postwar to Charter era (1945–2000) was a time of **radical ethical redefin
 ---
 
 ## Reconciliation, AI Ethics, and Contemporary Canada
-*Best response: deepseek | 3 providers responded*
 
 ### **Canadian Ethical Thought, 2000–Present: The Unfinished Project**
 

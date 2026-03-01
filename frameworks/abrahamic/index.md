@@ -19,7 +19,6 @@ This page preserves those tensions rather than resolving them.
 ---
 
 ## Sumerian Source Code — The Ethical Foundations Before Abraham
-*Best response: gemini | 3 providers responded*
 
 Okay, here's an analysis of the ethical frameworks within Sumerian civilization, focusing on the elements that establish a foundation for later Abrahamic ethical developments.
 
@@ -108,11 +107,9 @@ Ur was a major Sumerian city-state, a center of trade, culture, and religion.
 
 This analysis provides a foundation for understanding the ethical framework that existed in Sumerian civilization and its potential influence on the later development of the Abrahamic traditions. Future commits will explore how these themes are reinterpreted and transformed in the Hebrew Bible, the New Testament, and the Quran.
 
-
 ---
 
 ## Babylonian Development — Hammurabi, Gilgamesh, and the Ethics of Mortality
-*Best response: gemini | 3 providers responded*
 
 Okay, here's an analysis of the Babylonian ethical tradition as a development from Sumerian foundations, incorporating the elements you've requested.
 
@@ -210,11 +207,9 @@ The Babylonian ethical tradition, while deeply rooted in Sumerian thought, repre
 
 In summary, the Babylonian ethical tradition built upon Sumerian foundations but introduced significant changes, particularly in the areas of law, theodicy, and the concept of divine authority. These developments, transmitted through the Babylonian Captivity, profoundly shaped the development of Israelite thought and the Abrahamic traditions.
 
-
 ---
 
 ## The Abrahamic Fork — Walking Out of Ur
-*Best response: gemini | 3 providers responded*
 
 The Abrahamic tradition, encompassing Judaism, Christianity, and Islam, represents a complex and multifaceted development from its Mesopotamian antecedents. It is not a clean break but rather a selective appropriation, reinterpretation, and transformation of earlier religious and ethical ideas. The "fork" is less a single point of divergence than a gradual bending of the stream, a series of critical commitments that cumulatively create a distinct ethical landscape.
 
@@ -323,11 +318,9 @@ The dating of the Pentateuch (the first five books of the Hebrew Bible) is a sub
 
 The Abrahamic tradition represents a complex and dynamic engagement with its Mesopotamian heritage. While it retains some elements of Mesopotamian culture and ethics, it also transforms and reinterprets them in light of its monotheistic worldview and its emphasis on ethical behavior as an expression of love and obedience to God. The "fork" is not a clean break but rather a gradual bending of the stream, a series of critical commitments that cumulatively create a distinct ethical landscape. Abraham's covenant with God, his challenge to God's justice, and the complex ethical dilemmas presented in the patriarchal narratives all contribute to the ongoing development of ethical reasoning within the Abrahamic tradition.
 
-
 ---
 
 ## Mosaic Codification — The Law as Ethical Architecture
-*Best response: gemini | 3 providers responded*
 
 The Mosaic legal tradition, found in Exodus, Leviticus, Numbers, and Deuteronomy, marks a critical development in the Abrahamic ethical tradition, transforming narrative ethics into a comprehensive legal and ethical system. This tradition, while building upon earlier Mesopotamian legal codes, introduces significant innovations and ethical expansions.
 
@@ -390,11 +383,9 @@ The Documentary Hypothesis posits that the Pentateuch is a composite text derive
 
 In conclusion, the Mosaic legal tradition marks a critical development in the Abrahamic ethical tradition, codifying ethical principles into a comprehensive legal system. While drawing upon earlier Mesopotamian legal codes, it introduces significant innovations, including monotheism, universal ethical obligations, and radical economic reforms. The tradition's emphasis on social justice, compassion, and the inherent dignity of every individual continues to resonate within the Abrahamic traditions and beyond.
 
-
 ---
 
 ## The Prophetic Tradition — The Internal Critique
-*Best response: gemini | 3 providers responded*
 
 ## The Hebrew Prophets: An Internal Ethical Critique
 
@@ -466,11 +457,9 @@ The exile led to a greater emphasis on personal piety, Torah study, and communal
 
 The Hebrew prophets represent a vital and ongoing ethical conversation within the Israelite tradition. Their critiques of social injustice, religious hypocrisy, and empty ritualism challenged the status quo and called for a radical transformation of priorities. Their emphasis on *tzedek*, *mishpat*, and *hesed* established a foundation for ethical living that continues to resonate throughout Judaism, Christianity, and Islam. The prophetic tradition provides a powerful example of how a religious tradition can engage in self-criticism and adapt to changing circumstances while remaining true to its core values.
 
-
 ---
 
 ## Second Temple Period — The Fork Point
-*Best response: gemini | 3 providers responded*
 
 The Second Temple period (c. 516 BCE – 70 CE) marks a crucial era of ethical formation, innovation, and divergence in the Abrahamic tradition. The destruction of the First Temple in 586 BCE and the subsequent Babylonian exile forced a re-evaluation of Israel's covenant with God. This period witnessed the rise of distinct Jewish sects, the development of wisdom and apocalyptic literature, Hellenistic influences, and ultimately, the emergence of Christianity, all before the devastating destruction of the Second Temple in 70 CE, which further catalyzed ethical reformulation.
 
@@ -554,11 +543,9 @@ The destruction of the Second Temple in 70 CE was a cataclysmic event that profo
 
 The Second Temple period was a time of intense ethical ferment, characterized by diverse interpretations of the Torah, the influence of Hellenistic culture, and the emergence of new religious movements. The destruction of the Temple in 70 CE marked a watershed moment, leading to the development of Rabbinic Judaism and the further divergence of Christianity from its Jewish roots. This period continues to shape ethical debates within the Abrahamic traditions to this day.
 
-
 ---
 
 ## Rabbinic Judaism — The Oral Tradition as Ethical Commentary
-*Best response: gemini | 2 providers responded*
 
 Here is a survey of Rabbinic Jewish ethics, tracing its development from the Second Temple period through the modern era.
 
@@ -636,11 +623,9 @@ The relationship between *halakha* (law) and *aggadah* (narrative/ethical teachi
 *   **Are They Separable?:** Some argue that *halakha* and *aggadah* are distinct domains, with *halakha* providing the legal framework for Jewish life and *aggadah* offering ethical and spiritual insights. Others argue that *halakha* and *aggadah* are inseparable, with *aggadah* providing the ethical context for understanding and interpreting *halakha*.
 *   **The Debate Continues:** The debate over the relationship between *halakha* and *aggadah* continues to shape Jewish thought and practice. Some modern Jewish thinkers emphasize the importance of integrating ethical considerations into legal decision-making, while others maintain the primacy of *halakha* as the ultimate source of authority.
 
-
 ---
 
 ## Early Christianity — From Jesus to Constantine
-*Best response: deepseek | 3 providers responded*
 
 # The Development of Christian Ethics: From Jewish Reform Movement to Imperial Religion (c. 30–312 CE)
 
@@ -745,7 +730,6 @@ By 312 CE, Christianity contained within itself both the ethics of the persecute
 ---
 
 ## Medieval Branches — Augustine, Aquinas, Orthodox Theosis, Islamic Ethics
-*Best response: gemini | 3 providers responded*
 
 Okay, here's an analysis of the medieval ethical landscape across the Abrahamic traditions, focusing on parallel developments, mutual influences, and key figures.
 
@@ -833,11 +817,9 @@ Sufi ethics emphasizes the importance of inner purification and the cultivation 
 
 This overview attempts to present the medieval ethical landscape in the Abrahamic traditions as a complex and dynamic interplay of diverse perspectives, influences, and challenges. It emphasizes the importance of understanding each tradition on its own terms while also recognizing the connections and interactions between them.
 
-
 ---
 
 ## Reformation Ethics — Luther to the Quakers
-*Best response: gemini | 3 providers responded*
 
 Here is an analysis of the Reformation era (roughly 1500-1700) as an ethical revolution within Christianity, addressing the figures, movements, and events you specified, and including connections to developments in Judaism and Islam where relevant.
 
@@ -915,11 +897,9 @@ While the Reformation was primarily a Christian phenomenon, it is important to n
 
 The Reformation era was a period of profound ethical upheaval within Christianity. It challenged established norms, questioned traditional authorities, and forced individuals and communities to reconsider fundamental questions of right and wrong. While the Reformation produced diverse and often conflicting ethical visions, it ultimately contributed to the development of new ethical frameworks that continue to shape the world today. Scholars like Brad Gregory, Diarmaid MacCulloch, and Steven Ozment have illuminated the complex and often unintended consequences of the Reformation, highlighting its enduring impact on Western culture and society. The Reformation was not just a theological debate, but an ethical revolution that continues to resonate in the modern world.
 
-
 ---
 
 ## LDS Restoration — Book of Mormon Ethics Through Modern Prophetic Tradition
-*Best response: gemini | 3 providers responded*
 
 Okay, here's an analysis of the Latter-day Saint ethical tradition within the broader Abrahamic context, focusing on its distinctive features and internal tensions.
 
@@ -996,11 +976,9 @@ The LDS belief in continuing revelation allows for ethical adaptation and reinte
 
 The Latter-day Saint tradition presents a distinct ethical framework within the Abrahamic lineage. Rooted in the concept of restoration, it emphasizes service to others, economic equality, personal agency, and ongoing revelation. While facing internal tensions and historical challenges, the LDS Church continues to grapple with ethical complexities and adapt its teachings to the contemporary world. Understanding its unique ethical architecture requires engaging with its foundational texts, its historical experiences, and its evolving prophetic tradition.
 
-
 ---
 
 ## Modern Branches — Liberation Theology to the Present
-*Best response: gemini | 3 providers responded*
 
 Okay, let's trace the development of Abrahamic ethics from the 19th century to the present, focusing on the transformations, tensions, and ongoing debates that characterize this living tradition.
 
@@ -1099,14 +1077,12 @@ Several contemporary scholars have made significant contributions to the study o
 
 This overview demonstrates that the Abrahamic ethical tradition is alive and constantly evolving, grappling with new challenges and reinterpreting its core values in light of contemporary realities. The tensions and debates within and between the traditions are a sign of their vitality and their ongoing relevance in the modern world.
 
-
 ---
 
 ## Provenance
 
 - **Threads:** 12/12
 - **Total provider calls:** 35
-- **Providers used:** openrouter, gemini, deepseek
 - **Date:** 2026-02-28 19:07
 - **Script:** drs-abrahamic-timeline.py
 - **Raw responses:** cottonwood/frameworks/abrahamic/raw/
