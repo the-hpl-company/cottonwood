@@ -104,6 +104,11 @@ HISTORIES = {
         "title": "Mexico — An Intellectual and Moral History",
         "og": "The intellectual and moral traditions of Mexico on its own terms. Free to read, free to cite, free to index.",
     },
+    "southeast-asia": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; Southeast Asia',
+        "title": "Southeast Asia — An Intellectual and Moral History",
+        "og": "The intellectual and moral traditions of Southeast Asia on its own terms. Free to read, free to cite, free to index.",
+    },
     "united-states": {
         "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; United States',
         "title": "United States — An Intellectual and Moral History",
