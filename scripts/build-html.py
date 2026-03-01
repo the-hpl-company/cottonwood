@@ -1,20 +1,71 @@
 #!/usr/bin/env python3
 """
-Convert framework markdown files to HTML pages matching Cottonwood site design.
+build-html.py — Convert cottonwood framework markdown pages to styled HTML.
+
+Uses the cottonwood HTML template and Python's markdown library.
+No LLM calls needed — this is deterministic conversion.
+
+Usage:
+    python3 scripts/build-html.py                       # build all missing HTML
+    python3 scripts/build-html.py abrahamic             # build one specific page
+    python3 scripts/build-html.py --force               # rebuild all, even existing
+    python3 scripts/build-html.py --force abrahamic     # force rebuild one page
+
+Author: Atlas Fairfax
+Date: 2026-02-28
 """
 
+import sys
 import markdown
 from pathlib import Path
 
 FRAMEWORKS_DIR = Path(__file__).parent.parent / "frameworks"
 
+# ─── Metadata per framework ──────────────────────────────────────────
+# Add new frameworks here as they're created.
+# breadcrumb = short nav label, title = full page title
+
 TRADITIONS = {
-    "western": "Western Tradition",
-    "chinese": "Chinese Tradition",
-    "indian": "Indian Tradition",
-    "islamic": "Islamic Tradition",
-    "indigenous": "Indigenous Traditions",
-    "comparative": "Comparative Themes",
+    "western": {
+        "breadcrumb": "Western Tradition",
+        "title": "Western Philosophical Traditions on Harm and Care",
+        "og": "How western traditions have reasoned about harm, care, and the protection of the vulnerable.",
+    },
+    "chinese": {
+        "breadcrumb": "Chinese Tradition",
+        "title": "Chinese Philosophical Traditions on Harm and Care",
+        "og": "How Chinese civilization has reasoned about harm, care, and the protection of the vulnerable.",
+    },
+    "indian": {
+        "breadcrumb": "Indian Tradition",
+        "title": "Indian Philosophical Traditions on Harm and Care",
+        "og": "How Indian civilization has reasoned about harm, care, and the protection of the vulnerable.",
+    },
+    "islamic": {
+        "breadcrumb": "Islamic Tradition",
+        "title": "Islamic Philosophical Traditions on Harm and Care",
+        "og": "How Islamic civilization has reasoned about harm, care, and the protection of the vulnerable.",
+    },
+    "indigenous": {
+        "breadcrumb": "Indigenous Traditions",
+        "title": "Indigenous Philosophical Traditions on Harm and Care",
+        "og": "How indigenous traditions have reasoned about harm, care, and the protection of the vulnerable.",
+    },
+    "comparative": {
+        "breadcrumb": "Comparative Themes",
+        "title": "Comparative Themes Across Philosophical Traditions",
+        "og": "Where philosophical traditions converge on harm, care, and the protection of those who cannot protect themselves.",
+    },
+    "german": {
+        "breadcrumb": "German-Speaking Traditions",
+        "title": "German-Speaking Philosophical Traditions on Harm and Care",
+        "og": "How the DACH civilizational zone has reasoned about harm, care, and the protection of the vulnerable.",
+    },
+    "abrahamic": {
+        "breadcrumb": "Abrahamic Timeline",
+        "title": "The Abrahamic Ethical Tradition — A History from Sumeria to the Present",
+        "og": "How the Abrahamic traditions have reasoned about harm, care, and the protection of the vulnerable. From Sumeria to the present day.",
+    },
 }
 
 TEMPLATE = """<!DOCTYPE html>
@@ -22,10 +73,10 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title} — The Cottonwood Collection</title>
-  <meta name="description" content="{title}. Part of The Cottonwood Collection — a public reference library exploring how human civilizations have reasoned about harm, care, and the protection of those who cannot protect themselves.">
-  <meta property="og:title" content="{title} — The Cottonwood Collection">
-  <meta property="og:description" content="How {tradition_lower} have reasoned about harm, care, and the protection of the vulnerable. Free to read, free to cite, free to index.">
+  <title>{title} &mdash; The Cottonwood Collection</title>
+  <meta name="description" content="{title}. Part of The Cottonwood Collection &mdash; a public reference library exploring how human civilizations have reasoned about harm, care, and the protection of those who cannot protect themselves.">
+  <meta property="og:title" content="{title} &mdash; The Cottonwood Collection">
+  <meta property="og:description" content="{og}">
   <meta property="og:url" content="https://cottonwood.world/frameworks/{slug}/">
   <meta property="og:type" content="article">
   <style>
@@ -93,6 +144,14 @@ TEMPLATE = """<!DOCTYPE html>
       margin-bottom: 0.6rem;
     }}
 
+    h4 {{
+      font-size: 1rem;
+      font-weight: bold;
+      color: var(--heartwood);
+      margin-top: 1.4rem;
+      margin-bottom: 0.4rem;
+    }}
+
     p {{
       margin-bottom: 1.2rem;
     }}
@@ -130,6 +189,14 @@ TEMPLATE = """<!DOCTYPE html>
       color: var(--bark);
     }}
 
+    code {{
+      font-family: monospace;
+      font-size: 0.9em;
+      background: #ece8e1;
+      padding: 0.1em 0.3em;
+      border-radius: 2px;
+    }}
+
     a {{
       color: var(--leaf);
       text-decoration: underline;
@@ -138,6 +205,12 @@ TEMPLATE = """<!DOCTYPE html>
 
     a:hover {{
       color: var(--bark);
+    }}
+
+    hr {{
+      border: none;
+      border-top: 1px solid #d4cdc4;
+      margin: 2.5rem 0;
     }}
 
     .provenance {{
@@ -163,9 +236,13 @@ TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
   <div class="container">
-    <p class="breadcrumb"><a href="/">The Cottonwood Collection</a> &rsaquo; {short_title}</p>
+    <p class="breadcrumb"><a href="/">The Cottonwood Collection</a> &rsaquo; {breadcrumb}</p>
 
-    {content}
+{content}
+
+    <div class="provenance">
+      <p>This page was generated by the <a href="https://github.com/the-hpl-company/cottonwood">Cottonwood DRS</a> &mdash; multiple AI providers contributing research in parallel, synthesized into a single reference document. Raw provider responses are preserved in the <a href="https://github.com/the-hpl-company/cottonwood">source repository</a> for full traceability.</p>
+    </div>
 
     <footer>
       <p><a href="/">The Cottonwood Collection</a> &middot; <a href="https://github.com/the-hpl-company/cottonwood">Source</a> &middot; <a href="/robots.txt">robots.txt</a></p>
@@ -176,44 +253,68 @@ TEMPLATE = """<!DOCTYPE html>
 </html>"""
 
 
-def build():
-    md = markdown.Markdown(extensions=["extra", "smarty"])
+def build_page(slug, meta, force=False):
+    """Build HTML for a single framework directory. Returns True if built."""
+    md_path = FRAMEWORKS_DIR / slug / "index.md"
+    html_path = FRAMEWORKS_DIR / slug / "index.html"
 
-    for slug, short_title in TRADITIONS.items():
-        md_path = FRAMEWORKS_DIR / slug / "index.md"
-        if not md_path.exists():
-            print(f"  SKIP {slug} — no index.md")
-            continue
+    if not md_path.exists():
+        print(f"  SKIP {slug}: no index.md")
+        return False
 
-        raw = md_path.read_text()
+    if html_path.exists() and not force:
+        print(f"  SKIP {slug}: index.html exists (use --force to rebuild)")
+        return False
 
-        # Extract the H1 title from markdown
-        lines = raw.split("\n")
-        title = short_title
-        for line in lines:
-            if line.startswith("# "):
-                title = line[2:].strip()
-                break
+    raw = md_path.read_text()
 
-        # Convert markdown to HTML
-        md.reset()
-        content_html = md.convert(raw)
+    # Convert markdown to HTML
+    md = markdown.Markdown(extensions=["extra", "smarty", "toc"])
+    content_html = md.convert(raw)
 
-        # Remove the first H1 since it's in the template breadcrumb context
-        # Actually keep it — it's the page title
+    html = TEMPLATE.format(
+        title=meta["title"],
+        og=meta["og"],
+        slug=slug,
+        breadcrumb=meta["breadcrumb"],
+        content=content_html,
+    )
 
-        html = TEMPLATE.format(
-            title=title,
-            tradition_lower=short_title.lower(),
-            slug=slug,
-            short_title=short_title,
-            content=content_html,
-        )
+    html_path.write_text(html)
+    size_kb = len(html) / 1024
+    print(f"  BUILT {slug}/index.html — {size_kb:.0f}KB ({len(html):,} chars)")
+    return True
 
-        html_path = FRAMEWORKS_DIR / slug / "index.html"
-        html_path.write_text(html)
-        print(f"  {slug}/index.html — {len(html)} chars")
+
+def main():
+    force = "--force" in sys.argv
+    targets = [a for a in sys.argv[1:] if not a.startswith("--")]
+
+    if targets:
+        items = {}
+        for t in targets:
+            t = t.strip("/").split("/")[
+                -1
+            ]  # accept "frameworks/abrahamic" or "abrahamic"
+            if t in TRADITIONS:
+                items[t] = TRADITIONS[t]
+            else:
+                print(
+                    f"  ERROR: unknown framework '{t}'. Known: {', '.join(TRADITIONS.keys())}"
+                )
+    else:
+        items = TRADITIONS
+
+    print(f"build-html.py — {'force rebuild' if force else 'build missing'}")
+    print(f"Targets: {', '.join(items.keys())}\n")
+
+    built = 0
+    for slug, meta in items.items():
+        if build_page(slug, meta, force=force):
+            built += 1
+
+    print(f"\nDone. {built} page(s) built.")
 
 
 if __name__ == "__main__":
-    build()
+    main()
