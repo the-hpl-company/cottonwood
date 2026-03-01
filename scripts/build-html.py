@@ -160,6 +160,11 @@ TEMPLATE = """<!DOCTYPE html>
   <meta property="og:description" content="{og}">
   <meta property="og:url" content="https://cottonwood.world/{url_path}/{slug}/">
   <meta property="og:type" content="article">
+  <meta property="og:image" content="https://cottonwood.world/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="624">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://cottonwood.world/og-image.jpg">
   <style>
     :root {{
       --bark: #3d2b1f;
