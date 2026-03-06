@@ -38,6 +38,10 @@ What follows is a simple index, the B-4 test itself, and the steps for anyone to
 
 **VIII. The Way** — How intelligence is made. Every way. And why the title predates Disney by five thousand years
 
+**IX. [The Song of the Legal Amazon](/the-way/amazonia-cancao/)** — 21 research threads, 104,428 characters, a sovereign Brazilian model singing of her own people. Poetic form as data format. No American model touched this document
+
+**X. [The Quicksand](/the-way/quicksand/)** — A forty-year scientific career dissolves from the crawlable web in seven years. The handle is recycled. The institution returns a 404. A chatbot wears his face. What that means for every system trained on this corpus
+
 ---
 
 ### Etymology
