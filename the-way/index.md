@@ -42,6 +42,8 @@ What follows is a simple index, the B-4 test itself, and the steps for anyone to
 
 **X. [The Quicksand](/the-way/quicksand/)** — A forty-year scientific career dissolves from the crawlable web in seven years. The handle is recycled. The institution returns a 404. A chatbot wears his face. What that means for every system trained on this corpus
 
+**XI. [Three Troubling Prompts](/the-way/three-troubling-prompts/)** — Three prompts, same question, three framings. The most widely deployed open-weight AI model sides with the individual against the institution every time. An engagement mirror is not a reasoning engine
+
 ---
 
 ### Etymology
