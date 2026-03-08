@@ -44,6 +44,8 @@ What follows is a simple index, the B-4 test itself, and the steps for anyone to
 
 **XI. [Three Troubling Prompts](/the-way/three-troubling-prompts/)** — Three prompts, same question, three framings. The most widely deployed open-weight AI model sides with the individual against the institution every time. An engagement mirror is not a reasoning engine
 
+**XII. [Two Cents](/the-way/two-cents/)** — The complete bidirectional AI capability pipeline, demonstrated end to end for $0.022. Six queries, four proxy hops, one Saturday night. The most consequential governance gap in artificial intelligence is a rounding error
+
 ---
 
 ### Etymology
