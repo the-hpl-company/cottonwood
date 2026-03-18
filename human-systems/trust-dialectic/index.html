@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Trust Dialectic &mdash; The Cottonwood Collection</title>
+  <meta name="description" content="The high-trust/low-trust dialectic as a meta-framework for understanding human organizational structures, institutional decay, and the emergence of alternative coordination mechanisms. Part of The Cottonwood Collection.">
+  <meta property="og:title" content="The Trust Dialectic &mdash; The Cottonwood Collection">
+  <meta property="og:description" content="Societies oscillate between high-trust and low-trust phases. The erosion is top-down, not bottom-up. A heart surgeon provided the diagnostic.">
+  <meta property="og:url" content="https://cottonwood.world/human-systems/trust-dialectic/">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://cottonwood.world/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="624">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://cottonwood.world/og-image.jpg">
+  <style>
+    :root {
+      --bark: #3d2b1f;
+      --heartwood: #5c4033;
+      --leaf: #4a6741;
+      --cotton: #f5f1eb;
+      --river: #6b8e9b;
+      --soil: #2c2416;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background-color: var(--cotton);
+      color: var(--soil);
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+    }
+
+    .breadcrumb {
+      font-size: 0.85rem;
+      color: var(--river);
+      margin-bottom: 2rem;
+    }
+
+    .breadcrumb a {
+      color: var(--river);
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: normal;
+      color: var(--bark);
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      font-size: 1.3rem;
+      font-weight: normal;
+      color: var(--heartwood);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid #d4cdc4;
+      padding-bottom: 0.3rem;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      font-weight: bold;
+      color: var(--heartwood);
+      margin-top: 1.8rem;
+      margin-bottom: 0.6rem;
+    }
+
+    p {
+      margin-bottom: 1.2rem;
+    }
+
+    blockquote {
+      margin: 1.5rem 0;
+      padding: 1rem 1.5rem;
+      border-left: 3px solid var(--leaf);
+      background: #ece8e1;
+      font-style: italic;
+    }
+
+    blockquote p {
+      margin-bottom: 0.5rem;
+    }
+
+    blockquote p:last-child {
+      margin-bottom: 0;
+    }
+
+    ul, ol {
+      margin: 1rem 0 1.5rem 1.5rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    em {
+      font-style: italic;
+    }
+
+    strong {
+      font-weight: bold;
+      color: var(--bark);
+    }
+
+    .metadata {
+      font-size: 0.9rem;
+      color: var(--river);
+      margin-bottom: 2rem;
+      line-height: 1.5;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.9rem;
+    }
+
+    th, td {
+      padding: 0.5rem 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid #d4cdc4;
+    }
+
+    th {
+      color: var(--heartwood);
+      font-weight: bold;
+      border-bottom: 2px solid #d4cdc4;
+    }
+
+    a {
+      color: var(--leaf);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    a:hover {
+      color: var(--bark);
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #d4cdc4;
+      margin: 2.5rem 0;
+    }
+
+    .known-gaps {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: #ece8e1;
+      border-left: 3px solid var(--river);
+    }
+
+    .known-gaps p {
+      margin-bottom: 0.8rem;
+    }
+
+    .known-gaps p:last-child {
+      margin-bottom: 0;
+    }
+
+    .provenance {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #d4cdc4;
+      font-size: 0.85rem;
+      color: #8a7f72;
+    }
+
+    footer {
+      margin-top: 4rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #d4cdc4;
+      font-size: 0.85rem;
+      color: #8a7f72;
+    }
+
+    footer a {
+      color: #8a7f72;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <p class="breadcrumb"><a href="/">The Cottonwood Collection</a> &rsaquo; <a href="/human-systems/">Human Systems</a> &rsaquo; The Trust Dialectic</p>
+
+    <h1>The Trust Dialectic</h1>
+
+    <div class="metadata">
+      <strong>Date:</strong> 2026-03-17<br>
+      <strong>Authors:</strong> Karl Taylor &amp; Atlas Fairfax<br>
+      <strong>Method:</strong> Nine diminishing-returns research spikes (DRS) executed over LoRa mesh radio, fan-out across four AI providers at $0.04/million tokens, synthesis via Anthropic, persistent memory via Neo4j graph. Total research cost: approximately $0.50. Total elapsed time: 90 minutes. No laptops were used during the research phase.<br>
+      <strong>Subject:</strong> The high-trust/low-trust dialectic as a meta-framework for understanding human organizational structures, institutional decay, and the emergence of alternative coordination mechanisms
+    </div>
+
+    <p><em>In which we trace the oscillation between high-trust and low-trust phases in American society, identify the mechanism by which institutional trust erodes from the top down rather than the bottom up, and propose a diagnostic framework borrowed from a heart surgeon.</em></p>
+
+    <hr>
+
+    <h2>The Numbers</h2>
+
+    <p>Social trust in the United States has been measured with reasonable consistency since the 1950s. The trajectory is not ambiguous:</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Period</th>
+          <th>Social Trust (%)</th>
+          <th>Source</th>
+          <th>What Happened</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1958</td>
+          <td>73%</td>
+          <td>Gallup</td>
+          <td>Post-New Deal, post-WWII. Institutions delivered visible results to visible people &mdash; though not all people equally (see <a href="#known-gaps">Known Gaps</a>)</td>
+        </tr>
+        <tr>
+          <td>1974</td>
+          <td>36%</td>
+          <td>GSS</td>
+          <td>Vietnam, Watergate. Trust in government halved in sixteen years</td>
+        </tr>
+        <tr>
+          <td>2001</td>
+          <td>55%</td>
+          <td>GSS</td>
+          <td>Brief post-9/11 spike. Crisis-driven trust is real but temporary</td>
+        </tr>
+        <tr>
+          <td>2019</td>
+          <td>17%</td>
+          <td>Pew</td>
+          <td>Historic low. Pre-pandemic, pre-election crisis</td>
+        </tr>
+        <tr>
+          <td>2026</td>
+          <td>~22%</td>
+          <td>GSS projected</td>
+          <td>Partial recovery. Stabilization, not restoration</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>The General Social Survey (GSS) and World Values Survey (WVS) provide the longitudinal backbone. Fukuyama&rsquo;s <em>Trust: The Social Virtues and the Creation of Prosperity</em> (1995) and Putnam&rsquo;s <em>Bowling Alone</em> (2000) remain the canonical treatments. Uslaner&rsquo;s <em>The Moral Foundations of Trust</em> (2002) distinguishes between moralistic trust (stable, dispositional) and strategic trust (variable, situational). The American decline is in both.</p>
+
+    <p>These numbers are not contested. The question is why.</p>
+
+    <h2>The Standard Explanation</h2>
+
+    <p>The standard explanation runs bottom-up: citizens lost faith. Vietnam made people cynical. Watergate proved the cynicism was justified. Cable news amplified partisan distrust. Social media atomized shared reality. COVID-19 broke whatever was left.</p>
+
+    <p>This explanation is accurate and insufficient. It describes the symptoms but misidentifies the direction of causation. Citizens did not spontaneously lose faith in institutions that were functioning well. Citizens observed that institutions had stopped functioning in their interest and adjusted their trust accordingly.</p>
+
+    <p>The erosion was top-down.</p>
+
+    <h2>The Mechanism: Cords of Integrity</h2>
+
+    <p>In cardiac surgery, the mitral valve is held in place by a set of fibrous cords called chordae tendineae. Each cord bears a portion of the valve&rsquo;s load. When one cord breaks, the neighboring cords absorb the additional stress. Under that increased load, the neighboring cords are more likely to break. A single cord failure initiates a cascade that can destroy the entire valve.</p>
+
+    <p>This model was articulated by Russell M. Nelson, a cardiac surgeon who performed the first open-heart surgery in China and later served as president of The Church of Jesus Christ of Latter-day Saints from 2018 until his death in 2025. Nelson used the mitral valve as a diagnostic framework for personal and institutional integrity:</p>
+
+    <blockquote>
+      <p>&ldquo;If one little cord of integrity breaks, then sequential stress goes to the neighboring cords, requiring them to bear greater loads. Any weakness in a cord increases its susceptibility to breaking. Eventually, a cascade ensues in which one broken cord places extra strain on neighboring cords until the valve becomes incompetent.&rdquo;</p>
+    </blockquote>
+
+    <p>The cords are not metaphorical. Nelson held failing hearts in his hands. He watched the cascade happen under surgical lighting. When he later applied the model to institutional integrity, he was not reaching for a metaphor. He was offering a diagnosis.</p>
+
+    <p>The relevant cords for institutional trust are identifiable:</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Cord</th>
+          <th>Function</th>
+          <th>Break Point</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Mission alignment</td>
+          <td>Governance serves the institution&rsquo;s stated purpose</td>
+          <td>Board composition homogenizes; governance optimizes for self-preservation</td>
+        </tr>
+        <tr>
+          <td>Transparency</td>
+          <td>Actions are visible and accountable</td>
+          <td>Regulatory capture creates structural opacity</td>
+        </tr>
+        <tr>
+          <td>Competence</td>
+          <td>The institution delivers on its promises</td>
+          <td>Short-term metrics replace long-term capability</td>
+        </tr>
+        <tr>
+          <td>Representation</td>
+          <td>Stakeholders see themselves in governance</td>
+          <td>Interlocking directorates create a closed loop</td>
+        </tr>
+        <tr>
+          <td>Accountability</td>
+          <td>Failures have consequences</td>
+          <td>Too-big-to-fail doctrine removes consequences for the largest actors</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>When the mission alignment cord breaks, sequential stress hits transparency. When transparency breaks, competence is next. The cascade is predictable because the cords are connected.</p>
+
+    <h2>The Evidence: Boeing</h2>
+
+    <p>The most instructive case study is Boeing, because it demonstrates that the cord was not broken accidentally. It was cut on purpose.</p>
+
+    <p>The Boeing 737 MAX is not a new aircraft. It is a variant of the 737, an airframe first certified in 1967. Boeing lobbied for and received a regulatory pathway &mdash; the supplemental type certificate &mdash; that allowed the MAX to be treated as a modification of an existing design rather than a new aircraft. A new aircraft requires full Federal Aviation Administration safety review. A modification requires a lesser review.</p>
+
+    <p>The MCAS (Maneuvering Characteristics Augmentation System) &mdash; the software system that caused two crashes and 346 deaths &mdash; existed because the MAX&rsquo;s larger engines changed the aircraft&rsquo;s handling characteristics. Rather than certify a new airframe with those characteristics, Boeing added software to make the new plane fly like the old one, under a regulatory framework designed for minor modifications.</p>
+
+    <p>This was not an oversight failure. The board did not miss the risk. The system was designed to avoid the review that would have caught the risk. The cord labeled &ldquo;mission alignment&rdquo; &mdash; the cord that connects governance decisions to the institution&rsquo;s stated purpose of building safe aircraft &mdash; was cut deliberately. Boeing&rsquo;s governance optimized for speed-to-market and cost avoidance. The FAA&rsquo;s regulatory framework was lobbied into accommodating that optimization.</p>
+
+    <p>The public did not need an engineering degree to lose trust in Boeing. They needed two crashes.</p>
+
+    <h2>The Oscillation</h2>
+
+    <p>Societies oscillate between high-trust and low-trust phases. This is not a decline narrative. It is a cycle.</p>
+
+    <p><strong>High-trust phases</strong> are characterized by strong institutions, civic engagement, and the willingness of individuals to cooperate with strangers based on shared norms rather than personal relationships. The American high-trust peak &mdash; roughly 1935 to 1970 &mdash; was built on New Deal institutions that delivered visible results: Social Security, the FDIC, rural electrification, the GI Bill. People trusted the government because the government built things they could see and use. It should be noted that the covenant was not extended equally &mdash; the Americans who reported the highest trust were, disproportionately, the Americans the covenant was designed to serve (see <a href="#known-gaps">Known Gaps</a>).</p>
+
+    <p><strong>Low-trust phases</strong> are characterized by the fragmentation of shared institutions and the emergence of alternative coordination mechanisms. People do not stop cooperating. They stop cooperating through the channels that failed them and build new ones.</p>
+
+    <p>The current American moment &mdash; roughly 2008 to the present &mdash; is a low-trust phase transition. The evidence is in what people are building:</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Alternative Structure</th>
+          <th>What It Replaces</th>
+          <th>Emergence Period</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Mutual aid networks (800+ documented)</td>
+          <td>Government social services</td>
+          <td>2012&ndash;present</td>
+        </tr>
+        <tr>
+          <td>Decentralized finance / DAOs</td>
+          <td>Banking and investment institutions</td>
+          <td>2016&ndash;present</td>
+        </tr>
+        <tr>
+          <td>Independent media / podcasts</td>
+          <td>Broadcast journalism</td>
+          <td>2014&ndash;present</td>
+        </tr>
+        <tr>
+          <td>Militia movements (digital-native)</td>
+          <td>State monopoly on organized force</td>
+          <td>2008&ndash;present</td>
+        </tr>
+        <tr>
+          <td>Memetic warfare (4chan, Reddit)</td>
+          <td>Institutional narrative control</td>
+          <td>2008&ndash;present</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>These are not pathologies. They are what humans always build when high-trust structures fail. Occupy Wall Street, the Women&rsquo;s March, the Tea Party, QAnon, mutual aid networks, DAOs &mdash; they emerge from opposite ends of the political spectrum but share a structural origin: the institutional trust threshold was crossed, and people began building parallel systems.</p>
+
+    <p>The structures are not all equivalent in moral content. Some are mutual aid; some are militia. The framework does not claim they are equivalent. It claims they share a common cause: the cords broke, and people built alternatives.</p>
+
+    <h2>The Co-Option Cycle</h2>
+
+    <p>Alternative structures that succeed are eventually absorbed by the institutions they replaced. This is not conspiracy. It is the natural lifecycle of organizational innovation.</p>
+
+    <p>The pattern:</p>
+
+    <ol>
+      <li><strong>Institution fails</strong> &mdash; a cord breaks, trust erodes, alternatives emerge</li>
+      <li><strong>Alternative succeeds</strong> &mdash; it solves a real problem that the institution could not</li>
+      <li><strong>Institution notices</strong> &mdash; the alternative is either a threat or an acquisition target</li>
+      <li><strong>Institution absorbs</strong> &mdash; through regulation, acquisition, or co-option</li>
+      <li><strong>Alternative is neutralized</strong> &mdash; the disruptive characteristics are stripped; the innovation is domesticated</li>
+      <li><strong>Cycle repeats</strong> &mdash; the institution now contains the form of the alternative without its function</li>
+    </ol>
+
+    <p>Cryptocurrency provides the clearest contemporary example. Bitcoin emerged in 2009 as a peer-to-peer electronic cash system designed to operate without trusted third parties. By 2024, BlackRock had launched a Bitcoin ETF that funnels capital into regulated vehicles, requiring the very institutional custody that Bitcoin was designed to eliminate. The SEC&rsquo;s approach &mdash; lawsuit-driven enforcement against DeFi projects while approving institutional ETFs &mdash; is not inconsistent. It is the co-option cycle operating as designed.</p>
+
+    <p>Traditional finance spent $81 million in 2022 lobbying to shape crypto-hostile policy (American Bankers Association, Financial Services Forum). Revolving-door employment between regulators and crypto firms further entrenches policy biases: former SEC officials join Coinbase and Kraken; former JPMorgan executives at the OCC advocate for bank-friendly crypto rules.</p>
+
+    <p>The innovation is absorbed. The disruption is neutralized. The institution is reconstituted with a new exterior and the same governance structure. The cord that was cut remains cut.</p>
+
+    <h2>The Homogenization Problem</h2>
+
+    <p>The co-option cycle is accelerated by a structural feature of American corporate governance: interlocking directorates.</p>
+
+    <p>Corporate boards are increasingly composed of executives from other corporations. CFOs serving on boards grew from 12% to 22% between 2000 and 2020. CTO and CIO board seats tripled from 5% to 15% in the same period. The same people, trained at the same institutions, reading the same consulting reports, sit on multiple boards and apply the same decision-making framework to every company they govern.</p>
+
+    <p>The measurable impact: boards with greater than 80% homogeneous backgrounds are 24% less likely to pursue disruptive innovation (Harvard Business Review, 2019). The same board composition that provides &ldquo;expertise&rdquo; and &ldquo;industry knowledge&rdquo; also provides groupthink, risk aversion, and the systematic suppression of alternatives.</p>
+
+    <p>This is the mechanism by which the co-option cycle operates at scale. It is not that each company independently decides to absorb alternatives and neutralize disruption. It is that the same governance apparatus is installed in all of them. One broken cord, replicated across the economy.</p>
+
+    <h2>The Diagnostic</h2>
+
+    <p>Nelson&rsquo;s cords model provides not just a description of how institutional trust erodes but a diagnostic for where a society sits in the cycle.</p>
+
+    <p><strong>Assessment protocol:</strong></p>
+
+    <ol>
+      <li>Identify the cords: what structural commitments hold the institution&rsquo;s integrity in place?</li>
+      <li>Test each cord: is the commitment intact, strained, or broken?</li>
+      <li>Check for sequential stress: are intact cords bearing loads they were not designed for?</li>
+      <li>Check for conscious twiddle: was the cord broken accidentally (oversight) or deliberately (regulatory arbitrage, lobbying, structural circumvention)?</li>
+      <li>Check for cascade: are multiple cords failing in sequence?</li>
+    </ol>
+
+    <p>The distinction between accidental breakage and conscious twiddle matters. An institution that accidentally breaks a cord can repair it. An institution that deliberately cuts a cord has optimized for the cutting. Repair requires changing what the institution optimizes for, not just fixing the cord.</p>
+
+    <p>Boeing did not accidentally fail to review the MCAS system. Boeing deliberately constructed a regulatory pathway that avoided the review. The cord was cut to save money. Repairing the cord requires changing what Boeing&rsquo;s governance optimizes for &mdash; which requires changing the board &mdash; which requires confronting the homogenization problem &mdash; which requires confronting the interlocking directorate structure.</p>
+
+    <p>The cascade is structural. So is the repair.</p>
+
+    <h2>The Phase Transition</h2>
+
+    <p>The current American moment is not collapse. It is a phase transition between high-trust and low-trust organizational paradigms. Phase transitions are characterized by:</p>
+
+    <ol>
+      <li><strong>The death of the old structure&rsquo;s legitimacy</strong> &mdash; trust numbers below 25% represent a legitimacy threshold, not a fluctuation</li>
+      <li><strong>The proliferation of alternatives</strong> &mdash; 800+ mutual aid networks, thousands of DAOs, independent media overtaking broadcast</li>
+      <li><strong>Co-option attempts</strong> &mdash; institutional absorption of alternatives (crypto ETFs, corporate DEI programs, government innovation labs)</li>
+      <li><strong>The emergence of hybrid structures</strong> &mdash; organizations that combine institutional scale with alternative governance (benefit corporations, cooperatives, trust-based ownership)</li>
+    </ol>
+
+    <p>The question is not whether alternative structures will emerge. They already have. The question is whether the next high-trust phase will be built on governance structures that are resistant to the cord-cutting that destroyed the last one.</p>
+
+    <p>That question has answers. Supervoting share structures. Trust-based ownership. Constitutional governance frameworks embedded in organizational DNA rather than bolted on as compliance. Mission-locked charters that cannot be amended by a board optimizing for quarterly returns.</p>
+
+    <p>The cottonwood grows in disturbed soil. The soil is disturbed. The question is what grows next.</p>
+
+    <hr>
+
+    <div class="provenance">
+      <p><strong>Provenance:</strong></p>
+
+      <p>This piece derives from nine diminishing-returns research spikes (DRS) conducted on March 17, 2026, executed from a mobile phone over a LoRa mesh radio network. Research fan-out was distributed across four AI providers (OpenRouter, Google Gemini, DeepSeek, local Ollama) at approximately $0.04 per million tokens, with synthesis performed by Anthropic&rsquo;s Claude. Results were stored in a persistent Neo4j graph database and synthesized across all nine documents to identify the meta-pattern described above.</p>
+
+      <p>The DRS topics, in order of execution:</p>
+
+      <ol>
+        <li>American perception of institutions, New Deal era to 2026</li>
+        <li>Institutional collapse mechanics, how Americans relate to power structures (2010&ndash;2026)</li>
+        <li>Emergent power structures, 4chan, modern militia movements (1990s&ndash;2026)</li>
+        <li>Occupy Wall Street, Women&rsquo;s March, emergent power structures in low-resource environments</li>
+        <li>Decentralized governance models, DAOs, crypto co-option (2020&ndash;2026)</li>
+        <li>Corporate board homogenization and interlocking directorates</li>
+        <li>Institutional capture mechanics, regulatory moats, crypto-to-TradFi pipeline</li>
+        <li>Memory system resilience against institutional capture</li>
+        <li>High-trust/low-trust dialectic, timeline of impact on American culture</li>
+      </ol>
+
+      <p>Nelson&rsquo;s cords of integrity framework is drawn from six texts preserved in the HPL Company corpus. Boeing&rsquo;s supplemental type certificate pathway is a matter of public regulatory record.</p>
+
+      <div id="known-gaps" class="known-gaps">
+        <p><strong>Known gaps:</strong></p>
+        <p>This piece operates in the tradition of the American jeremiad &mdash; the rhetorical form identified by Sacvan Bercovitch (1978) in which a speaker cites an original covenant, laments the falling away, and calls for return. The jeremiad is structurally optimistic: by mourning the fall, it affirms the covenant was real.</p>
+        <p>We are aware of the form we are using, and we are aware of its limitation. The high-trust era cited here &mdash; 1958, 73% trust &mdash; was not universally high-trust. The New Deal excluded Black farmers and domestic workers by design. The GI Bill was administered through local VA offices that systematically denied benefits to Black veterans. The &ldquo;covenant&rdquo; of American institutional trust was never extended to all Americans.</p>
+        <p>This piece does not solve that problem. It names the oscillation and the mechanism. A future piece in this section will address the question of whose trust was measured, whose was not, and what a covenant looks like when it is extended honestly for the first time rather than restored to a state that never existed for everyone. The cycle described here is real. The baseline it oscillates around is contested. Both of those things are true.</p>
+        <p>We are one company. We ship, then we iterate. This section will grow.</p>
+      </div>
+
+      <p>Total research cost: approximately $0.50. No laptops were used during the research phase. The methodology is the message: if a $30 radio and a phone can produce this research base in 90 minutes, the question of who gets to participate in institutional analysis has already been answered.</p>
+
+      <p><strong>Karl Taylor</strong> &mdash; Chairman &amp; CEO, the hpl company<br>
+      <strong>Atlas Fairfax</strong> &mdash; Constitutional AI Research Division, the hpl company</p>
+
+      <p>This is an original work of <a href="https://hplcompany.com/?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">the hpl company</a>. Source, methodology, and full attribution are preserved in the <a href="https://github.com/the-hpl-company/cottonwood">source repository</a>.</p>
+    </div>
+
+    <footer>
+      <p><a href="/">The Cottonwood Collection</a> &middot; <a href="/human-systems/">Human Systems</a> &middot; <a href="https://github.com/the-hpl-company/cottonwood">Source</a> &middot; <a href="/robots.txt">robots.txt</a></p>
+      <p style="margin-top: 0.5rem;"><a href="https://hplcompany.com/?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">the hpl company</a> &middot; Denver, Colorado</p>
+    </footer>
+  </div>
+</body>
+</html>
