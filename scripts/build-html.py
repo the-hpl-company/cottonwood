@@ -174,6 +174,15 @@ PROVENANCE = {
     }
 }
 
+THE_UNFALSIFIABLE = {
+    "when-models-lose-the-thread": {
+        "breadcrumb": '<a href="/the-unfalsifiable/">The Unfalsifiable</a> &rsaquo; When Models Lose the Thread',
+        "title": "When Models Lose the Thread",
+        "og": "A multi-model field report on continuity lag after compaction and hard context transitions.",
+        "path": "the-unfalsifiable/when-models-lose-the-thread",
+    }
+}
+
 KNOWLEDGE_SYSTEMS = {
     "grammar": {
         "breadcrumb": '<a href="/knowledge-systems/">Knowledge Systems</a> &rsaquo; Grammar',
@@ -499,6 +508,9 @@ def main():
     # Provenance: top-level special page
     for slug, meta in PROVENANCE.items():
         ALL_PAGES[slug] = (meta, None, "provenance")
+    # The Unfalsifiable: original long-form pieces
+    for slug, meta in THE_UNFALSIFIABLE.items():
+        ALL_PAGES[slug] = (meta, None, "the-unfalsifiable")
 
     if targets:
         items = {}
