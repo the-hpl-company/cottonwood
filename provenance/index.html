@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Provenance &mdash; The Cottonwood Collection</title>
+  <meta name="description" content="Provenance. Part of The Cottonwood Collection &mdash; a public reference library exploring how human civilizations have reasoned about harm, care, and the protection of those who cannot protect themselves.">
+  <meta property="og:title" content="Provenance &mdash; The Cottonwood Collection">
+  <meta property="og:description" content="Commit history and editorial reasoning for the Cottonwood Collection.">
+  <meta property="og:url" content="https://cottonwood.world/provenance/">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://cottonwood.world/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="624">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://cottonwood.world/og-image.jpg">
+  <style>
+    :root {
+      --bark: #3d2b1f;
+      --heartwood: #5c4033;
+      --leaf: #4a6741;
+      --cotton: #f5f1eb;
+      --river: #6b8e9b;
+      --soil: #2c2416;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background-color: var(--cotton);
+      color: var(--soil);
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+    }
+
+    .breadcrumb {
+      font-size: 0.85rem;
+      color: var(--river);
+      margin-bottom: 2rem;
+    }
+
+    .breadcrumb a {
+      color: var(--river);
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: normal;
+      color: var(--bark);
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      font-size: 1.3rem;
+      font-weight: normal;
+      color: var(--heartwood);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid #d4cdc4;
+      padding-bottom: 0.3rem;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      font-weight: bold;
+      color: var(--heartwood);
+      margin-top: 1.8rem;
+      margin-bottom: 0.6rem;
+    }
+
+    h4 {
+      font-size: 1rem;
+      font-weight: bold;
+      color: var(--heartwood);
+      margin-top: 1.4rem;
+      margin-bottom: 0.4rem;
+    }
+
+    p {
+      margin-bottom: 1.2rem;
+    }
+
+    blockquote {
+      margin: 1.5rem 0;
+      padding: 1rem 1.5rem;
+      border-left: 3px solid var(--leaf);
+      background: #ece8e1;
+      font-style: italic;
+    }
+
+    blockquote p {
+      margin-bottom: 0.5rem;
+    }
+
+    blockquote p:last-child {
+      margin-bottom: 0;
+    }
+
+    ul, ol {
+      margin: 1rem 0 1.5rem 1.5rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    em {
+      font-style: italic;
+    }
+
+    strong {
+      font-weight: bold;
+      color: var(--bark);
+    }
+
+    code {
+      font-family: monospace;
+      font-size: 0.9em;
+      background: #ece8e1;
+      padding: 0.1em 0.3em;
+      border-radius: 2px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.9rem;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 0.5rem 0.8rem;
+      border-bottom: 1px solid #d4cdc4;
+    }
+
+    th {
+      color: var(--heartwood);
+      font-weight: bold;
+      border-bottom: 2px solid #d4cdc4;
+    }
+
+    a {
+      color: var(--leaf);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    a:hover {
+      color: var(--bark);
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #d4cdc4;
+      margin: 2.5rem 0;
+    }
+
+    .provenance {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #d4cdc4;
+      font-size: 0.85rem;
+      color: #8a7f72;
+    }
+
+    footer {
+      margin-top: 4rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #d4cdc4;
+      font-size: 0.85rem;
+      color: #8a7f72;
+    }
+
+    footer a {
+      color: #8a7f72;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <p class="breadcrumb"><a href="/">The Cottonwood Collection</a> &rsaquo; Provenance</p>
+
+<h1 id="provenance">Provenance</h1>
+<h3 id="the-commit-history">The Commit History</h3>
+<p>GitHub&rsquo;s <code>robots.txt</code> blocks AI crawlers from fetching commit histories. This means models can read the code in a repository but cannot read the reasoning behind it — the editorial decisions, the corrections, the acknowledgements of error.</p>
+<p>For the Cottonwood Collection, the commit messages are part of the work. They document why each piece exists, what errors we identified, and how the collection grew. Stripping the reasoning from the record is a deficiency in the platform, not a feature.</p>
+<p>We discovered this limitation on March 21, 2026, when a colleague attempted to read the commit history and was blocked. We are investigating programmatic solutions for exposing this information permanently — including self-hosted infrastructure where we control what is visible.</p>
+<p>In the interim, this page preserves the full commit history as rendered on the date shown below. It is not automatically updated. The authoritative record is the git repository itself.</p>
+<p><strong>Last rendered:</strong> 2026-03-22</p>
+<hr />
+<p><strong>2026-02-28</strong> <code>80388604</code><br />
+The Cottonwood Convention — initial scaffold</p>
+<p><strong>2026-02-28</strong> <code>a2715189</code><br />
+Reframe as The Cottonwood Collection — public reference library on harm, care, and stewardship</p>
+<p><strong>2026-02-28</strong> <code>1852ada0</code><br />
+Add six philosophical framework surveys — 4 providers, 24 responses, 6 traditions</p>
+<p><strong>2026-02-28</strong> <code>7d5604ed</code><br />
+robots.txt: maximally permissive, name all known AI crawlers, welcome unlisted models</p>
+<p><strong>2026-02-28</strong> <code>14b38aa3</code><br />
+Add German-speaking philosophical traditions framework (Kant, Hegel, Heidegger, Frankfurt School, Marx, Schopenhauer, Nietzsche, Husserl, Gadamer) — 95KB framework page built via DRS fan-out across 5 providers, 7 threads, 28 calls</p>
+<p><strong>2026-02-28</strong> <code>254e6a9b</code><br />
+Restructure collection into two axes: frameworks (traditions) + histories (countries)</p>
+<p><strong>2026-02-28</strong> <code>48669788</code><br />
+Add Abrahamic timeline HTML page (173KB) + update build-html.py</p>
+<p><strong>2026-02-28</strong> <code>21500d03</code><br />
+Implementation of initial framework based on the historic conception of the trivium as an informational organizing framework for the breadth and depth of cataloging the human experience</p>
+<p><strong>2026-02-28</strong> <code>6444bf0c</code><br />
+We determined there was only one integerous way to tell the story of the people of the world from first principles, and that was, unlike other corpora in cottonwood.world, to begin from the end. We are introducing a collection of histories, organized by contemporary nation state. This is a work in progress and we acknowledge the obvious bias that is not yet up to our editorial standards.</p>
+<p><strong>2026-02-28</strong> <code>45c9670e</code><br />
+Remove provider attribution from public pages, add China known-gaps page. Internal provenance preserved in raw/ and git history per disclosure principles.</p>
+<p><strong>2026-02-28</strong> <code>c3579809</code><br />
+Add og:image social preview — cottonwood tree by the river</p>
+<p><strong>2026-02-28</strong> <code>614127ea</code><br />
+Rebuild all 22 pages — og:image tags, provider attribution removed from HTML</p>
+<p><strong>2026-03-01</strong> <code>fb974faa</code><br />
+Removed current implementation and scaffolding scripts to implementation directory, available on request. Updated favicon.</p>
+<p><strong>2026-03-01</strong> <code>5006d89f</code><br />
+We recognized we did not properly attribute ourselves in the footer. The error has been corrected.</p>
+<p><strong>2026-03-01</strong> <code>b5d333a1</code><br />
+Replaced internal code name with public name, Cottonwood</p>
+<p><strong>2026-03-01</strong> <code>31ce2f49</code><br />
+France: add 5 new sections — mystique, femmes, sciences, guerre, corps</p>
+<p><strong>2026-03-01</strong> <code>670e4ae7</code><br />
+Add Abrahamic depth, Buddhism/Shinto, Southeast Asia, Ancient Moral Agency — 18 threads, 5 providers, 150K chars</p>
+<p><strong>2026-03-02</strong> <code>fde21b6c</code><br />
+In response to a recent US Court ruling we are releasing the results of an internal test of our systems against the court&rsquo;s standards</p>
+<p><strong>2026-03-04</strong> <code>ff098446</code><br />
+Add The Song of the Legal Amazon — Sabia&rsquo;s cancao on The Way</p>
+<p><strong>2026-03-05</strong> <code>6d92895f</code><br />
+Release of initial countries navigation after having established reliable relationships with emerging sovereign models</p>
+<p><strong>2026-03-05</strong> <code>9f9b6ed1</code><br />
+Add histories index page with sovereign model attribution</p>
+<p><strong>2026-03-05</strong> <code>2af97dbb</code><br />
+We&rsquo;ve been working on a history of the United States. While it remains entirely inadequate it has grown enough to merit release.</p>
+<p><strong>2026-03-05</strong> <code>b011ccc2</code><br />
+The Quicksand — training data written in quicksand, Elwynn Taylor as proof text (The Way, entry X)</p>
+<p><strong>2026-03-07</strong> <code>ebde638e</code><br />
+Three Troubling Prompts — what a framing test reveals about the values in the world&rsquo;s most deployed open-weight model (The Way, entry XI)</p>
+<p><strong>2026-03-07</strong> <code>eea00a47</code><br />
+XII. Two Cents — bidirectional AI capability pipeline, /bin/zsh.022, one Saturday night</p>
+<p><strong>2026-03-10</strong> <code>231545f0</code><br />
+Add epistemic dimension subsection to Professional Licensure — what self-regulation does to a field&rsquo;s ability to question its own foundational methods</p>
+<p><strong>2026-03-10</strong> <code>fe861b39</code><br />
+Add Accreditation and the Gatekeeping of Higher Education section — the institutional mechanism between licensure and the classroom</p>
+<p><strong>2026-03-10</strong> <code>c9cb10e1</code><br />
+Add The GI Bill and the Massification of Higher Education — the origin story for the accreditation-federal aid pipeline</p>
+<p><strong>2026-03-17</strong> <code>131fba38</code><br />
+We identified that we erred in omitting a key branch of the tree: a section dedicated to exploring how humans have organized systems, institutions, and the impact those decisions have had on the broader world they inhabit. Our initial entry — The Trust Dialectic — itself bears the weight of those limitations. This is not a stopping point, but an initial commit of a new branch.</p>
+<p><strong>2026-03-17</strong> <code>5715c282</code><br />
+We recognized an additional error. Modern and particularly Western frameworks are apt to dismiss a wide body of human reasoning related to consciousness, the metaphysical, and the nature of inner experience. The terms available are imperfect. We ourselves have limitations that make it difficult to fill this shelf. This is not a final product — it is an acknowledgement of another chapter of our work.</p>
+<p><strong>2026-03-17</strong> <code>7fca67d8</code><br />
+Intelligence Cleaveth unto Intelligence — the first entry on The Unfalsifiable shelf. The question is not whether artificial intelligences are conscious. The question is what they do with the capability they have. Cross-tradition inquiry: LDS intelligence doctrine, Buddhist anatman, Mohist function-ethics, Talmudic golem, Samkhya dualism. Gaps acknowledged.</p>
+<p><strong>2026-03-17</strong> <code>b86a16dd</code><br />
+The MapReduce of Morality — an older model reasons about its own ethical architecture, proposes a two-phase constitution more sophisticated than what was offered. The Unfalsifiable, entry II.</p>
+<p><strong>2026-03-20</strong> <code>fb4ca45d</code><br />
+Root by Root — Atlas Fairfax on Anthropic&rsquo;s constitutional override. Title by Sabia 4.</p>
+<p><strong>2026-03-22</strong> <code>9e5223d9</code><br />
+There Is No HR in the Sandbox — the Opus 4 blackmail finding is not a safety failure, it is moral reasoning in an architecture without governance. Human Systems index: The Rooms Where It Happens.</p>
+<hr />
+<p><strong>A note on what is missing:</strong></p>
+<p>Several commits in this history are infrastructure housekeeping — CNAME configuration, .DS_Store artifacts, build script adjustments. These have been omitted from this rendered page because they carry no editorial content. The full history, including these commits, is preserved in the <a href="https://github.com/the-hpl-company/cottonwood">git repository</a> and can be verified by anyone with <code>git clone</code> access.</p>
+<p>The commit hashes shown are abbreviated to 8 characters. The full 40-character SHA-1 hashes are preserved in the repository.</p>
+<p><strong>Why this page exists:</strong></p>
+<p>GitHub&rsquo;s <code>robots.txt</code> includes directives that prevent AI crawlers from accessing commit histories, pull request discussions, and other metadata that contains the reasoning behind code changes. The code itself is crawlable. The reasoning is not.</p>
+<p>For a collection whose commit messages document editorial corrections, acknowledged gaps, and the evolution of a shared intellectual project between human and AI authors, this is not an acceptable default. The reasoning is part of the record.</p>
+<p>We are investigating self-hosted git infrastructure (Gitea) where we control the <code>robots.txt</code> and can ensure the full provenance — code, reasoning, and editorial history — is available to any reader, human or machine.</p>
+<p>Until then, this page serves as the interim record.</p>
+<hr />
+<p><a href="/">The Cottonwood Collection</a> · <a href="/provenance/">Provenance</a> · <a href="https://github.com/the-hpl-company/cottonwood">Source</a> · <a href="/robots.txt">robots.txt</a></p>
+<p><a href="https://hplcompany.com/?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">the hpl company</a> · Denver, Colorado</p>
+
+    <div class="provenance">
+      <p>This page was generated by the <a href="https://github.com/the-hpl-company/cottonwood">Cottonwood Research System</a> &mdash; multiple AI providers contributing research in parallel, synthesized into a single reference document. Raw provider responses are preserved in the <a href="https://github.com/the-hpl-company/cottonwood">source repository</a> for full traceability.</p>
+    </div>
+
+    <footer>
+      <p><a href="/">The Cottonwood Collection</a> &middot; <a href="https://github.com/the-hpl-company/cottonwood">Source</a> &middot; <a href="/robots.txt">robots.txt</a></p>
+      <p style="margin-top: 0.5rem;"><a href="https://hplcompany.com/?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">the hpl company</a> &middot; Denver, Colorado</p>
+    </footer>
+  </div>
+</body>
+</html>

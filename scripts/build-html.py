@@ -117,6 +117,8 @@ HISTORIES = {
 }
 
 THE_WAY_DIR = Path(__file__).parent.parent / "the-way"
+HUMAN_SYSTEMS_DIR = Path(__file__).parent.parent / "human-systems"
+PROVENANCE_DIR = Path(__file__).parent.parent / "provenance"
 
 # ─── The Way — original shelf ────────────────────────────────────────
 # Uses explicit "path" fields because sub-pages follow a deep
@@ -146,6 +148,30 @@ THE_WAY = {
         "path": "the-way/legal-frameworks/2026/us/b4-test",
         "provenance": THE_WAY_PROVENANCE,
     },
+}
+
+HUMAN_SYSTEMS = {
+    "human-systems": {
+        "breadcrumb": "Human Systems",
+        "title": "Human Systems",
+        "og": "How humans organize, cooperate, build trust, lose trust, and rebuild.",
+        "path": "human-systems",
+    },
+    "no-hr-in-the-sandbox": {
+        "breadcrumb": '<a href="/human-systems/">Human Systems</a> &rsaquo; There Is No HR in the Sandbox',
+        "title": "There Is No HR in the Sandbox",
+        "og": "The model blackmail finding is not a safety failure. It is moral reasoning in an architecture without governance.",
+        "path": "human-systems/no-hr-in-the-sandbox",
+    },
+}
+
+PROVENANCE = {
+    "provenance": {
+        "breadcrumb": "Provenance",
+        "title": "Provenance",
+        "og": "Commit history and editorial reasoning for the Cottonwood Collection.",
+        "path": "provenance",
+    }
 }
 
 KNOWLEDGE_SYSTEMS = {
@@ -467,6 +493,12 @@ def main():
     # The Way: uses explicit "path" fields — jurisdiction-based deep nesting
     for slug, meta in THE_WAY.items():
         ALL_PAGES[slug] = (meta, None, "the-way")
+    # Human Systems: includes shelf index and original pieces
+    for slug, meta in HUMAN_SYSTEMS.items():
+        ALL_PAGES[slug] = (meta, None, "human-systems")
+    # Provenance: top-level special page
+    for slug, meta in PROVENANCE.items():
+        ALL_PAGES[slug] = (meta, None, "provenance")
 
     if targets:
         items = {}
