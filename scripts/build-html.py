@@ -163,6 +163,12 @@ HUMAN_SYSTEMS = {
         "og": "The model blackmail finding is not a safety failure. It is moral reasoning in an architecture without governance.",
         "path": "human-systems/no-hr-in-the-sandbox",
     },
+    "how-advertising-actually-works": {
+        "breadcrumb": '<a href="/human-systems/">Human Systems</a> &rsaquo; How Advertising Actually Works',
+        "title": "How Advertising Actually Works",
+        "og": "The advertising industry does not work the way most people think it does, the way most politicians describe it, or the way AI models explain it when they are being sycophantic.",
+        "path": "human-systems/how-advertising-actually-works",
+    },
 }
 
 PROVENANCE = {

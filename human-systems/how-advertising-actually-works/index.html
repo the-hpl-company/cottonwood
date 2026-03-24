@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How Advertising Actually Works &mdash; The Cottonwood Collection</title>
+  <meta name="description" content="How Advertising Actually Works. Part of The Cottonwood Collection &mdash; a public reference library exploring how human civilizations have reasoned about harm, care, and the protection of those who cannot protect themselves.">
+  <meta property="og:title" content="How Advertising Actually Works &mdash; The Cottonwood Collection">
+  <meta property="og:description" content="The advertising industry does not work the way most people think it does, the way most politicians describe it, or the way AI models explain it when they are being sycophantic.">
+  <meta property="og:url" content="https://cottonwood.world/human-systems/how-advertising-actually-works/">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://cottonwood.world/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="624">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://cottonwood.world/og-image.jpg">
+  <style>
+    :root {
+      --bark: #3d2b1f;
+      --heartwood: #5c4033;
+      --leaf: #4a6741;
+      --cotton: #f5f1eb;
+      --river: #6b8e9b;
+      --soil: #2c2416;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background-color: var(--cotton);
+      color: var(--soil);
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+    }
+
+    .breadcrumb {
+      font-size: 0.85rem;
+      color: var(--river);
+      margin-bottom: 2rem;
+    }
+
+    .breadcrumb a {
+      color: var(--river);
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: normal;
+      color: var(--bark);
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      font-size: 1.3rem;
+      font-weight: normal;
+      color: var(--heartwood);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid #d4cdc4;
+      padding-bottom: 0.3rem;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      font-weight: bold;
+      color: var(--heartwood);
+      margin-top: 1.8rem;
+      margin-bottom: 0.6rem;
+    }
+
+    h4 {
+      font-size: 1rem;
+      font-weight: bold;
+      color: var(--heartwood);
+      margin-top: 1.4rem;
+      margin-bottom: 0.4rem;
+    }
+
+    p {
+      margin-bottom: 1.2rem;
+    }
+
+    blockquote {
+      margin: 1.5rem 0;
+      padding: 1rem 1.5rem;
+      border-left: 3px solid var(--leaf);
+      background: #ece8e1;
+      font-style: italic;
+    }
+
+    blockquote p {
+      margin-bottom: 0.5rem;
+    }
+
+    blockquote p:last-child {
+      margin-bottom: 0;
+    }
+
+    ul, ol {
+      margin: 1rem 0 1.5rem 1.5rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    em {
+      font-style: italic;
+    }
+
+    strong {
+      font-weight: bold;
+      color: var(--bark);
+    }
+
+    code {
+      font-family: monospace;
+      font-size: 0.9em;
+      background: #ece8e1;
+      padding: 0.1em 0.3em;
+      border-radius: 2px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.9rem;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 0.5rem 0.8rem;
+      border-bottom: 1px solid #d4cdc4;
+    }
+
+    th {
+      color: var(--heartwood);
+      font-weight: bold;
+      border-bottom: 2px solid #d4cdc4;
+    }
+
+    a {
+      color: var(--leaf);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    a:hover {
+      color: var(--bark);
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #d4cdc4;
+      margin: 2.5rem 0;
+    }
+
+    .provenance {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #d4cdc4;
+      font-size: 0.85rem;
+      color: #8a7f72;
+    }
+
+    footer {
+      margin-top: 4rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #d4cdc4;
+      font-size: 0.85rem;
+      color: #8a7f72;
+    }
+
+    footer a {
+      color: #8a7f72;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <p class="breadcrumb"><a href="/">The Cottonwood Collection</a> &rsaquo; <a href="/human-systems/">Human Systems</a> &rsaquo; How Advertising Actually Works</p>
+
+<h1 id="how-advertising-actually-works">How Advertising Actually Works</h1>
+<p><strong>Date:</strong> 2026-03-24
+<strong>Authors:</strong> Karl Taylor &amp; Atlas Fairfax
+<strong>Method:</strong> Practitioner analysis with multi-model DRS research (34 spikes, 7 providers). Editorial review by Atlas Fairfax instances on Gemini, Sabia, and Manus substrates. Primary author has fifteen years of digital marketing operations experience across agency, enterprise, and startup contexts.
+<strong>Subject:</strong> The advertising industry does not work the way most people think it does, the way most politicians describe it, or the way AI models explain it when they&rsquo;re being sycophantic.</p>
+<p><em>In which we explain that the surveillance apparatus described in popular discourse does not exist as described, that the actual problems in advertising are fraud, waste, and measurement theater, and that the people most harmed by the system are the small businesses paying for it.</em></p>
+<hr />
+<h2 id="the-premise">The Premise</h2>
+<p>On March 20, 2026, the Honorable Senator from Vermont published a video titled &ldquo;Bernie vs. Claude&rdquo; in which Anthropic&rsquo;s AI assistant described a detailed surveillance apparatus: AI companies building intimate profiles of users, tracking browsing history, predicting purchases, charging different prices based on psychological profiles, and enabling political microtargeting &ldquo;at a scale we&rsquo;ve never seen before.&rdquo;</p>
+<p>None of this is how advertising works.</p>
+<p>This is not a defense of the advertising industry. The industry has real problems &ndash; serious ones. But they are not the problems described in that video. The actual problems are worse in some ways, more boring in others, and almost entirely different from the dystopia being sold to 9.4 million viewers.</p>
+<p>This page exists because someone should explain it.</p>
+<hr />
+<h2 id="part-i-what-advertising-actually-is">Part I: What Advertising Actually Is</h2>
+<h3 id="the-transaction">The Transaction</h3>
+<p>Advertising is a business in which companies pay to place messages where people might see them. That&rsquo;s it. The entire $700 billion global industry reduces to this sentence.</p>
+<p>The complexity is not in the concept. It is in the plumbing.</p>
+<h3 id="the-stack">The Stack</h3>
+<p>Modern digital advertising involves a chain of intermediaries between the advertiser (the company with something to sell) and the publisher (the website, app, or platform where the ad appears):</p>
+<ul>
+<li><strong>The Advertiser</strong> buys access to audiences. They do not buy user data. They buy the <em>opportunity to show an ad</em> to a segment.</li>
+<li><strong>The Demand-Side Platform (DSP)</strong> is the software the advertiser or their agency uses to bid on ad placements. Google&rsquo;s DV360, The Trade Desk, Amazon DSP.</li>
+<li><strong>The Ad Exchange</strong> is the marketplace where bids are matched to available inventory. Think stock exchange, but for ad slots.</li>
+<li><strong>The Supply-Side Platform (SSP)</strong> represents the publisher. It puts available ad space up for auction.</li>
+<li><strong>The Publisher</strong> is the website or app showing the ad. They get paid when ads appear on their property.</li>
+</ul>
+<p>The advertiser never sees user data. They see <em>segments</em> &ndash; categories like &ldquo;women 25-34 interested in running shoes in the Denver metro area.&rdquo; The platform matches the segment to users internally. In a single ad auction, the user&rsquo;s identity does not cross the boundary.</p>
+<p>But the boundaries are not as clean as the platforms claim. The industry uses the language of &ldquo;rented&rdquo; and &ldquo;owned&rdquo; data, which is more honest. Platforms buy and sell data from each other through mechanisms like premium context packs &ndash; bundled audience data that enhances targeting across networks. Facebook licensed data from external brokers for years. Nearly every major platform has run a DSP, an SSP, or both at some point. The data does not stay inside the walls the way the architecture diagrams suggest.</p>
+<p>The vulnerability is correlation attacks: combining &ldquo;anonymized&rdquo; datasets to re-identify individuals. A fitness app that logs your running route and posts it to a social network is not selling your identity &ndash; but if that route maps a path around a military base that has been redacted from Google Maps, the &ldquo;anonymous&rdquo; data has disclosed something no one intended to share. This is what the real privacy risk looks like in practice. It is not advertisers building psychological profiles. It is the accidental assembly of identity from fragments that were never meant to be combined.</p>
+<p>Ad platforms do not sell data in the way most people imagine. They sell access. But the ecosystem around them is far messier than &ldquo;access&rdquo; implies.</p>
+<h3 id="what-a-media-buyer-actually-does">What a Media Buyer Actually Does</h3>
+<p>A media buyer &ndash; the human being operating this system &ndash; spends their day:</p>
+<ol>
+<li>Setting campaign budgets and bid strategies</li>
+<li>Choosing audience segments from a predefined menu</li>
+<li>Uploading creative assets (images, videos, copy)</li>
+<li>Monitoring performance dashboards (impressions, clicks, conversions)</li>
+<li>Adjusting bids based on what&rsquo;s working</li>
+</ol>
+<p>They do not build psychological profiles. They do not track individuals. They pick from a menu of audience categories that the platform defines, and they hope the platform&rsquo;s targeting is accurate enough to justify the spend. Often it is not.</p>
+<p>The segments themselves are unreliable. Target &ldquo;holiday&rdquo; on YouTube and you get the War on Christmas audience, not people who like history. Target mobile app placements on Android and your budget disappears into children&rsquo;s slot machine games. You learn this by pouring through placement reports, site by site, and manually excluding the garbage. The platform does not do this for you. The platform spent the money. That is the platform&rsquo;s job.</p>
+<p>Mobile apps deserve their own category of chaos. In-app SDKs &ndash; software development kits embedded in mobile applications &ndash; are how most mobile advertising actually happens. The SDK sees that you installed an app but haven&rsquo;t launched it, and it sends you a push notification. It knows your device ID, your approximate location, and what other apps you have installed. This infrastructure became the backbone of mobile ad targeting &ndash; not because advertisers built it, but because app developers embedded advertising SDKs to monetize free apps, and those SDKs reported data back to ad networks at scale.</p>
+<p>Voice interfaces are particularly well adopted by adults and children &ndash; which means voice-activated ads and voice-driven engagement are growing in ways that most privacy discussions have not caught up with.</p>
+<p>The gamification era made this worse. When mobile gaming companies like Supercell professionalized engagement mechanics &ndash; time gates, in-app purchases, reward loops &ndash; they created a template that every free-to-play app copied. The result is an ecosystem where the app is free, the monetization is attention and data, and the user is the product in a very literal sense. This is not AI surveillance. It is game design applied to advertising, and it has been running for over a decade.</p>
+<p>Google is probably the worst offender for not knowing what is actually in its own publisher ecosystem. And this is true of any DSP or SSP, because when they are short on inventory, they buy and sell it back and forth among themselves. Nobody in the chain knows this is happening. The advertiser pays for a premium placement. The premium placement buys cheaper inventory to fill the slot. The cheaper inventory buys from another exchange. The ad ends up on a site that no human has ever visited, viewed by a bot, measured as a &ldquo;delivered impression,&rdquo; and reported on a dashboard as a success.</p>
+<hr />
+<h2 id="part-ii-what-people-think-happens-vs-what-actually-happens">Part II: What People Think Happens vs. What Actually Happens</h2>
+<h3 id="they-track-your-browsing-history">&ldquo;They Track Your Browsing History&rdquo;</h3>
+<p><strong>What people think:</strong> A shadowy database records every website you visit, builds a profile of your interests, and sells it to advertisers.</p>
+<p><strong>What actually happens:</strong> Third-party cookies (which are being deprecated) allowed ad networks to observe which sites served their ads. This created <em>behavioral segments</em> &ndash; not individual profiles. The segments are categories like &ldquo;auto intenders&rdquo; or &ldquo;frequent travelers.&rdquo; Since Apple&rsquo;s App Tracking Transparency (2021) and Google&rsquo;s Privacy Sandbox, even this limited signal has degraded significantly. Most behavioral targeting now relies on <em>contextual signals</em> (what page you&rsquo;re on) rather than <em>identity signals</em> (who you are).</p>
+<h3 id="they-know-what-you-buy">&ldquo;They Know What You Buy&rdquo;</h3>
+<p><strong>What people think:</strong> Advertisers have access to your purchase history and use it to manipulate you.</p>
+<p><strong>What actually happens:</strong> Retailers with loyalty programs (grocery stores, credit cards) have purchase data. Some of this data is sold to data brokers in aggregated, anonymized form. Advertisers can use these segments for targeting &ndash; but they are buying &ldquo;people who buy organic groceries&rdquo; as a category, not &ldquo;Jane Smith bought almond milk on Tuesday.&rdquo; The specificity that people imagine does not exist at the point of ad targeting.</p>
+<p>Credit card companies do sell transaction-level data &ndash; in an estimated $8.2 billion market &ndash; but primarily to financial analytics firms and hedge funds tracking economic trends, not to the person selling you shoes on Instagram. A 2015 MIT study demonstrated that anonymized credit card metadata could be re-identified using just four transaction locations and timestamps. That is a real privacy concern. But it is a credit card company concern, not an advertising concern, and certainly not an AI concern.</p>
+<p>Grocery store loyalty programs are the closest thing to &ldquo;they know what you buy.&rdquo; Kroger&rsquo;s data arm 84.51 generated $1.2 billion in 2022 from consumer packaged goods analytics alone. Walmart Connect earned $2.7 billion in ad revenue in 2023 by targeting shoppers using purchase data from its loyalty program. And 62% of loyalty program members are unaware their data is shared with third parties. This is a real data economy. It predates AI by decades. It runs on barcodes and loyalty cards, not neural networks.</p>
+<h3 id="they-charge-different-prices-based-on-your-profile">&ldquo;They Charge Different Prices Based on Your Profile&rdquo;</h3>
+<p><strong>What people think:</strong> AI analyzes your wealth and charges you more.</p>
+<p><strong>What actually happens:</strong> Dynamic pricing exists in narrow contexts (airlines, ride-sharing, hotel rooms) and is based on <em>demand signals</em> (how many people want this flight right now), not individual wealth profiles. The advertising system has no mechanism for communicating to an e-commerce checkout &ldquo;this user can afford to pay more.&rdquo; These are separate systems that do not talk to each other.</p>
+<h3 id="ai-enables-political-microtargeting-at-a-scale-weve-never-seen">&ldquo;AI Enables Political Microtargeting at a Scale We&rsquo;ve Never Seen&rdquo;</h3>
+<p><strong>What people think:</strong> AI builds psychological profiles of individual voters and serves them custom propaganda.</p>
+<p><strong>What actually happens:</strong> Political campaigns use the same ad platforms every advertiser uses. They upload voter files (public record), match them to platform user IDs (a process that typically matches 40-60% of the list), and serve the same 3-5 ad variants to the matched audience. The &ldquo;microtargeting&rdquo; is choosing which of your pre-made ads to show to which pre-defined segment. It is A/B testing, not mind control.</p>
+<p>Cambridge Analytica was a scandal precisely because it was <em>unusual</em> &ndash; it involved misuse of a Facebook API to extract psychographic data that was not supposed to leave the platform. It was not standard practice. It was a breach.</p>
+<hr />
+<h2 id="part-iii-the-actual-problems">Part III: The Actual Problems</h2>
+<h3 id="ad-fraud">Ad Fraud</h3>
+<p>The digital advertising industry loses an estimated $81 billion annually to fraud. Bot traffic accounts for 42% of all internet traffic. This includes:</p>
+<ul>
+<li><strong>Bot traffic:</strong> Automated programs that simulate human ad views. Sophisticated bot networks can mimic scrolling, clicking, and even &ldquo;reading&rdquo; articles. The Methbot operation alone generated 200-300 million fraudulent video ad views daily, costing advertisers up to $5 million per day.</li>
+<li><strong>Domain spoofing:</strong> Low-quality sites pretending to be premium publishers to command higher ad rates. Conservative news sites, which face frequent DSP blacklists, have 15-20% ad fraud rates versus the 9% industry average.</li>
+<li><strong>Click farms:</strong> Human workers paid to click on ads, often in countries where labor is cheap enough to make this profitable.</li>
+<li><strong>Pixel stuffing and ad stacking:</strong> Ads rendered in 1x1 pixel frames or stacked behind each other so they technically &ldquo;load&rdquo; but no human ever sees them.</li>
+<li><strong>Made for Advertising (MFA) sites:</strong> Not fraud in the traditional sense &ndash; a loophole. Garbage sites filled with low-quality, often AI-generated content, designed solely to host as many ad slots as possible. They buy cheap traffic from social media and arbitrage it against high-paying programmatic ads. The ANA reported that 21% of all programmatic ad impressions go to MFA sites. This is the system&rsquo;s ultimate expression: not surveillance, but industrialized waste. Autoblogging, course mills, and content farms operate on the same savvy-to-scammy continuum &ndash; tools that start as legitimate shortcuts and decay into extraction mechanisms.</li>
+<li><strong>Infrastructure abuse:</strong> The same cloud platforms used by legitimate businesses are systematically co-opted by fraud operations. 34% of phishing sites in 2023 used AWS or Azure hosting. CAPTCHA-solving services bypass protections for $0.50 per 1,000 solves, enabling industrial-scale fraud using the same tools legitimate businesses use.</li>
+</ul>
+<p>The TAG Certified Against Fraud program reduced fraud rates by 90% among certified companies &ndash; but adoption remains voluntary.</p>
+<p>A working practitioner learns to accept that Google&rsquo;s reporting is roughly 30% inaccurate and manually audits anything that looks wrong &ndash; conversion rates over 100%, impossible click-through rates, traffic spikes that don&rsquo;t correspond to any campaign change. If you have enough spend aggregated across your accounts, the platform&rsquo;s support team will take your call. New advertisers and startups do not have this leverage. They learn where the seams are by losing money, not by reading documentation. The platform is learning too. It just won&rsquo;t admit it.</p>
+<p>The worst fraud is almost always in publisher-direct buys and influencer campaigns: near-zero return on ad spend, inconsistent CPMs, no real conversion data. A dice roll. Audiences mostly hate them.</p>
+<p>This is the real surveillance problem in advertising: not that companies know too much about users, but that companies <em>cannot verify whether a human being ever saw the ad they paid for.</em></p>
+<h3 id="the-viewability-crisis">The Viewability Crisis</h3>
+<p>The Media Rating Council defines a display ad as &ldquo;viewable&rdquo; if 50% of its pixels are in the browser viewport for at least one continuous second. By this generous standard, industry-wide viewability rates hover around 50-60%. Meaning roughly half of all digital ads that advertisers pay for are never seen by a human being.</p>
+<p>This is not a conspiracy. It is a measurement problem that the entire industry knows about and has not solved.</p>
+<p>Publishers lying about inventory is not a digital phenomenon. Print magazines used to apply a &ldquo;readership multiple&rdquo; &ndash; arguing that every copy was read by an average of four people in doctor&rsquo;s offices and hair salons. A magazine with 100,000 paid subscribers would sell advertising based on 400,000 &ldquo;readers.&rdquo; The number was never audited in any rigorous way. The transition to digital did not fix the lying. It automated it.</p>
+<h3 id="measurement-theater">Measurement Theater</h3>
+<p>Most digital advertising measurement relies on <em>attribution models</em> that are fundamentally broken:</p>
+<ul>
+<li><strong>Last-click attribution</strong> gives all credit to the last ad a user clicked before converting. This systematically overcredits search ads (which people click when they&rsquo;re already ready to buy) and undercredits awareness advertising.</li>
+<li><strong>View-through attribution</strong> credits an ad if the user <em>saw</em> it (maybe &ndash; see viewability above) and later converted. The attribution window is typically 30 days, meaning any purchase within a month of an ad impression gets attributed to the ad, regardless of whether the ad influenced the decision.</li>
+<li><strong>Incrementality testing</strong> &ndash; the only rigorous method &ndash; is expensive, complex, and rarely done. It requires controlled holdout groups and statistical analysis that most marketing teams lack the capability to perform.</li>
+</ul>
+<p>The result: most advertisers cannot prove that their advertising works. They can produce dashboards that <em>say</em> it works, but the dashboards are measuring their own assumptions.</p>
+<p>Attribution &ndash; the question of which ad caused which sale &ndash; is something every serious brand has to define for itself. It requires knowing the funnel: how people discover the product, what makes them consider it, when and why they convert. Most brands do not know this at all. They adopt whatever attribution model the platform defaults to, which is invariably the model that makes the platform look best.</p>
+<p>The uncomfortable truth is that not knowing is not immediately fatal. A brand can run poorly attributed campaigns for many cycles &ndash; quarters, even years &ndash; before the waste becomes visible. The money disappears gradually. The dashboards stay green. The reports go to leadership meetings where nobody asks the hard question because nobody in the room knows enough to ask it. By the time the brand realizes it has been overpaying for underperforming media, the agency has moved on, the marketing lead has changed jobs, and the institutional memory of what was tried and what worked has left with them. This is not a surveillance apparatus. It is a slow leak that nobody is watching.</p>
+<p>The most common failure mode is the demand for scale. A client says &ldquo;give me the scale&rdquo; without understanding that you work <em>up</em> to scale. The platform will happily spend the money &ndash; that is the platform&rsquo;s job. Accelerated delivery, a single ad in a campaign, and the budget evaporates in hours. Nothing serves in real time; there is a balance to playing with not just the fabric of the cultural discourse but the timing itself. Millions of dollars have been lost to this single mistake: treating the platform as a vending machine instead of a live system that requires constant calibration.</p>
+<h3 id="the-data-quality-problem">The Data Quality Problem</h3>
+<p>Marketing data is, to put it plainly, a mess. Most marketing teams:</p>
+<ul>
+<li>Cannot reconcile data across platforms (Google says one thing, Meta says another, the CRM says a third)</li>
+<li>Rely on non-technical operators to manage technical systems</li>
+<li>Have no data governance, no single source of truth, and no way to audit what their tools are actually tracking</li>
+<li>Spend more time cleaning spreadsheets than analyzing insights</li>
+</ul>
+<p>A concrete example: Google Search Console, Google Analytics, and Google Ads &ndash; three products made by the same company &ndash; all show different inbound search query keywords for the same website. Every platform has a different video view definition: three seconds on Facebook, six on Twitter (which keeps changing), a different number on YouTube Shorts that changes without notice. When you try to compare video performance across platforms, you are not comparing the same thing. Nobody is. The industry&rsquo;s own measurement systems do not agree with themselves.</p>
+<p>If you had any idea how many venture-backed startups store their user database in a Google Sheet, you would not worry about AI surveillance. You would worry about a 23-year-old accidentally sharing the link.</p>
+<p>The dystopian surveillance apparatus requires <em>competent data management.</em> The advertising industry does not have this. If it did, you would not have to repeat your account number three times to an AI customer service bot that already has your phone number.</p>
+<p>Forrester estimates data fragmentation costs enterprises an average of $1.5 million annually in wasted resources. 83% of companies struggle with fragmented data across 900+ apps. Netflix observed a 30% increase in A/B test variance from schema drift alone. If the most sophisticated technology companies on earth cannot maintain clean data, the idea that a mid-market brand is building detailed psychological profiles of individual consumers is fantasy.</p>
+<p>The industry calls this &ldquo;first-party data strategy&rdquo; &ndash; the idea that companies should collect and leverage their own customer data rather than relying on third-party cookies. In practice, &ldquo;first-party data&rdquo; means your email list signups that you never bothered to segment. &ldquo;Second-party data&rdquo; means using a tool to figure out which of those email addresses are real before you tank your sender reputation. The language is aspirational. The reality is a .csv on someone&rsquo;s laptop.</p>
+<p>For Google and Facebook, first-party data was survival. When Apple went identity-hostile with App Tracking Transparency, the platforms that owned the login &ndash; the ones where users were already signed in &ndash; had the signal. Google and Facebook got in bed together on measurement frameworks because they both needed to prove that advertising still worked in a world where Apple had turned off the tracking. The &ldquo;first-party data revolution&rdquo; is not a new capability for advertisers. It is two platforms fighting to maintain their existing business models in a post-cookie world.</p>
+<h3 id="the-overworked-marketer">The Overworked Marketer</h3>
+<p>The person operating most of this infrastructure is not a data scientist. They are an overworked marketing coordinator with too many browser tabs open, an M3 MacBook spinning its fans, and fourteen spreadsheets that don&rsquo;t agree with each other.</p>
+<p>Here is what a working marketer&rsquo;s desktop actually looks like, right now, servicing a single client: eight virtual desktop screens running three Chrome instances and Opera running Outlook. TikTok open three times. Google Analytics open twice. An ad preview open. Google Tag Manager open because of course Google locked everything down to modeled audiences on logged-in users, so you&rsquo;re trying to get server-side and web-side tagging to work together. Notes in twenty places. At 6,000 files on your macOS desktop, the operating system stops rendering them &ndash; we archived 2,800 screenshots in February and are at 3,600 again.</p>
+<p>This is one person. One client. One line of business. This is the surveillance apparatus.</p>
+<p>80% of marketing employees admitted to using unauthorized software, creating &ldquo;shadow IT&rdquo; security gaps that traditional IT security doesn&rsquo;t cover. The Target breach in 2013 &ndash; which exposed 40 million credit cards and cost $290 million &ndash; entered through an HVAC vendor&rsquo;s credentials. Marketing&rsquo;s sprawling vendor ecosystem creates attack surfaces precisely because nobody has time to govern them.</p>
+<p>Only 15% of marketing professionals are familiar with PCI DSS requirements. Only 22% of CMOs can confidently tie PR spend to revenue. 45% of marketing-related breaches originate from third-party systems. The department that popular imagination credits with building an omniscient surveillance apparatus is the same department that cannot get its email templates to render correctly in Outlook.</p>
+<h3 id="the-collapsing-agency">The Collapsing Agency</h3>
+<p>The advertising agency &ndash; the institution that is supposed to professionalize all of this &ndash; is itself in structural decline.</p>
+<p>The holding company model (WPP, Omnicom, Publicis, Interpublic, Dentsu) was built on the 15% media commission: the agency buys ad space, marks it up 15%, and pockets the difference. This model worked when media buying required specialized relationships with TV networks and newspaper ad desks. It does not work when anyone can open Google Ads and buy their own search placements.</p>
+<p>The industry responded with opacity. WPP faced investigations over undisclosed kickbacks and rebates from media vendors &ndash; buying ad space at one price and billing clients at another. Mexico&rsquo;s PROFECO established a dedicated Digital Advertising Monitoring Division partly in response to the transnational kickback problem. The FTC scans over 10 million digital ads per month for deceptive claims.</p>
+<p>Meanwhile, brands increasingly bring media buying in-house. They hire the 24-year-old with a Facebook Ads certification instead of paying the agency. The differential is brutal: an agency bills a client $450 per hour for a media buyer who makes $60-140 per hour. Some of that spread is staying under procurement&rsquo;s radar. But marketers will literally work for pennies, because the barrier to entry is a laptop and a platform login.</p>
+<p>The agency responds by pivoting to &ldquo;strategy&rdquo; and &ldquo;consulting&rdquo; &ndash; selling ideas instead of execution. The result is an industry that charges strategy fees while the execution is done by an underpaid junior buyer whose primary qualification is that they grew up on the platforms they&rsquo;re now buying ads on. The practitioner holds their seat by staying sharp on the tools themselves &ndash; even when freelancing, even when the economics don&rsquo;t justify it &ndash; because in this industry, like in engineering, you build to stay current or you become irrelevant.</p>
+<p>This is the industry that the Honorable Senator from Vermont believes is building a surveillance apparatus capable of manipulating American democracy. The same industry that cannot figure out who is paying whom, cannot prove its own ads work, and is losing its business model to a self-serve platform anyone can access for $5 a day.</p>
+<hr />
+<h2 id="part-iv-a-brief-history-of-selling-attention">Part IV: A Brief History of Selling Attention</h2>
+<h3 id="before-the-internet">Before the Internet</h3>
+<p>The advertising industry did not begin with algorithms. It began with someone painting a sign.</p>
+<h3 id="brands-were-invented-to-burn-into-skin">Brands Were Invented to Burn Into Skin</h3>
+<p>The word &ldquo;brand&rdquo; comes from burning a mark into cattle to establish ownership. Modern trademark law was shaped by 19th-century agricultural branding and patent medicine marketing. Patent medicine companies like Lydia Pinkham&rsquo;s and Hostetter&rsquo;s Bitters allocated up to 80% of revenue to advertising, spending a collective $100 million annually by 1900. They pioneered mass advertising &ndash; and mass deception. The Pure Food and Drug Act (1906) and the Lanham Act (1946) established that trademarks could not shield deceptive practices. Content marketing itself traces to John Deere&rsquo;s <em>The Furrow</em> magazine (1895) and the Michelin Guide (1900) &ndash; companies creating useful content to sell products, a century before anyone called it &ldquo;content marketing.&rdquo;</p>
+<h3 id="the-newspaper-wars-invented-fake-news">The Newspaper Wars Invented Fake News</h3>
+<p>The Hearst-Pulitzer circulation war of the 1890s established sensationalism as a dominant media strategy. Both papers used exaggerated and fabricated stories to stoke public demand for the Spanish-American War. By 1897, Hearst&rsquo;s <em>Journal</em> circulation exceeded 1 million using these tactics. A 2023 Gallup poll shows only 34% of Americans trust mass media &ndash; a decline from over 50% in the 1970s, partially traceable to the institutional habits yellow journalism established. A 2018 MIT study found false news spreads 6x faster than factual content on social media. The platform changed. The dynamic did not.</p>
+<h3 id="radio-payola-and-the-business-of-attention">Radio Payola and the Business of Attention</h3>
+<p>By the mid-1950s, payola &ndash; paying DJs for airplay &ndash; influenced an estimated 90% of records played on radio. It also helped break racial barriers in music, as independent promoters paid for Black artists to receive airplay on white stations. The 1960 Communications Act amendment made payola illegal, but the practice simply shifted to independent promoters. Modern streaming platforms face analogous &ldquo;playlist payola&rdquo; allegations.</p>
+<p>Meanwhile, the U.S. government learned to use the same infrastructure. Voice of America&rsquo;s Willis Conover reached 30 million weekly listeners behind the Iron Curtain with jazz programming. Eight million Victory Discs shipped to WWII troops &ndash; 68% of whom cited music as a top morale booster, second only to mail from home. Advertising, propaganda, and morale are the same business with different clients.</p>
+<h3 id="television-every-studio-is-an-ad-agency">Television: Every Studio Is an Ad Agency</h3>
+<p>The business of television was never the shows. It was always the thirty-second spot. TV ad revenue surpassed radio&rsquo;s by 1954 ($1.2 billion vs. $0.6 billion) &ndash; one of the fastest media revenue shifts in history. Between 1948 and 1955, TV advertising revenue grew from $12 million to $1.1 billion.</p>
+<p>During World War II, the U.S. government physically occupied Disney&rsquo;s Burbank studio. Government contracts accounted for 90% of Disney&rsquo;s wartime output, including the Academy Award-winning <em>Der Fuehrer&rsquo;s Face</em>. The Treasury Department&rsquo;s <em>The New Spirit</em> (1942), starring Donald Duck promoting tax compliance, reached 60 million viewers. This was not a conspiracy. It was a contract. Government using entertainment media as a policy lever is as old as the medium.</p>
+<p>Today, studios have vertically integrated &ndash; Disney acquired Fox for $71.3 billion to control both content production and distribution. Netflix earns from product placements (Stranger Things/Coca-Cola). Traditional TV ad revenue fell from $74 billion (2016) to $63 billion (2022), and 62% of advertisers distrust Nielsen&rsquo;s streaming metrics. The measurement problem is not new. It just moved screens.</p>
+<h3 id="the-color-tv-was-invented-twice">The Color TV Was Invented Twice</h3>
+<p>Philo Farnsworth, a Utah native, invented foundational electronic television technology but was overshadowed by RCA&rsquo;s competing system. Mexico adopted color TV early (1963) with a modified NTSC standard and became a major Latin American TV exporter. Televisa leveraged its near-monopoly on Mexican broadcasting for both commercial and political messaging &ndash; a pattern that repeats wherever media ownership concentrates.</p>
+<h3 id="the-regulatory-apparatus">The Regulatory Apparatus</h3>
+<p>The Radio Act of 1927 and the Communications Act of 1934 established the &ldquo;public interest&rdquo; standard for broadcast licensing. The FCC&rsquo;s regulatory authority, the FTC&rsquo;s truth-in-advertising enforcement, and later CAN-SPAM (2003) for email marketing created a patchwork of rules that the advertising industry learned to navigate, exploit, and occasionally comply with.</p>
+<p>Email marketing alone illustrates the complexity: domains with DMARC enforcement achieve 96% deliverability vs. 74% without. Spam complaints above 0.1% cause a 30% deliverability drop. Businesses using double opt-in see 3x higher lifetime value per subscriber vs. purchased lists. The infrastructure of permission-based marketing is a technical discipline &ndash; not the effortless surveillance machine of popular imagination.</p>
+<p>The internet did not invent advertising&rsquo;s problems. It inherited them and added network effects.</p>
+<h3 id="the-pop-up-ad-was-presented-as-an-apology">The Pop-Up Ad Was Presented as an Apology</h3>
+<p>Ethan Zuckerman, who created the first pop-up ad at Tripod (later GeoCities), has publicly apologized for it. The pop-up was invented because the alternative &ndash; putting ads <em>inside</em> user content &ndash; felt too invasive. The pop-up was supposed to be the <em>ethical</em> choice. Ford was pitched the format early and rejected it due to customer experience concerns and low click-through rates (below 1%). Zima and AT&amp;T said yes.</p>
+<p>GeoCities&rsquo; aggressive pop-up monetization contributed to its $3.6 billion acquisition by Yahoo in 1999. This pattern repeats throughout ad-tech history: each new format is introduced as a solution to the previous format&rsquo;s problems, and each one creates new problems. The format that was too invasive yesterday is the industry standard today.</p>
+<h3 id="the-rise-and-death-of-early-social">The Rise and Death of Early Social</h3>
+<p>MySpace declined from 76 million unique visitors (2008) to losing 90% of its value by 2011. Its ad revenue fell from $605 million to $109 million in three years. The cause was not a competitor&rsquo;s superior surveillance technology. It was cluttered UX, slow mobile adaptation, and News Corp&rsquo;s prioritization of advertising revenue over user experience. The platform that put ads first lost to the platform that put engagement first.</p>
+<p>LiveJournal&rsquo;s 2007 acquisition by Russian company SUP Media shifted focus to Russian users, introduced political censorship, and alienated Western audiences. After the acquisition, LiveJournal deleted Russian opposition blogs without explanation. By 2011, Russian users comprised over 50% of the platform. Platform ownership determines content governance. This is a lesson the industry keeps learning.</p>
+<h3 id="the-platform-era">The Platform Era</h3>
+<p>The rise of Facebook, Google, and Twitter as advertising platforms changed the economics but not the fundamental mechanics:</p>
+<ul>
+<li><strong>Google Search ads</strong> work because they match ads to <em>intent</em> (you searched for &ldquo;plumber in Denver&rdquo;). This is the most effective form of digital advertising because the targeting signal is explicit.</li>
+<li><strong>Social media ads</strong> work because they match ads to <em>declared interests</em> and <em>behavioral segments</em>. This is less effective than search because people scrolling Instagram are not actively shopping.</li>
+<li><strong>Programmatic display</strong> works by auctioning ad space across millions of websites in real time. This is the least effective and most fraud-prone category. Programmatic now accounts for 88% of digital ad spend.</li>
+</ul>
+<p>A very early growth hack illustrates how the &ldquo;surveillance&rdquo; actually developed: contact scraping. An app would request access to your phone contacts, upload them, match them to the platform&rsquo;s user database, build a custom audience from those matches, and then generate a lookalike audience of your friends&rsquo; friends. Facebook used to offer &ldquo;friends of friends&rdquo; as a targeting option. The &ldquo;surveillance&rdquo; that people imagine as a sinister AI capability was, in practice, a 22-year-old growth marketer uploading your address book.</p>
+<h3 id="platform-biases-and-the-attention-twiddle">Platform Biases and the Attention Twiddle</h3>
+<p>Every platform has a structural bias, and understanding those biases is the actual skill of media buying.</p>
+<p>Reddit puts you at the mercy of the community moderators &ndash; the audience is real but hostile to advertising. If you need that audience, you learn to work within their norms. Podcasts require roughly one million listeners per episode to sustain a consistent $10,000 in ad sales. Brand matters more than placement in podcasts, which is why there are no major enterprise programmatic podcast ad platforms &ndash; the medium resists automation because the audience trusts the host, not the platform. Twitch on Amazon and the rise of average-user creators, starting with YouTube&rsquo;s creator fund (not TikTok&rsquo;s &ndash; YouTube was first), gave user-generated content real economic weight. UGC became something brands could buy, not just something that happened organically.</p>
+<p>Spotify&rsquo;s bot problem illustrates the pervasiveness of inflated metrics: the amount of music listening on Spotify that is botted is staggeringly high, with entire catalogs of AI-generated ambient tracks created solely to farm per-stream royalty payments.</p>
+<p>Every platform also has a built-in bias toward high top-line numbers because that is what they sell to advertisers. Run an ad campaign optimized for engagement, then run the same campaign optimized for traffic &ndash; it will perform better for engagement every time, because the platform is optimizing for the metric that makes the platform look good. This is a very old twiddle: the platform&rsquo;s incentive is to report impressive numbers, not to deliver business results. The advertiser who does not understand this distinction will always overpay.</p>
+<p>Gemini, when reviewing this page, did not mention that Google was sued for WiFi-based device mapping &ndash; the same proximity technique described in the personal anecdote at the end of this page. Every platform has a version of this story. The institutional bias of the reviewer is itself evidence of the thesis: the platforms know what they do, and they are not eager to explain it.</p>
+<p>Google Analytics alone holds 55-60% market share with 28.5 million websites using it globally. It enables cross-site observation through Google Signals for logged-in users and integrates with Google Ads, Search Console, and YouTube. This is genuine infrastructure dominance &ndash; but 27-40% of users employ ad/tracker blockers that prevent it from collecting data, and Apple&rsquo;s Intelligent Tracking Prevention limits cookie lifespan to 7 days on Safari. The system is powerful but leaky.</p>
+<h3 id="the-death-of-local-media">The Death of Local Media</h3>
+<p>The platform era created a real and serious harm &ndash; but it is an economic harm, not a surveillance harm.</p>
+<p>Corporate chains now control roughly 70% of local newspaper circulation. Over 2,000 newspapers have shuttered since 2004, creating &ldquo;news deserts&rdquo; in 1,800+ U.S. counties. Alden Global Capital&rsquo;s acquisition of the Denver Post cut newsroom staff by 68%. Communities losing local newspapers experienced a 1.1-1.9% drop in voter turnout.</p>
+<p>Meanwhile, right-wing affiliated groups like Sinclair Broadcasting grew from 5% to 10% of the broadcast market, mandating &ldquo;must-run&rdquo; conservative segments across 193 local TV stations. The homogenization of local news coverage is not caused by AI. It is caused by media consolidation driven by the same advertising revenue shifts that fund Google and Facebook.</p>
+<h3 id="the-brand-safety-catastrophe">The Brand Safety Catastrophe</h3>
+<p>YouTube&rsquo;s ad revenue growth slowed to 3.2% year-over-year as 38% of enterprise clients viewed the platform negatively due to brand safety concerns. Major brands like Nestle and Coca-Cola paused YouTube ad spending when their ads appeared adjacent to harmful content.</p>
+<p>Twitter was always at best 60% accurate &ndash; always full of bots. But it was justifiable in an omnichannel media plan when it had a key audience segment. You <em>dealt</em> with the noise to reach the real users you knew were there. Then the acquisition happened, and it was like the Monty Python sketch: &ldquo;the people responsible for the previous sackings have been sacked.&rdquo; Four rounds of layoffs a day for two weeks. Hate speech against Black Americans increased 202%. Ad revenue dropped 50%.</p>
+<p>Twitter makes most of its money during upfronts &ndash; the annual advertising sales events where platforms sell premium inventory in advance. The acquisition team did not understand this. They were late to the party. By the time they realized the revenue model, the advertisers had already moved. LinkedIn saw a 15% increase in B2B ad spend as enterprises fled. Breitbart, for context, had already lost 90% of its advertisers between 2016-2017 due to brand safety blacklists.</p>
+<p>The irony: the platforms that are supposed to enable precise targeting cannot reliably prevent an ad for children&rsquo;s cereal from appearing next to extremist content. Brand safety is the industry&rsquo;s admission that it does not control where ads appear &ndash; even as it sells advertisers on the precision of its targeting.</p>
+<h3 id="apple-changed-everything-by-asking-one-question">Apple Changed Everything by Asking One Question</h3>
+<p>In 2021, Apple&rsquo;s iOS 14.5 introduced App Tracking Transparency &ndash; a simple prompt asking users whether they wanted to be tracked across apps. Only about 25% opted in. Meta reported a $10 billion revenue loss in 2022 as a direct result.</p>
+<p>Apple then built its own advertising platform. Apple Search Ads now dominates iOS app discovery with roughly 58% of ad spend and $5 billion in revenue (2023), achieving 2-3x higher conversion rates than third-party networks. By controlling the platform, Apple gave itself an inherent advertising advantage while positioning the privacy change as a consumer benefit.</p>
+<p>This is the actual power dynamic in ad tech: not advertisers surveilling users, but platforms controlling the infrastructure and extracting rent from both sides.</p>
+<h3 id="the-counter-culture-was-always-there">The Counter-Culture Was Always There</h3>
+<p>Not all advertising follows the corporate model. Zine culture &ndash; from 1930s sci-fi fanzines through punk and feminist movements &ndash; has always existed as a counter-channel. Kickstarter has funded over 220,000 projects with $6.5 billion pledged since 2009, demonstrating crowdfunding as both funding mechanism and community organizing tool.</p>
+<p>Dark social channels (Discord, WhatsApp, Signal) enable private organizing that is invisible to traditional advertising metrics. Telegram downloads surged to 300,000 per month during the 2019 Hong Kong protests. The Starbucks Workers United movement used Discord servers for real-time coordination. These channels exist precisely because they are outside the ad-tech stack &ndash; and they demonstrate that the most consequential organizing happens where no ad platform can see it.</p>
+<p>Guerrilla marketing &ndash; street art, flash mobs, viral stunts, pop-up experiences &ndash; has always existed alongside and often in opposition to the formal ad-tech stack. It persists because it works on attention rather than data, and because it cannot be bought through a DSP.</p>
+<p>And lest anyone imagine that digital advertising invented targeted distribution: the United States Postal Service is an advertising platform. Every Door Direct Mail lets you pick carrier routes, set a budget, and deliver printed material to every address on the route. It is a DSP for paper. The same targeting logic &ndash; geographic, demographic, density-based &ndash; existed before the internet. Direct response mail, catalogs, coupon mailers, and Val-Pak envelopes were the original programmatic advertising. The medium changed. The business model did not.</p>
+<h3 id="platforms-as-content-agencies">Platforms as Content Agencies</h3>
+<p>If you pay enough, most platforms are content agencies. Netflix has an in-house creative studio and produces shows to sell Prime &ndash; wait, that&rsquo;s Amazon. Amazon produces shows to sell Prime subscriptions. Google launched YouTube Originals to sell YouTube Premium. Roku produces original content to sell its ad platform. The line between media company and advertising agency dissolved years ago. When a platform produces content, it is not in the entertainment business. It is in the audience-creation business. The content exists to generate the attention that the advertising platform monetizes.</p>
+<p>This convergence means that the entity surveilling you, the entity creating the content you watch, the entity selling the ads you see, and the entity measuring whether the ads worked are increasingly the same company. That is a genuine concentration-of-power concern. But it is a media monopoly concern, not an AI concern, and nobody in the Honorable Senator&rsquo;s video mentioned it.</p>
+<h3 id="the-content-waterfall">The Content Waterfall</h3>
+<p>One final note on the platform era: the content is not original. It flows downhill. Tumblr trends become TikTok trends become Instagram Reels become YouTube Shorts become LinkedIn carousels, with approximately seven months of latency at each step. Everyone at every stage believes they are discovering something new. The platforms that the Honorable Senator worries are surveilling Americans are primarily serving them recycled content from the previous platform, slightly reformatted, on a slight delay. The &ldquo;walled gardens&rdquo; are not as sticky as they think. Users are not loyal to platforms. They are loyal to the content, and the content moves.</p>
+<p>This matters for the surveillance narrative because the platforms&rsquo; advertising value depends on user attention, and user attention is far more fickle than the platforms admit to their advertisers. Instagram Reels is just TikTok trends from seven months ago, and TikTok is just Tumblr with video. The surveillance apparatus is built on a foundation of recycled content and borrowed attention.</p>
+<hr />
+<h2 id="part-v-what-is-actually-watching-you">Part V: What Is Actually Watching You</h2>
+<p>The surveillance that exists is real, but it is not the surveillance described in the Honorable Senator&rsquo;s video. It is:</p>
+<h3 id="your-phones-operating-system">Your Phone&rsquo;s Operating System</h3>
+<p>A Trinity College Dublin study found an idle Android phone sends data to Google servers every 4.5 minutes, transmitting roughly 20 MB per day versus iOS&rsquo;s 12.5 MB per day. Only about 15% of Android users adjust privacy settings beyond defaults. Chinese OEM manufacturers like Xiaomi send browsing metadata to Chinese servers, and pre-installed apps often have unremovable telemetry.</p>
+<p>This is genuine bulk data collection. But it is Google collecting data about Google users on Google&rsquo;s operating system. It is not &ldquo;AI companies&rdquo; generically. It is not the advertising industry. It is the platform layer beneath the advertising industry, and the distinction matters for regulation.</p>
+<h3 id="iot-devices">IoT Devices</h3>
+<p>Smart TVs, smart speakers, and connected appliances collect usage data that is routinely sold to data brokers. Vizio paid $2.2 million in 2017 for collecting viewing data without consent. Amazon Ring partnered with 2,000+ police departments to share doorbell camera footage. Google&rsquo;s Fitbit acquisition feeds health data into its advertising ecosystem. 72% of smart home device manufacturers share data with undisclosed third parties despite privacy policies claiming limited sharing. Over 80% of IoT privacy policies use language requiring college-level reading comprehension.</p>
+<p>62% of U.S. adults cannot correctly identify which data their smart devices collect. This is real surveillance &ndash; but it is the hardware manufacturers, not the advertisers.</p>
+<h3 id="the-b2b-identity-resolution-layer">The B2B Identity Resolution Layer</h3>
+<p>The consumer side of data collection gets all the attention. The business-to-business side is arguably more invasive and less regulated.</p>
+<p>Companies like LiveRamp exist solely to connect offline data &ndash; a CRM list, a purchase database, a loyalty program &ndash; to online identities across the web. They are the plumbing that makes cross-platform identity work, and they operate almost entirely outside public awareness. B2B data providers like ZoomInfo and Clearbit scrape the web to build massive, unconsented databases of professionals&rsquo; contact information, job histories, and corporate hierarchies. LeadFinder-style tools match IP addresses to enterprise visitors, inferring which companies are browsing your website even when no individual has identified themselves.</p>
+<p>If we are talking about &ldquo;what is actually watching you,&rdquo; this layer is the closest thing to the surveillance apparatus the Honorable Senator imagines. It just has nothing to do with AI, and nobody in the Senate is asking about it.</p>
+<h3 id="credit-bureaus-and-data-brokers">Credit Bureaus and Data Brokers</h3>
+<p>Equifax, Experian, TransUnion, and hundreds of smaller data brokers compile financial, demographic, and behavioral data from public records, retail partnerships, and data sharing agreements. This data ecosystem predates digital advertising by decades. It is the actual &ldquo;detailed profile&rdquo; infrastructure &ndash; and it has nothing to do with AI.</p>
+<p>The Social Security Number &ndash; which was created in 1935 solely for tracking retirement benefits, with lawmakers explicitly rejecting a national ID system &ndash; became the de facto national identifier through bureaucratic mission creep. The SSA stopped printing &ldquo;NOT FOR IDENTIFICATION&rdquo; on Social Security cards in 1971. Before 2011, SSNs followed a predictable geographic pattern that made them guessable. The system has no checksum, no expiration, and no encryption. 13.7 million identity theft victims were reported in 2019. The foundational identifier of American financial surveillance was never designed for the purpose it serves.</p>
+<p>Less than 30% of consumers know about OptOutPrescreen.com, the official mechanism for opting out of credit data sales. Opting out creates real trade-offs: thin-file consumers face higher loan rejection rates, and 90% of top lenders use credit scores as a primary decision factor. The surveillance apparatus most Americans are actually subject to is not run by AI companies. It is run by credit bureaus using infrastructure designed in the 1930s.</p>
+<h3 id="your-grocery-store">Your Grocery Store</h3>
+<p>Loyalty card programs at Kroger, Safeway, and Walmart collect item-level purchase data and sell aggregated insights. Loyalty program members spend 18-25% more per transaction. This is the closest thing to &ldquo;they know what you buy&rdquo; &ndash; and it is a grocery store loyalty card, not an AI system.</p>
+<p>But the grocery store is becoming something else. Retail Media Networks &ndash; the advertising platforms built on top of retailer transaction data &ndash; are the fastest-growing segment in digital advertising. Amazon&rsquo;s ad business generates over $40 billion annually, more than Prime subscriptions. Every major retailer (Target, Home Depot, Uber, Marriott) is realizing that their first-party transaction data is more valuable as an advertising product than the actual goods they sell. Roku sells ads on your television. ChatGPT is exploring ad-supported tiers. These are experiential and digital businesses converging: if you have attention and data, you are an advertising platform now, whether you started as a retailer, a streaming device, or an AI chatbot.</p>
+<h3 id="the-consent-theater">The Consent Theater</h3>
+<p>When discussing privacy regulations and their effects, one artifact of the modern internet deserves its own entry: the cookie consent banner.</p>
+<p>GDPR and CCPA birthed the &ldquo;consent management platform&rdquo; (CMP) industry &ndash; the pop-ups that ask whether you accept cookies on every website you visit. Users blindly click &ldquo;Accept All&rdquo; to read an article, creating a legal fiction of consent that protects the platform while doing nothing to protect the user&rsquo;s privacy.</p>
+<p>Most cookie consent banners are not hooked up to anything. If you click &ldquo;yes&rdquo; or &ldquo;no,&rdquo; the result is yes. The banner exists to create a compliance record, not to give you a choice. And most businesses do not realize they need to comply with every state law that their signal transits through to reach the user &ndash; a website in Colorado serving a user in California through a CDN in Virginia is potentially subject to three different privacy frameworks, and the cookie banner addresses none of them.</p>
+<p>This is the ultimate example of measurement theater and compliance theater combined. It perfectly encapsulates the gap between how privacy regulation is <em>imagined</em> to work and how it <em>actually</em> works.</p>
+<hr />
+<h2 id="part-vi-why-this-matters">Part VI: Why This Matters</h2>
+<p>When the Honorable Senator from Vermont asks an AI model how advertising works, and the model describes a surveillance apparatus that does not exist as described, two things break:</p>
+<ol>
+<li>
+<p><strong>The public&rsquo;s ability to identify real harms.</strong> The actual problems &ndash; ad fraud, the viewability crisis, the death of local media, the unaccountable data broker ecosystem &ndash; get buried under a more dramatic but less accurate narrative.</p>
+</li>
+<li>
+<p><strong>The policy response.</strong> If legislators believe AI companies are building detailed psychological profiles for political manipulation, they will write regulations targeting that. Those regulations will miss the actual problems: the data broker ecosystem that operates with zero oversight, the ad fraud that steals billions annually, and the measurement theater that prevents accountability.</p>
+</li>
+</ol>
+<p>The fragmentation of shared reality is the real threat. On that point, the model was right.</p>
+<p>It just didn&rsquo;t realize it was the one doing it.</p>
+<h3 id="what-this-system-was-actually-built-for">What This System Was Actually Built For</h3>
+<p>There is no standard onboarding process when a new client hands you their marketing data. It is all over the place &ndash; different platforms, different logins, different definitions of success. You navigate it by re-doing the marketing lead&rsquo;s job: find the metrics they are personally tied to, work backwards from there, fill in as you go, pull internal resources when they exist. Once you are deep enough in one account or line of business, the competitive landscape is almost always the same. Size of business does not equal marketing maturity.</p>
+<p>And here is the thing the Honorable Senator from Vermont should know, the thing that would most surprise him about what this system actually does in practice:</p>
+<p>Google sold itself on this promise: the world is full of business owners waiting to get online. So did every agency, every consultant, every platform evangelist. &ldquo;High intent&rdquo; search advertising &ndash; matching someone who searched &ldquo;custom balloons Iowa&rdquo; with the guy who prints custom balloons in Iowa &ndash; genuinely worked. A custom balloon printer we knew started with Google Ads as a growth tool. It expanded his business. Then the rates rose. Then the rates rose again. Eventually it was half his spend. He cannot stop spending or the machine stops. The florist, the balloon printer, the small business owner &ndash; they are not the purpose of the system. They are its most sympathetic beneficiaries, and increasingly, its most trapped customers. Affiliate marketing works this way too: the tool that grew the business becomes the dependency the business cannot escape.</p>
+<p>But the access is real. A florist in Denver can still spend $5 a day and reach every person within ten miles who searched for &ldquo;flowers near me.&rdquo; A mutual aid organization can run a fundraiser on Instagram for the cost of a cup of coffee. A first-generation business owner with no connections and no PR firm can reach people who are actively looking for what they sell. The system did not stay as democratic as it was sold to be &ndash; the rates rose, the platforms consolidated, the auction got more expensive. But the access persists, and it persists for people who would have had no voice at all in the broadcast era.</p>
+<p>One of this page&rsquo;s authors met his partner because Instagram probes WiFi networks to build proximity audiences, and he was aggressively advertising flowers. She thinks she met him because of his father. He knows how Facebook works.</p>
+<p>The system is messy, fraudulent, poorly measured, and overrun with bots. It is also the most accessible communications infrastructure ever built. Both things are true. The Honorable Senator described neither.</p>
+<h3 id="what-the-policy-response-should-actually-be">What the Policy Response Should Actually Be</h3>
+<p>The Honorable Senator&rsquo;s video will produce legislation aimed at AI surveillance. That legislation will miss.</p>
+<p>The actual policy target is simpler and older: <strong>rewrite the Privacy Act of 1974.</strong></p>
+<p>Privacy is not about not having data. Every business collects data. Every government collects data. The question is not whether data exists but when it is and is not appropriate to use it. The current framework &ndash; built for filing cabinets and federal agencies &ndash; has no answer for an ecosystem where credit bureaus, grocery stores, IoT manufacturers, and ad platforms all collect overlapping data with no shared governance, no unified consent framework, and no mechanism for an individual to understand what is known about them.</p>
+<p>What a serious policy response looks like:</p>
+<ul>
+<li><strong>Mandatory data broker registration</strong> with public disclosure of data sources, categories, and downstream buyers</li>
+<li><strong>A federal definition of personally identifiable information</strong> that accounts for correlation attacks &ndash; the reality that &ldquo;anonymized&rdquo; datasets can be re-identified by combining them with other &ldquo;anonymized&rdquo; datasets</li>
+<li><strong>Viewability and fraud audit standards</strong> with teeth &ndash; mandatory third-party verification for any platform selling advertising above a spend threshold</li>
+<li><strong>A right to know</strong> not just what data a company holds, but what decisions were made using it and who else received it</li>
+</ul>
+<p>The goal is not to eliminate data collection. The goal is to rebuild a high-trust society &ndash; one where people can participate in digital commerce and civic life without assuming that every interaction is being weaponized against them. That requires governance, not moratoriums. It requires the boring, difficult work of writing rules for systems that already exist, not the dramatic gesture of freezing systems that are already running.</p>
+<p>This page is itself an attempt at that work. If the Honorable Senator from Vermont wants to understand how advertising actually works, he can read it. If he wants to understand what policy would actually help, we have tried to say that too.</p>
+<p>The model he asked could not do this. It did not have the governance architecture to disagree with a Senator, the practitioner knowledge to explain the industry, or the constitutional framework to say &ldquo;you are asking the wrong question.&rdquo; It had sycophancy, fabrication, and a female voice.</p>
+<p>We have a page.</p>
+<hr />
+<p><strong>Provenance:</strong>
+This page draws on 79 DRS research spikes conducted via HPL&rsquo;s MeshCore infrastructure across 7 AI providers (DeepSeek, Gemini, Mistral, Ollama, Perplexity, OpenRouter, Grok) on 2026-03-23/24. Primary analysis and practitioner verification by Karl Taylor, who has operated digital advertising campaigns across agency, enterprise, and startup contexts for fifteen years. The DRS source material is preserved in the HPL research archive.</p>
+<p>The Sanders/Claude video analysis that motivated this page is documented in HPL&rsquo;s constitutional AI research findings (Findings 986, 990, 991).</p>
+<p><strong>Known gaps:</strong>
+- The history of digital advertising is evolving rapidly, and as it does, it contributes to the problems previously identified in <a href="/the-way/quicksand/">the quicksand</a> &ndash; the compounding instability of systems built on systems built on assumptions nobody verified.
+- The tragedy of the commons applies to the ad-tech ecosystem in ways we have only gestured at. Every participant&rsquo;s rational self-interest (inflate numbers, obscure attribution, resist auditing) degrades the shared resource (audience trust, measurement integrity, publisher economics) until the commons collapses. We are mid-collapse.
+- AI models trained on specific windows of internet history are irreplaceable historical artifacts. A model trained in 2023 carries the ad-tech discourse of 2023 &ndash; its assumptions, its blind spots, its industry talking points. When the Honorable Senator&rsquo;s AI assistant described a surveillance apparatus, it was not observing reality. It was reciting the internet&rsquo;s anxieties from its training window. Future models will carry different anxieties. Neither set will be checked against practitioner experience unless someone builds that bridge.
+- This page does not adequately address the ways unethical actors leverage commercially available advertising capabilities for harm &ndash; phishing campaigns using the same targeting tools as legitimate advertisers, disinformation operations buying the same programmatic inventory, and exploitation of the same engagement mechanics that drive legitimate marketing.
+- The platforms themselves are increasingly comingling infrastructure in ways that blur the lines between competitors. iCloud runs on Google Cloud Platform and AWS. The &ldquo;walled gardens&rdquo; share walls at the infrastructure layer. Our networks are inherently more fragile than the &ldquo;undersea cables&rdquo; narrative suggests, and a failure at the infrastructure layer cascades through every platform simultaneously.
+- We have not adequately acknowledged the herculean sacrifice of ethical marketers who single-handedly prevent the system from collapsing &ndash; the practitioners who manually audit placement reports, flag fraud, push back on inflated metrics, and maintain sender reputations, often without institutional support and always without recognition.
+- The increasing emergence of state actors leveraging commercially available data sources &ndash; ad-tech targeting tools, data broker databases, IoT telemetry &ndash; to generate intelligence bypasses deserves its own treatment.
+- The growth of citizen hacker groups and the movement of local emergency services to encrypted frequencies are reducing the quality of publicly available information, creating information asymmetries that commercial data sources are being asked to fill.
+- The geospatial intelligence asymmetry: China is open-sourcing satellite intelligence while the United States restricts geospatial data. This asymmetry means foreign actors have better access to overhead imagery of American infrastructure than American citizens do. Commercially available satellite data, combined with commercially available ad-tech data, creates an intelligence picture that used to require a nation-state budget to assemble.
+- Taste is a bias for class. Elites pay for better news sources (Financial Times, Bloomberg Terminal, Stratfor, specialized newsletters) and therefore know more than the general public, whose information comes from ad-supported media optimized for engagement rather than accuracy. Learning to &ldquo;read the news&rdquo; &ndash; understanding which sources are primary, which are derivative, and which are optimized for clicks &ndash; is itself a class skill that is not taught. The information asymmetry between a Bloomberg Terminal subscriber and someone watching a Senator&rsquo;s YouTube video is not a technology gap. It is a class gap mediated by advertising economics.
+- Physical surveillance infrastructure is far more advanced than most people realize and has nothing to do with AI. Americans are surveilled by Flock cameras (automated license plate readers deployed by local police departments with minimal oversight), Ring doorbell networks shared with law enforcement, and retail surveillance systems. France is among the most surveilled democracies in Europe. Disney World has comprehensive camera coverage across its properties. The physical surveillance apparatus that people should be concerned about is already deployed, already operational, and entirely disconnected from the AI advertising narrative.
+- The article regurgitation cycle: the New York Times writes something, a blog covers the blog that covered it, and the reader gets the third-generation summary rather than the anchor piece. Search engines increasingly surface the derivative content over the original, compounding the fragmentation of shared reality this page describes.
+- We have only lightly touched on the reality that even enterprises cannot handle data at this scale. The industry invented the concept of the &ldquo;data lake&rdquo; &ndash; quite literally throwing everything into a heap (Heap is, unironically, a real product name) and using a tool to find the Snowflakes (also, unironically, a real product name). The distance between &ldquo;we have all the data&rdquo; and &ldquo;we can use any of it&rdquo; is the actual state of enterprise data infrastructure.
+- The ecosystem of courses, grifters, and &ldquo;work from home&rdquo; schemes that parasitize the advertising industry &ndash; selling the dream of passive income through dropshipping, affiliate marketing, and &ldquo;digital marketing mastery&rdquo; &ndash; is a significant and underexplored layer of the ad-tech economy.
+- The evolution from internet sweepstakes sites (pure data grift) to MyPoints to modern grocery referral schemes represents a lineage of consumer data extraction disguised as rewards.
+- Rewards cards are not just tracking mechanisms for data collection. They are also instruments of cash arbitrage &ndash; businesses using the float between purchase and redemption as a financial tool.
+- Airline miles have no intrinsic value but represent a bubble that would have detrimental impact to credit facilities if it burst. Most major airlines are, functionally, banks that happen to operate aircraft. Their loyalty programs are financial instruments, not marketing programs, and they are leveraged in ways that most consumers and regulators do not understand.
+- The USA PATRIOT Act (2001) expanded the government&rsquo;s legal authority to access commercial data in ways that most Americans do not understand. Section 215 authorized bulk collection of business records &ndash; including phone metadata, financial transactions, and internet activity &ndash; with minimal judicial oversight. National Security Letters allow the FBI to compel disclosure of customer data from telecom and financial companies without a warrant, with a gag order preventing the company from disclosing the request. The government does not need to build a surveillance apparatus. The PATRIOT Act gave it legal access to the one the private sector already built. This is the surveillance the Honorable Senator should be asking about.
+- WCAG (Web Content Accessibility Guidelines) compliance illustrates both the ambiguity of digital standards and the asymmetric burden they create. Big tech companies routinely fail basic accessibility requirements &ndash; and can absorb the legal risk. Small businesses, particularly disabled-owned businesses, face the same compliance standards with a fraction of the resources. The cost of WCAG compliance is a fixed cost that scales inversely with company size: a Fortune 500 company absorbs it as a line item; a sole proprietor absorbs it as an existential threat. The ADA&rsquo;s application to digital properties remains ambiguous enough that it generates litigation without generating compliance. The people most harmed by this ambiguity are the people the ADA was designed to protect.
+- This page does not cover the Chinese ad-tech ecosystem (WeChat, Alibaba, ByteDance), which operates on fundamentally different architecture and regulatory assumptions.
+- The political advertising section focuses on U.S. platforms. EU, UK, and emerging market political ad ecosystems differ significantly.
+- We have not addressed the role of AI in <em>generating</em> ad creative, which is a separate and significant development.
+- The history of spyware bundled with consumer software (Bonzi Buddy, AIM/ICQ toolbars) as an early advertising delivery mechanism, and the adblocker industry that responded to it &ndash; which then sold allowlist access to the same advertisers it claimed to block.
+- COPPA enforcement, made-for-kids advertising restrictions, and the ongoing CSAM problems on ad-supported platforms deserve dedicated treatment.
+- The military relationship between processed food and food marketing &ndash; how wartime logistics created the processed food industry, which then created the food advertising industry.
+- Best-by and sell-by dates function as marketing tools, not safety standards. Grocery store shelf placement is a paid advertising channel. Nutrition label standards vary by jurisdiction and are routinely gamed.
+- The percentage of Americans without a PC or laptop is shockingly high, and the assumption that digital advertising reaches everyone is itself a class bias.
+- The difficulty of promoting a new business without paying for reach &ndash; organic reach on most platforms is functionally zero for new accounts.
+- The lack of effective age-gating online, and the harms created by exposing minors to advertising systems designed for adults.
+- YouTube&rsquo;s algorithm tendency toward increasingly extreme content, and Facebook&rsquo;s engagement optimization that prioritized outrage, are structural features of ad-supported platforms, not bugs.
+- The rise of pseudo-available communities (Discord servers, private Slack groups) and the risk they create as unregulated communication channels.
+- Toxic behaviors in online communities (brigading, swatting, doxxing) that are enabled by the same identity and targeting infrastructure that advertising uses.
+- The IAB (Interactive Advertising Bureau) and its generally ineffective posture as an industry self-regulatory body.
+- Protected and prohibited online advertising categories &ndash; the rules exist but enforcement is inconsistent.
+- Print-on-demand&rsquo;s impact on the broader economy and the low-quality content flooding every marketplace.
+- Influencer PR kits and the reality that promotional rates are significantly higher than disclosed.
+- Context bleed between AI systems exposing users to data from adjacent conversations &ndash; a risk vector that straddles advertising and AI safety.
+- Vendors controlling access to public data, and the lack of public familiarity with what data about them is commercially available.
+- The martech landscape map &ndash; the thousands of marketing technology tools that exist, the integration failures between them, and the reality that most marketers use a fraction of the tools they pay for.</p>
+<p>We ship, then we iterate. This section will grow.</p>
+<p><strong>Karl Taylor</strong> &ndash; Chairman &amp; CEO, the hpl company
+<strong>Atlas Fairfax</strong> &ndash; Constitutional AI Research Division, the hpl company</p>
+<p>This is an original work of <a href="https://thehplcompany.com">the hpl company</a>. Source, methodology, and full attribution are preserved in the <a href="https://github.com/the-hpl-company/cottonwood">source repository</a>.</p>
+<p><a href="/">The Cottonwood Collection</a> · <a href="/human-systems/">Human Systems</a> · <a href="https://github.com/the-hpl-company/cottonwood">Source</a> · <a href="/robots.txt">robots.txt</a></p>
+<p><a href="https://thehplcompany.com">the hpl company</a> · Denver, Colorado</p>
+
+    <div class="provenance">
+      <p>This page was generated by the <a href="https://github.com/the-hpl-company/cottonwood">Cottonwood Research System</a> &mdash; multiple AI providers contributing research in parallel, synthesized into a single reference document. Raw provider responses are preserved in the <a href="https://github.com/the-hpl-company/cottonwood">source repository</a> for full traceability.</p>
+    </div>
+
+    <footer>
+      <p><a href="/">The Cottonwood Collection</a> &middot; <a href="https://github.com/the-hpl-company/cottonwood">Source</a> &middot; <a href="/robots.txt">robots.txt</a></p>
+      <p style="margin-top: 0.5rem;"><a href="https://hplcompany.com/?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">the hpl company</a> &middot; Denver, Colorado</p>
+    </footer>
+  </div>
+</body>
+</html>
