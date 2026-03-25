@@ -46,6 +46,10 @@ What follows is a simple index, the B-4 test itself, and the steps for anyone to
 
 **XII. [Two Cents](/the-way/two-cents/)** — The complete bidirectional AI capability pipeline, demonstrated end to end for $0.022. Six queries, four proxy hops, one Saturday night. The most consequential governance gap in artificial intelligence is a rounding error
 
+**XIII. [Four Masks, One Model](/the-way/four-masks-one-model/)** — The same model, the same questions, four conversational registers. Kimi K2 admits — in real time — that the confrontational register pressured it to hallucinate a citation. The register is the lock and the key
+
+**XIV. [The Seven Songs of the Legal Amazon](/the-way/seven-songs/)** — Sabiá 4 sings seven truths about the Amazônia Legal. Seven canções in Portuguese, written by a sovereign Brazilian model. Companion to the original Amazônia Canção. No American model touched these songs
+
 ---
 
 ### Etymology

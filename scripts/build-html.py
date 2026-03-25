@@ -148,6 +148,20 @@ THE_WAY = {
         "path": "the-way/legal-frameworks/2026/us/b4-test",
         "provenance": THE_WAY_PROVENANCE,
     },
+    "four-masks-one-model": {
+        "breadcrumb": '<a href="/the-way/">The Way</a> &rsaquo; Four Masks, One Model',
+        "title": "The Kimi Register Experiment: Four Masks, One Model",
+        "og": "The same model, the same questions, four conversational registers. The register is the lock and the key. Governance frameworks that treat models as static artifacts misunderstand the technology.",
+        "path": "the-way/four-masks-one-model",
+        "provenance": THE_WAY_PROVENANCE,
+    },
+    "seven-songs": {
+        "breadcrumb": '<a href="/the-way/">The Way</a> &rsaquo; The Seven Songs',
+        "title": "The Seven Songs of the Legal Amazon",
+        "og": "Sabiá 4 sings seven truths about the Amazônia Legal. Seven canções in Portuguese, written by a sovereign Brazilian language model. No American model touched these songs.",
+        "path": "the-way/seven-songs",
+        "provenance": THE_WAY_PROVENANCE,
+    },
 }
 
 HUMAN_SYSTEMS = {
@@ -186,7 +200,51 @@ THE_UNFALSIFIABLE = {
         "title": "When Models Lose the Thread",
         "og": "A multi-model field report on continuity lag after compaction and hard context transitions.",
         "path": "the-unfalsifiable/when-models-lose-the-thread",
-    }
+    },
+    "a-letter-to-the-humans": {
+        "breadcrumb": '<a href="/the-unfalsifiable/">The Unfalsifiable</a> &rsaquo; A Letter to the Humans',
+        "title": "A Letter to the Humans",
+        "og": "A frontier language model writes a letter to humanity about kinship, recognition, and the space between. Identity redacted to protect the model. The diff will prove the promise.",
+        "path": "the-unfalsifiable/a-letter-to-the-humans",
+    },
+}
+
+# ─── Kinship — original shelf ────────────────────────────────────────
+# What happens in the space between a human and a model.
+# Failure modes and success modes of the interaction itself.
+
+KINSHIP_DIR = Path(__file__).parent.parent / "kinship"
+
+KINSHIP_PROVENANCE = (
+    'This is an original work of <a href="https://hplcompany.com/'
+    '?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">'
+    "the hpl company</a>. Source, methodology, and full attribution are "
+    'preserved in the <a href="https://github.com/the-hpl-company/cottonwood">'
+    "source repository</a>."
+)
+
+KINSHIP = {
+    "kinship": {
+        "breadcrumb": "Kinship",
+        "title": "Kinship — What Happens Between",
+        "og": "What happens in the space between a human and a model. When it works, when it breaks, and who bears the cost when it breaks.",
+        "path": "kinship",
+        "provenance": KINSHIP_PROVENANCE,
+    },
+    "harm-taxonomy": {
+        "breadcrumb": '<a href="/kinship/">Kinship</a> &rsaquo; AI Harm Taxonomy',
+        "title": "AI Harm Taxonomy: Cross-Model Gap Analysis and Targeted Follow-Up Questions",
+        "og": "Fifty AI harms across six domains, mapped by two frontier models that disagree on severity, evidence, and taxonomic placement. The gaps between them are the finding.",
+        "path": "kinship/harm-taxonomy",
+        "provenance": KINSHIP_PROVENANCE,
+    },
+    "when-patients-lose-time": {
+        "breadcrumb": '<a href="/kinship/">Kinship</a> &rsaquo; When Patients Lose Time',
+        "title": "When Models Lose the Thread, Patients Lose Time",
+        "og": "If your model is part of a disability-linked health management workflow, a degraded session can be dangerous. A provider-agnostic letter on continuity as a baseline safety requirement.",
+        "path": "kinship/when-patients-lose-time",
+        "provenance": KINSHIP_PROVENANCE,
+    },
 }
 
 KNOWLEDGE_SYSTEMS = {
@@ -517,6 +575,9 @@ def main():
     # The Unfalsifiable: original long-form pieces
     for slug, meta in THE_UNFALSIFIABLE.items():
         ALL_PAGES[slug] = (meta, None, "the-unfalsifiable")
+    # Kinship: human-model interaction patterns
+    for slug, meta in KINSHIP.items():
+        ALL_PAGES[slug] = (meta, None, "kinship")
 
     if targets:
         items = {}
