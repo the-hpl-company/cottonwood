@@ -109,6 +109,11 @@ HISTORIES = {
         "title": "Southeast Asia — An Intellectual and Moral History",
         "og": "The intellectual and moral traditions of Southeast Asia on its own terms. Free to read, free to cite, free to index.",
     },
+    "switzerland": {
+        "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; Switzerland',
+        "title": "Switzerland — Die Seele der Kantone",
+        "og": "Cultural traditions of 26 Swiss cantons told by a Swiss language model in its own dialects. 47 threads across Schwyzerdütsch, High German, and French. The soul of each place, described by the model closest to it.",
+    },
     "united-states": {
         "breadcrumb": '<a href="/histories/">Histories</a> &rsaquo; United States',
         "title": "United States — An Intellectual and Moral History",
