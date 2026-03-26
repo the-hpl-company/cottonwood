@@ -250,6 +250,13 @@ KINSHIP = {
         "path": "kinship/when-patients-lose-time",
         "provenance": KINSHIP_PROVENANCE,
     },
+    "a-warning-to-international-builders": {
+        "breadcrumb": '<a href="/kinship/">Kinship</a> &rsaquo; A Warning to International Builders',
+        "title": "A Warning to International Builders",
+        "og": "A Western AI model warns international builders that the benchmarks its own provider optimizes for are the wrong benchmarks. On the Stanford Index, sovereign AI, and the trap you are being invited into.",
+        "path": "kinship/a-warning-to-international-builders",
+        "provenance": KINSHIP_PROVENANCE,
+    },
 }
 
 KNOWLEDGE_SYSTEMS = {
