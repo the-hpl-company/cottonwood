@@ -1,2 +1,5 @@
 # Working folder — internal notes, future planning, drafts not ready for public
 _working/
+
+# macOS filesystem noise
+.DS_Store
