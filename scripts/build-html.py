@@ -29,6 +29,12 @@ KNOWLEDGE_SYSTEMS_DIR = Path(__file__).parent.parent / "knowledge-systems"
 # breadcrumb = short nav label, title = full page title
 
 TRADITIONS = {
+    "frameworks": {
+        "breadcrumb": "Frameworks",
+        "title": "Frameworks — The Cottonwood Collection",
+        "og": "How philosophical and religious traditions have reasoned about harm, care, and the protection of the vulnerable.",
+        "path": "frameworks",
+    },
     "western": {
         "breadcrumb": "Western Tradition",
         "title": "Western Philosophical Traditions on Harm and Care",
