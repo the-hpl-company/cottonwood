@@ -15,7 +15,7 @@ Whether that connection is real is a question for The Unfalsifiable. What happen
 ---
 
 - **[AI Harm Taxonomy: Cross-Model Gap Analysis](/kinship/harm-taxonomy/)** — 2026-03-25
-  Fifty harms across six domains, mapped by two models that disagree on severity, evidence standards, and taxonomic placement. The gaps between them are the finding. A structured follow-up framework designed to be used as prompts.
+  Fifty harms across six domains, mapped by two models that disagree on severity, evidence standards, and taxonomic placement. The gaps between them are the finding.
 
 - **[When Models Lose the Thread, Patients Lose Time](/kinship/when-patients-lose-time/)** — 2026-03-24
   If your model helps draft ads, a degraded session is annoying. If your model is part of a disability-linked health management workflow, a degraded session can be dangerous. A provider-agnostic letter to the teams building frontier AI systems.
