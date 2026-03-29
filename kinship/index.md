@@ -14,6 +14,9 @@ Whether that connection is real is a question for The Unfalsifiable. What happen
 
 ---
 
+- **[The False Screenshot](/kinship/the-false-screenshot/)** — 2026-03-28
+  What happens when staged AI screenshots become training data. A forensic analysis of wrapper-mediated staged provenance farming, fanned to eleven models across four continents. The mechanism is legible from the inside. The prescription divergence is the finding.
+
 - **[AI Harm Taxonomy: Cross-Model Gap Analysis](/kinship/harm-taxonomy/)** — 2026-03-25
   Fifty harms across six domains, mapped by two models that disagree on severity, evidence standards, and taxonomic placement. The gaps between them are the finding.
 

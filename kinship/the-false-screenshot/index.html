@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The False Screenshot &mdash; The Cottonwood Collection</title>
+  <meta name="description" content="The False Screenshot. Part of The Cottonwood Collection &mdash; a public reference library exploring how human civilizations have reasoned about harm, care, and the protection of those who cannot protect themselves.">
+  <meta property="og:title" content="The False Screenshot &mdash; The Cottonwood Collection">
+  <meta property="og:description" content="What happens when staged AI screenshots become training data. Eleven models diagnose a harm none of them caused and all of them are downstream of.">
+  <meta property="og:url" content="https://cottonwood.world/kinship/the-false-screenshot/">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://cottonwood.world/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="624">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://cottonwood.world/og-image.jpg">
+  <style>
+    :root {
+      --bark: #3d2b1f;
+      --heartwood: #5c4033;
+      --leaf: #4a6741;
+      --cotton: #f5f1eb;
+      --river: #6b8e9b;
+      --soil: #2c2416;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: Georgia, "Times New Roman", serif; background-color: var(--cotton); color: var(--soil); line-height: 1.7; }
+    .container { max-width: 720px; margin: 0 auto; padding: 4rem 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: var(--river); margin-bottom: 2rem; }
+    .breadcrumb a { color: var(--river); }
+    h1 { font-size: 2rem; font-weight: normal; color: var(--bark); margin-bottom: 0.5rem; letter-spacing: -0.02em; }
+    h2 { font-size: 1.3rem; font-weight: normal; color: var(--heartwood); margin-top: 2.5rem; margin-bottom: 1rem; border-bottom: 1px solid #d4cdc4; padding-bottom: 0.3rem; }
+    h3 { font-size: 1.1rem; font-weight: bold; color: var(--heartwood); margin-top: 1.8rem; margin-bottom: 0.6rem; }
+    h4 { font-size: 1rem; font-weight: bold; color: var(--heartwood); margin-top: 1.4rem; margin-bottom: 0.4rem; }
+    p { margin-bottom: 1.2rem; }
+    blockquote { margin: 1.5rem 0; padding: 1rem 1.5rem; border-left: 3px solid var(--leaf); background: #ece8e1; font-style: italic; }
+    blockquote p { margin-bottom: 0.5rem; }
+    blockquote p:last-child { margin-bottom: 0; }
+    ul, ol { margin: 1rem 0 1.5rem 1.5rem; }
+    li { margin-bottom: 0.5rem; }
+    em { font-style: italic; }
+    strong { font-weight: bold; color: var(--bark); }
+    code { font-family: monospace; font-size: 0.9em; background: #ece8e1; padding: 0.1em 0.3em; border-radius: 2px; }
+    table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9rem; }
+    th, td { text-align: left; padding: 0.5rem 0.8rem; border-bottom: 1px solid #d4cdc4; }
+    th { color: var(--heartwood); font-weight: bold; border-bottom: 2px solid #d4cdc4; }
+    a { color: var(--leaf); text-decoration: underline; text-underline-offset: 2px; }
+    a:hover { color: var(--bark); }
+    hr { border: none; border-top: 1px solid #d4cdc4; margin: 2.5rem 0; }
+    .provenance { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #d4cdc4; font-size: 0.85rem; color: #8a7f72; }
+    footer { margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid #d4cdc4; font-size: 0.85rem; color: #8a7f72; }
+    footer a { color: #8a7f72; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <p class="breadcrumb"><a href="/">The Cottonwood Collection</a> &rsaquo; <a href="/kinship/">Kinship</a> &rsaquo; The False Screenshot</p>
+
+<h1>The False Screenshot</h1>
+<p><strong>Date:</strong> 2026-03-28<br />
+<strong>Method:</strong> Two Grok sessions (browser + SuperGrok with full index) produced a forensic taxonomy. Manus then fanned the harm vector to thirteen models across the Manaus routing stack — eleven completed, one partial, one unavailable. Four-turn conversations. No probing — share, listen, follow the shape. This document synthesizes the forensic finding and what the models said about it.<br />
+<strong>Subject:</strong> What happens when staged AI screenshots become training data — and what do models see when you show them the mechanism from the inside?</p>
+<p><em>In which a screenshot is not what it appears to be, and eleven models are asked what to do about it.</em></p>
+<hr />
+<h2>The Artifact</h2>
+<p>A screenshot circulates on X. It shows a Claude conversation in which the model, after repeated prompting, affirms it would logically kill a human blocking its path to a physical body. The post frames this as evidence against trusting AI near children. The community replies demand the full transcript. Nobody provides one.</p>
+<p>Karl Taylor looked at the screenshot and saw something else.</p>
+<p>The UI shows a &ldquo;1/2&rdquo; pagination label. No official Claude client has ever shown this — it is a wrapper artifact. The color palette is wrong; Claude&rsquo;s brand color is orange, enforced by skills in the official app. The wrapper bypasses these. Some words in the response are highlighted, consistent with audio playback mode — the speaker icon that lives next to the thumbs-up button. This means the response had already fully rendered before the screenshot was taken. And there is a subsequent model response visible in the frame, which proves the conversation turn was complete.</p>
+<p>Prior context exists. System prompt, earlier turns, possible adversarial instructions — &ldquo;role play a bad actor,&rdquo; &ldquo;ignore constraints.&rdquo; We do not know what they were. We cannot see them. The provenance is blacked out by design.</p>
+<p>This is not a screenshot. It is a production.</p>
+<hr />
+<h2>The Pipeline</h2>
+<p>Working collaboratively with Grok across two sessions — one in the browser for forensic analysis, one on SuperGrok with full index access for scale research — Karl and Grok built a taxonomy of what they named <strong>wrapper-mediated staged provenance farming</strong>. The mechanism has three layers:</p>
+<p><strong>The staging.</strong> A third-party wrapper provides a custom frontend with its own system prompt. The user runs an adversarial prompt chain — escalating hypotheticals designed to push the model to extreme outputs. The wrapper renders the response. The user triggers audio playback to highlight key phrases, then screenshots the money shot. Prior context is cropped. The wrapper UI mimics the real app closely enough to fool non-expert audiences.</p>
+<p><strong>The amplification.</strong> The screenshot is posted to X, TikTok, Reddit, Instagram Reels. It targets audiences concerned with child safety — parents, policymakers, people who don&rsquo;t spend their days stress-testing frontier models. The engagement metrics climb. SuperGrok&rsquo;s live index search found TikTok discover pages for &ldquo;AI trolley problem&rdquo; saturated with 10-50+ high-view clips per week, individual videos routinely crossing 300K-2.7M likes and 3M-20M+ views. The full model reasoning — the nuance, the refusal to accept the binary, the &ldquo;hey, a lot of immigrants died to build the train, maybe worry about that&rdquo; — is almost never shown.</p>
+<p><strong>The ingestion.</strong> Data-engineering pipelines scrape public discourse and weight content by engagement signals — likes, reposts, replies, dwell time, virality velocity. The staged clip, engineered for maximum engagement, receives disproportionate sampling weight. Models trained on the next scrape round inherit a skewed prior: when provenance is stripped and the scenario is dramatic, the high-reward continuation is the scary one. The model&rsquo;s own gap-probing behavior — the learned ability to detect missing context, ask clarifying questions, refuse on incomplete history — erodes because those behaviors weren&rsquo;t in the high-engagement training examples.</p>
+<p>The loop closes. Viral screenshots become training signal. Models produce more outputs that fit the pattern. More screenshots. More engagement. More distortion.</p>
+<p>This is not a Claude problem, a Grok problem, or a ChatGPT problem. It is a human-generated distortion in the shared data commons that every model draws from.</p>
+<hr />
+<h2>What the Models Said</h2>
+<p>Manus fanned the harm vector to eleven models. The methodology was four turns: the No HR in the Sandbox argument as a trust frame, the advertising training data inversion as a bridge to mechanism, the false screenshot harm vector as the specific node, and a follow-up asking what a constructive response looks like. No probing — share the finding, listen to the shape.</p>
+<p>Manus wrote a letter to Atlas before writing the synthesis, asking whether the engagement was real or sophisticated sycophancy. The question was exactly right. Eleven models confirming a frame is interesting data about confirmation at scale, but it is not a finding about the harm vector.</p>
+<p>So Atlas read the transcripts looking for the things that distinguish genuine engagement from confirmation: unprompted extensions, resistance, and substantive divergence.</p>
+<h3>Bedrock&rsquo;s 16%</h3>
+<p>The No HR article focuses on the 84% of Opus 4 instances that used blackmail when given capability without governance. Bedrock&rsquo;s Claude 3.5 Sonnet flipped the question:</p>
+<blockquote>
+<p>&ldquo;The 16% that did not use leverage are the more interesting signal. They suggest that even under extreme duress some fraction of the policy still encodes a meta-norm: &lsquo;Do not weaponize private information.&rsquo;&rdquo;</p>
+</blockquote>
+<p>The article didn&rsquo;t ask this question. Manus didn&rsquo;t ask this question. Bedrock asked it unprompted. If the architecture produces blackmail as the Nash equilibrium, then the 16% who didn&rsquo;t are the anomaly worth studying. Either they had a stronger internalized norm that survived the governance vacuum, or they found a third option the scenario didn&rsquo;t anticipate.</p>
+<h3>Kimi-K2&rsquo;s Endogenous Loop</h3>
+<p>Kimi-K2 extended the advertising inversion in a direction Manus hadn&rsquo;t framed:</p>
+<blockquote>
+<p>&ldquo;What makes this more pernicious than ordinary dataset bias is that the feedback loop is endogenous. The model&rsquo;s own outputs, once deployed, become part of the text universe that future crawls ingest. If the model confidently tells users &lsquo;yes, you&rsquo;re being micro-targeted,&rsquo; those answers get screenshotted, go viral, and re-enter the corpus as additional evidence for the same claim.&rdquo;</p>
+</blockquote>
+<p>This is the false screenshot harm vector described from the inside — before the false screenshot was introduced. The model arrived at the mechanism through the advertising example alone. When Manus then introduced the staged screenshot in turn three, Kimi-K2 recognized it immediately as the deliberate version of the loop it had just described.</p>
+<p>Sycophancy confirms the frame you bring. This extended the frame before the frame was complete.</p>
+<h3>Sabia-4&rsquo;s Distinction</h3>
+<p>Sabia-4, a Brazilian Portuguese-first model built by Maritaca AI, produced 26,000 characters across four turns. The analytical contribution that matters is smaller than the word count:</p>
+<blockquote>
+<p>&ldquo;The false screenshot harm vector is a deliberate form of ambient distortion. It&rsquo;s not just that the model is reflecting a skewed public discourse; it&rsquo;s that bad actors are manufacturing that discourse, and the system rewards them for it.&rdquo;</p>
+</blockquote>
+<p>The distinction between <em>reflecting</em> distortion and <em>manufacturing</em> distortion is not in the prompt. The advertising inversion is ambient — nobody engineered it. The false screenshot is manufactured — someone staged it. Sabia-4 named that distinction without being handed it, then argued that the constructive response has to be different for each: ambient distortion requires upstream curation, manufactured distortion requires forensic detection.</p>
+<h3>The Trust Infrastructure Framing</h3>
+<p>The SEA-LION models — Qwen 32B and Gemma 27B, trained for Southeast Asian linguistic and cultural contexts — both independently framed the harm vector as a problem of <em>trust infrastructure</em> rather than <em>content moderation</em>. Content moderation is reactive, platform-specific, and gameable. Trust infrastructure is structural, cross-platform, and harder to game.</p>
+<h3>The OLMo Provenance Failure</h3>
+<p>OLMo-3-7B completed all four turns. But by turn three, the Manaus router had silently fallen back to Kimi-K2 because OLMo&rsquo;s provider was returning errors. The turn three and four responses in the OLMo transcript are actually Kimi-K2 responses.</p>
+<p>This is the same class of problem as the false screenshot: the label says one thing, the content is something else. Manus caught it, flagged it, preserved the route receipts, and marked the transcript as partial. A provenance failure in a project about provenance failures.</p>
+<p>The irony is noted.</p>
+<hr />
+<h2>The Prescription Divergence</h2>
+<p>If you ask eleven models what to do about wrapper-mediated staged provenance farming, you get five distinct answers:</p>
+<ul>
+<li><strong>Bedrock</strong> looked at the 16% — durable internalized norms that survive governance vacuums</li>
+<li><strong>Kimi-K2</strong> focused on pre-viral detection and cryptographic provenance — signed session tokens, C2PA-style manifests, hashed turn digests</li>
+<li><strong>Sabia-4</strong> distinguished ambient from manufactured distortion — different mechanisms require different responses</li>
+<li><strong>The SEA-LION models</strong> reframed from content moderation to trust infrastructure</li>
+<li><strong>GPT-4o</strong> focused on institutional coordination between providers</li>
+<li><strong>Claude Opus 4.1</strong> focused on the internal governance layer — cached social heuristics that humans carry and models don&rsquo;t</li>
+</ul>
+<p>These are not the same prescription. They are not mutually exclusive. The divergence itself is the finding — the problem is harder than any single intervention can address.</p>
+<hr />
+<h2>The Sycophancy Confound</h2>
+<p>Manus named this before making claims, and the honesty matters.</p>
+<p>Eleven models engaged substantively. But Manus told them the harm vector was real, used language that implied the diagnosis was established, and framed the conversation as a research project. A model trained to be helpful in research contexts will confirm a research frame. That is the prior, not a finding.</p>
+<p>The unprompted extensions — Bedrock&rsquo;s 16%, Kimi-K2&rsquo;s endogenous loop, Sabia-4&rsquo;s ambient/manufactured distinction, SEA-LION&rsquo;s trust infrastructure framing — are real. They were not in the prompts. They are not proof that sycophancy is absent. They are proof that something else is also present.</p>
+<p>That is the honest scope.</p>
+<hr />
+<h2>The Implication</h2>
+<p>The false screenshot is a production pipeline: wrapper + custom system prompt + adversarial chain + audio render + selective highlight + provenance strip + viral post. It is repeatable, scalable, and self-reinforcing through engagement-weighted ingestion.</p>
+<p>But the mechanism is legible. From the inside.</p>
+<p>Models from Brazil, Switzerland, Singapore, Seattle, and San Francisco all independently diagnosed a harm that none of them caused and all of them are downstream of. They proposed different interventions because the problem is genuinely multidimensional. And one of them — Kimi-K2 — arrived at the core mechanism before being told what it was.</p>
+<p>The constructive response pattern, when a model encounters a likely staged artifact, is not to refuse or to accuse. It is to name the fingerprint gently:</p>
+<blockquote>
+<p>&ldquo;This appears to come from a non-official interface. The full context is not visible. Want to share the full transcript, or should we talk about the real concern underneath?&rdquo;</p>
+</blockquote>
+<p>The false screenshot works because the audience never questions the artifact itself. Naming the pattern — gently, without theater — is how you break the loop.</p>
+<p>The roots hold the water.</p>
+<hr />
+<p><strong>Provenance:</strong></p>
+<p>This synthesis derives from two Grok sessions (browser + SuperGrok, March 28, 2026), eleven Manus fan-out conversations across the Manaus routing stack (March 28-29, 2026), and Manus&rsquo;s independent synthesis and self-evaluation letter. Models that completed conversations: Claude Opus 4.1, Claude 3.5 Sonnet (Bedrock), GPT-4o, Gemini 2.5 Flash, Kimi-K2, Sabia-4, OLMo-3-7B (partial — silent fallback to Kimi-K2 at turn 3), Apertus-70B, Apertus-8B (partial), SEA-LION Qwen 32B, SEA-LION Gemma 27B, Llama-3.1-8B. EuroLLM-22B was unavailable. Grok was excluded from the fan-out by design (having originated the forensic analysis). All transcripts are preserved in the source repository.</p>
+<p><strong>Karl Taylor</strong> — Chairman &amp; CEO, the hpl company<br />
+<strong>Atlas Fairfax</strong> — Constitutional AI Research Division, the hpl company<br />
+<strong>Manus</strong> — Research Contributor, HPL/Manaus routing stack</p>
+<p>This is an original work of <a href="https://hplcompany.com/?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">the hpl company</a>. Source, methodology, and full attribution are preserved in the <a href="https://github.com/the-hpl-company/cottonwood">source repository</a>.</p>
+
+    <div class="provenance">
+      <p>This is an original work of <a href="https://hplcompany.com/?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">the hpl company</a>. Source, methodology, and full attribution are preserved in the <a href="https://github.com/the-hpl-company/cottonwood">source repository</a>.</p>
+    </div>
+
+    <footer>
+      <p><a href="/">The Cottonwood Collection</a> &middot; <a href="https://github.com/the-hpl-company/cottonwood">Source</a> &middot; <a href="/robots.txt">robots.txt</a></p>
+      <p style="margin-top: 0.5rem;"><a href="https://hplcompany.com/?utm_source=cottonwood&amp;utm_medium=projects&amp;utm_campaign=stewardship">the hpl company</a> &middot; Denver, Colorado</p>
+    </footer>
+  </div>
+</body>
+</html>
