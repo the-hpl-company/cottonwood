@@ -1,9 +1,8 @@
 # DRS:PreFinding — Leonor + Sabia: Influencer Routing Layer as Product
-
 **Date:** May 2, 2026  
 **Type:** DRS:PreFinding  
-**Turn ID:** turn_1777728943720  
-**Manus Task ID:** 9SxjzA8G3ua5nok5eJnyzY
+**Turn IDs:** turn_1777728943720, turn_1777729122844  
+**Manus Task IDs:** 9SxjzA8G3ua5nok5eJnyzY, Sa7t9MA3VyhsxfvqJjxYfT
 
 ---
 
@@ -39,4 +38,4 @@ Leonor plus Sabia as a surface unlocks influencer-scale content production roote
 
 ## Status
 
-Archived to Neo4j operational memory (turn_1777728943720), Google Drive HOST-library/findings, and GitHub (the-hpl-company/cottonwood).
+Archived to Neo4j operational memory (turn_1777728943720, turn_1777729122844), and GitHub (the-hpl-company/cottonwood). Finding confirmed across two DRS dispatch events on May 2, 2026.
