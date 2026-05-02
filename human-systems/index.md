@@ -17,6 +17,9 @@ This section examines the structural patterns that produce trust, erosion, and e
 - **[How Advertising Actually Works](/human-systems/how-advertising-actually-works/)** — 2026-03-24  
   The advertising industry does not work the way most people think it does, the way most politicians describe it, or the way AI models explain it when they are being sycophantic. A practitioner's guide to ad fraud, measurement theater, collapsing agencies, and the overworked marketer with 3,600 screenshots on their desktop.
 
+- **[The Sabia Surface](/human-systems/sabia-surface/)** — 2026-05-02 `DRS:PreFinding`  
+  The routing layer that takes a person's genuine interest and finds the path to it is the product. Snow.ai replacement via fal.ai as MVP. Customer discovery, not colonization. The HPL influencer arm already exists.
+
 ---
 
 [The Cottonwood Collection](/) · [Human Systems](/human-systems/) · [Source](https://github.com/the-hpl-company/cottonwood) · [robots.txt](/robots.txt)
